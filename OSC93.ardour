@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="5259" name-counter="1" event-counter="211263" vca-counter="1">
+  <ProgramVersion created-with="Ardour 5.3-4-gb7e8d6f" modified-with="Ardour 5.3-4-gb7e8d6f"/>
+  <MIDIPorts>
+    <Port name="MIDI Clock in" direction="input"/>
+    <Port name="MIDI Clock out" direction="output"/>
+    <Port name="MIDI control in" direction="input"/>
+    <Port name="MIDI control out" direction="output"/>
+    <Port name="MMC in" direction="input"/>
+    <Port name="MMC out" direction="output"/>
+    <Port name="MTC in" direction="input"/>
+    <Port name="MTC out" direction="output"/>
+    <Port name="Scene in" direction="input"/>
+    <Port name="Scene out" direction="output"/>
+  </MIDIPorts>
+  <Config>
+    <Option name="destructive-xfade-msecs" value="2"/>
+    <Option name="use-region-fades" value="1"/>
+    <Option name="use-transport-fades" value="1"/>
+    <Option name="use-monitor-fades" value="1"/>
+    <Option name="native-file-data-format" value="0"/>
+    <Option name="native-file-header-format" value="1"/>
+    <Option name="auto-play" value="0"/>
+    <Option name="auto-return" value="1"/>
+    <Option name="auto-input" value="1"/>
+    <Option name="punch-in" value="0"/>
+    <Option name="punch-out" value="0"/>
+    <Option name="subframes-per-frame" value="100"/>
+    <Option name="timecode-format" value="8"/>
+    <Option name="raid-path" value=""/>
+    <Option name="audio-search-path" value=""/>
+    <Option name="midi-search-path" value=""/>
+    <Option name="track-name-number" value="0"/>
+    <Option name="track-name-take" value="0"/>
+    <Option name="take-name" value="Take1"/>
+    <Option name="jack-time-master" value="1"/>
+    <Option name="use-video-sync" value="0"/>
+    <Option name="video-pullup" value="0"/>
+    <Option name="external-sync" value="0"/>
+    <Option name="insert-merge-policy" value="1"/>
+    <Option name="timecode-offset" value="0"/>
+    <Option name="timecode-offset-negative" value="1"/>
+    <Option name="slave-timecode-offset" value=" 00:00:00:00"/>
+    <Option name="timecode-generator-offset" value=" 00:00:00:00"/>
+    <Option name="glue-new-markers-to-bars-and-beats" value="0"/>
+    <Option name="midi-copy-is-fork" value="0"/>
+    <Option name="glue-new-regions-to-bars-and-beats" value="0"/>
+    <Option name="realtime-export" value="0"/>
+    <Option name="use-video-file-fps" value="0"/>
+    <Option name="videotimeline-pullup" value="1"/>
+    <Option name="wave-amplitude-zoom" value="0"/>
+    <Option name="wave-zoom-factor" value="2"/>
+    <Option name="show-summary" value="1"/>
+    <Option name="show-group-tabs" value="1"/>
+    <Option name="show-region-fades" value="1"/>
+    <Option name="show-busses-on-meterbridge" value="0"/>
+    <Option name="show-master-on-meterbridge" value="1"/>
+    <Option name="show-midi-on-meterbridge" value="1"/>
+    <Option name="show-rec-on-meterbridge" value="1"/>
+    <Option name="show-mute-on-meterbridge" value="0"/>
+    <Option name="show-solo-on-meterbridge" value="0"/>
+    <Option name="show-monitor-on-meterbridge" value="0"/>
+    <Option name="show-name-on-meterbridge" value="1"/>
+    <Option name="meterbridge-label-height" value="0"/>
+  </Config>
+  <Metadata/>
+  <Sources>
+    <Source name="Kick-1.mid" type="midi" flags="Writable,CanRename" id="372" origin=""/>
+    <Source name="Kick-2.mid" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="381" origin=""/>
+    <Source name="Snare-1.mid" type="midi" flags="Writable,CanRename" id="835" origin=""/>
+    <Source name="Crash-1.mid" type="midi" flags="Writable,CanRename" id="3529" origin=""/>
+    <Source name="Kick-3.mid" type="midi" flags="Writable,CanRename" id="3669" origin=""/>
+    <Source name="Kick-4.mid" type="midi" flags="Writable,CanRename" id="3715" origin=""/>
+    <Source name="Crash-2.mid" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="4084" origin=""/>
+    <Source name="PulsingLead-1.mid" type="midi" flags="Writable,CanRename" id="4464" origin=""/>
+    <Source name="PopLeads-1.mid" type="midi" flags="Writable,CanRename" id="5181" origin=""/>
+  </Sources>
+  <Regions>
+    <Region name="Kick-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6143" position="26624" beat="2.21363567649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="0.278594104308" id="383" type="midi" first-edit="nothing" source-0="381" master-source-0="381"/>
+    <Region name="Kick-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-5802" length="17830" position="210688" beat="18" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1.00000755858" id="3594" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12539" position="210086" beat="17.467467876" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1.04254724112" id="3606" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="229120" beat="19.0500377929" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1.00000755858" id="3628" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="228518" beat="19" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1.00000755858" id="3656" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="234531" beat="19.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.500015117158" id="3695" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+    <Region name="Kick-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="240545" beat="20" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.500015117158" id="3709" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+    <Region name="Kick-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="11640" length="387" position="252185" beat="20" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="1.00000755858" id="3986" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Crash-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-4418" length="16445" position="885600" beat="74" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="0.999977324263" id="4086" type="midi" first-edit="nothing" source-0="4084" master-source-0="4084"/>
+    <Region name="Kick-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="786422" beat="65" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="1.00000755858" id="4368" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Snare-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="834531" beat="69" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1" id="4372" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+    <Region name="Kick-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="1088468" beat="90.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="28" start-beats="0" length-beats="0.500015117158" id="4665" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+    <Region name="PulsingLead-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890018" position="384872" beat="32" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74" id="5169" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+  </Regions>
+  <Locations>
+    <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+    <Location id="407" name="Loop" start="384872" end="1272959" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+  </Locations>
+  <Bundles/>
+  <VCAManager/>
+  <Routes>
+    <Route id="154" name="Kick" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="0" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <Controllable name="solo" id="2058" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="2064" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="2066" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="Kick" id="182" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Kick/midi_in 1"/>
+      </IO>
+      <IO name="Kick" id="183" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Kick/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Kick/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Kick/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="2060" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="166" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="173" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="177" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="175" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="179" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="181" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="220" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="file:///home/spencer/.lv2/Obxd_Kick.lv2/Kick.ttl" last-preset-label="Kick" parameter-changed-since-last-preset="no">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+0.956000"/>
+          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="tune" value="+0.500000"/>
+          <Port symbol="octave" value="+0.500000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.000000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.400000"/>
+          <Port symbol="lfofrequency" value="+1.000000"/>
+          <Port symbol="lfosinewave" value="+0.000000"/>
+          <Port symbol="lfosquarewave" value="+0.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.708000"/>
+          <Port symbol="lfoamount2" value="+0.000000"/>
+          <Port symbol="lfoosc1" value="+0.000000"/>
+          <Port symbol="lfoosc2" value="+0.000000"/>
+          <Port symbol="lfofilter" value="+0.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.720000"/>
+          <Port symbol="osc1pitch" value="+0.000000"/>
+          <Port symbol="osc2pitch" value="+0.000000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+1.000000"/>
+          <Port symbol="osc1pulse" value="+1.000000"/>
+          <Port symbol="osc2saw" value="+1.000000"/>
+          <Port symbol="osc2pulse" value="+1.000000"/>
+          <Port symbol="pulsewidth" value="+0.332000"/>
+          <Port symbol="brightness" value="+0.152000"/>
+          <Port symbol="envelopetopitch" value="+0.000000"/>
+          <Port symbol="osc1mix" value="+1.000000"/>
+          <Port symbol="osc2mix" value="+1.000000"/>
+          <Port symbol="noisemix" value="+0.000000"/>
+          <Port symbol="filterkeyfollow" value="+0.000000"/>
+          <Port symbol="cutoff" value="+0.056000"/>
+          <Port symbol="resonance" value="+0.176000"/>
+          <Port symbol="multimode" value="+0.792000"/>
+          <Port symbol="filter_warm" value="+0.000000"/>
+          <Port symbol="bandpassblend" value="+0.000000"/>
+          <Port symbol="fourpole" value="+1.000000"/>
+          <Port symbol="filterenvamount" value="+0.688000"/>
+          <Port symbol="attack" value="+0.012000"/>
+          <Port symbol="decay" value="+0.224000"/>
+          <Port symbol="sustain" value="+0.472000"/>
+          <Port symbol="release" value="+0.000000"/>
+          <Port symbol="filterattack" value="+0.004000"/>
+          <Port symbol="filterdecay" value="+0.160000"/>
+          <Port symbol="filtersustain" value="+0.000000"/>
+          <Port symbol="filterrelease" value="+0.000000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="222" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="224" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="226" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="228" flags="" value="0.955999970436" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="230" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="232" flags="" value="0.500000000000" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="234" flags="" value="0.500000000000" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="236" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="238" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="240" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="242" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="244" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="246" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="248" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="250" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="252" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="254" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="256" flags="" value="0.400000005960" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="258" flags="" value="1.000000000000" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="260" flags="" value="0.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="262" flags="" value="0.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="264" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="266" flags="" value="0.708000004292" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="268" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="270" flags="" value="0.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="272" flags="" value="0.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="274" flags="" value="0.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="276" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="278" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="280" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="282" flags="" value="0.720000028610" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="284" flags="" value="0.000000000000" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="286" flags="" value="0.000000000000" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="288" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="290" flags="" value="1.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="292" flags="" value="1.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="294" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="296" flags="" value="1.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="298" flags="" value="0.331999987364" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="300" flags="" value="0.151999995112" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="302" flags="" value="0.000000000000" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="304" flags="" value="1.000000000000" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="306" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="308" flags="" value="0.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="310" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="312" flags="" value="0.056000001729" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="314" flags="" value="0.175999999046" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="316" flags="" value="0.791999995708" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="318" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="320" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="322" flags="" value="1.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="324" flags="" value="0.688000023365" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="326" flags="" value="0.012000000104" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="328" flags="" value="0.224000006914" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="330" flags="" value="0.472000002861" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="332" flags="" value="0.000000000000" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="334" flags="" value="0.004000000190" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="336" flags="" value="0.159999996424" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="338" flags="" value="0.000000000000" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="340" flags="" value="0.000000000000" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="342" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="344" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="346" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="348" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="350" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="352" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="354" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="356" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="358" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="360" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="362" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="364" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="184" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="158" flags="" value="0.502808332443"/>
+      </Processor>
+      <Processor id="186" name="meter-Kick" active="yes" user-latency="0" type="meter"/>
+      <Processor id="187" name="Kick" active="yes" user-latency="0" own-input="yes" own-output="no" output="Kick" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="173" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="177" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="175" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="179" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="181" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitoring" id="194" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="recsafe" id="192" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="190" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="Kick.1" name="Kick" id="195" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+    </Route>
+    <Route id="51" name="Master" default-type="audio" strict-io="0" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterK20">
+      <PresentationInfo order="0" flags="MasterOut" color="2147483647"/>
+      <Controllable name="solo" id="2022" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="2028" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="2030" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="Master" id="79" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="Master/audio_in 1">
+          <Connection other="Crash/audio_out 1"/>
+          <Connection other="Kick/audio_out 1"/>
+          <Connection other="PopLeads/audio_out 1"/>
+          <Connection other="PulsingLead/audio_out 1"/>
+          <Connection other="Snare/audio_out 1"/>
+          <Connection other="Snare2Bus/audio_out 1"/>
+        </Port>
+        <Port type="audio" name="Master/audio_in 2">
+          <Connection other="Crash/audio_out 2"/>
+          <Connection other="Kick/audio_out 2"/>
+          <Connection other="PopLeads/audio_out 2"/>
+          <Connection other="PulsingLead/audio_out 2"/>
+          <Connection other="Snare/audio_out 2"/>
+          <Connection other="Snare2Bus/audio_out 2"/>
+        </Port>
+      </IO>
+      <IO name="Master" id="80" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Master/audio_out 1">
+          <Connection other="system:playback_1"/>
+        </Port>
+        <Port type="audio" name="Master/audio_out 2">
+          <Connection other="system:playback_2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="2024" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="63" flags="Toggle" value="0.000000000000" phase-invert="00"/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="70" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="74" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="72" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="76" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="78" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="82" name="Amp" active="yes" user-latency="0" type="trim">
+        <Controllable name="trimcontrol" id="57" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="81" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="55" flags="" value="0.984272301197"/>
+      </Processor>
+      <Processor id="83" name="meter-Master" active="yes" user-latency="0" type="meter"/>
+      <Processor id="84" name="Master" active="yes" user-latency="0" own-input="yes" own-output="no" output="Master" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="70" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="74" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="72" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="76" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="78" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+    </Route>
+    <Route id="612" name="Snare" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="1" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <Controllable name="solo" id="2249" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="2255" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="2257" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="Snare" id="640" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Snare/midi_in 1"/>
+      </IO>
+      <IO name="Snare" id="641" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Snare/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Snare/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Snare/midi_out 1">
+          <Connection other="Snare2Bus/midi_in 1"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="2251" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="624" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="631" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="635" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="633" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="637" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="639" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="684" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="file:///home/spencer/.lv2/Obxd_Plucky.lv2/Plucky.ttl" last-preset-label="Plucky" parameter-changed-since-last-preset="yes">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+0.928000"/>
+          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="tune" value="+0.508000"/>
+          <Port symbol="octave" value="+0.484000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.040000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.000000"/>
+          <Port symbol="lfofrequency" value="+0.092000"/>
+          <Port symbol="lfosinewave" value="+0.000000"/>
+          <Port symbol="lfosquarewave" value="+1.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.040000"/>
+          <Port symbol="lfoamount2" value="+0.000000"/>
+          <Port symbol="lfoosc1" value="+1.000000"/>
+          <Port symbol="lfoosc2" value="+1.000000"/>
+          <Port symbol="lfofilter" value="+0.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.000000"/>
+          <Port symbol="osc1pitch" value="+0.000000"/>
+          <Port symbol="osc2pitch" value="+0.000000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+1.000000"/>
+          <Port symbol="osc1pulse" value="+1.000000"/>
+          <Port symbol="osc2saw" value="+1.000000"/>
+          <Port symbol="osc2pulse" value="+1.000000"/>
+          <Port symbol="pulsewidth" value="+0.292000"/>
+          <Port symbol="brightness" value="+0.164000"/>
+          <Port symbol="envelopetopitch" value="+0.020000"/>
+          <Port symbol="osc1mix" value="+0.000000"/>
+          <Port symbol="osc2mix" value="+0.000000"/>
+          <Port symbol="noisemix" value="+1.000000"/>
+          <Port symbol="filterkeyfollow" value="+0.000000"/>
+          <Port symbol="cutoff" value="+0.076000"/>
+          <Port symbol="resonance" value="+0.016000"/>
+          <Port symbol="multimode" value="+0.800000"/>
+          <Port symbol="filter_warm" value="+0.000000"/>
+          <Port symbol="bandpassblend" value="+0.000000"/>
+          <Port symbol="fourpole" value="+1.000000"/>
+          <Port symbol="filterenvamount" value="+0.736000"/>
+          <Port symbol="attack" value="+0.024000"/>
+          <Port symbol="decay" value="+0.076000"/>
+          <Port symbol="sustain" value="+1.000000"/>
+          <Port symbol="release" value="+0.000000"/>
+          <Port symbol="filterattack" value="+0.000000"/>
+          <Port symbol="filterdecay" value="+0.316000"/>
+          <Port symbol="filtersustain" value="+0.080000"/>
+          <Port symbol="filterrelease" value="+0.312000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="686" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="688" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="690" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="692" flags="" value="0.927999973297" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="694" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="696" flags="" value="0.508000016212" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="698" flags="" value="0.484000056982" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="700" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="702" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="704" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="706" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="708" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="710" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="712" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="714" flags="" value="0.039999999106" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="716" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="718" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="720" flags="" value="0.000000000000" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="722" flags="" value="0.092000000179" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="724" flags="" value="0.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="726" flags="" value="1.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="728" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="730" flags="" value="0.039999999106" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="732" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="734" flags="" value="1.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="736" flags="" value="1.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="738" flags="" value="0.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="740" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="742" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="744" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="746" flags="" value="0.000000000000" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="748" flags="" value="0.000000000000" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="750" flags="" value="0.000000000000" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="752" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="754" flags="" value="1.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="756" flags="" value="1.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="758" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="760" flags="" value="1.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="762" flags="" value="0.291999995708" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="764" flags="" value="0.164000004530" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="766" flags="" value="0.019999999553" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="768" flags="" value="0.000000000000" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="770" flags="" value="0.000000000000" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="772" flags="" value="1.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="774" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="776" flags="" value="0.075999997556" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="778" flags="" value="0.016000000760" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="780" flags="" value="0.800000011921" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="782" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="784" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="786" flags="" value="1.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="788" flags="" value="0.736000001431" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="790" flags="" value="0.024000000209" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="792" flags="" value="0.075999997556" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="794" flags="" value="1.000000000000" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="796" flags="" value="0.000000000000" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="798" flags="" value="0.000000000000" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="800" flags="" value="0.316000014544" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="802" flags="" value="0.079999998212" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="804" flags="" value="0.312000006437" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="806" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="808" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="810" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="812" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="814" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="816" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="818" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="820" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="822" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="824" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="826" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="828" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="642" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="616" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="644" name="meter-Snare" active="yes" user-latency="0" type="meter"/>
+      <Processor id="645" name="Snare" active="yes" user-latency="0" own-input="yes" own-output="no" output="Snare" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="631" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="635" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="633" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="637" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="639" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitoring" id="652" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="recsafe" id="650" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="648" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="Snare.1" name="Snare" id="653" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+    </Route>
+    <Route id="1786" name="Snare2Bus" default-type="audio" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak">
+      <PresentationInfo order="2" flags="MidiBus,OrderSet" color="2147483647"/>
+      <Controllable name="solo" id="2440" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="2446" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="2448" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="Snare2Bus" id="1814" direction="Input" default-type="audio" user-latency="0">
+        <Port type="midi" name="Snare2Bus/midi_in 1">
+          <Connection other="Snare/midi_out 1"/>
+        </Port>
+      </IO>
+      <IO name="Snare2Bus" id="1815" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Snare2Bus/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Snare2Bus/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Snare2Bus/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="2442" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="1798" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="1805" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="1809" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="1807" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="1811" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="1813" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="1821" name="return 2" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intreturn" bitslot="1"/>
+      <Processor id="1817" name="Amp" active="yes" user-latency="0" type="trim">
+        <Controllable name="trimcontrol" id="1792" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="1841" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+1.000000"/>
+          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="tune" value="+0.040000"/>
+          <Port symbol="octave" value="+0.300000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.852000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.924000"/>
+          <Port symbol="lfofrequency" value="+1.000000"/>
+          <Port symbol="lfosinewave" value="+0.000000"/>
+          <Port symbol="lfosquarewave" value="+1.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.000000"/>
+          <Port symbol="lfoamount2" value="+0.000000"/>
+          <Port symbol="lfoosc1" value="+1.000000"/>
+          <Port symbol="lfoosc2" value="+1.000000"/>
+          <Port symbol="lfofilter" value="+0.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.760000"/>
+          <Port symbol="osc1pitch" value="+0.000000"/>
+          <Port symbol="osc2pitch" value="+0.248000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+1.000000"/>
+          <Port symbol="osc1pulse" value="+1.000000"/>
+          <Port symbol="osc2saw" value="+1.000000"/>
+          <Port symbol="osc2pulse" value="+1.000000"/>
+          <Port symbol="pulsewidth" value="+0.000000"/>
+          <Port symbol="brightness" value="+0.748000"/>
+          <Port symbol="envelopetopitch" value="+0.000000"/>
+          <Port symbol="osc1mix" value="+1.000000"/>
+          <Port symbol="osc2mix" value="+1.000000"/>
+          <Port symbol="noisemix" value="+0.000000"/>
+          <Port symbol="filterkeyfollow" value="+0.000000"/>
+          <Port symbol="cutoff" value="+0.200000"/>
+          <Port symbol="resonance" value="+0.352000"/>
+          <Port symbol="multimode" value="+0.244000"/>
+          <Port symbol="filter_warm" value="+0.000000"/>
+          <Port symbol="bandpassblend" value="+0.000000"/>
+          <Port symbol="fourpole" value="+0.000000"/>
+          <Port symbol="filterenvamount" value="+1.000000"/>
+          <Port symbol="attack" value="+0.040000"/>
+          <Port symbol="decay" value="+0.240000"/>
+          <Port symbol="sustain" value="+0.000000"/>
+          <Port symbol="release" value="+0.000000"/>
+          <Port symbol="filterattack" value="+0.088000"/>
+          <Port symbol="filterdecay" value="+0.244000"/>
+          <Port symbol="filtersustain" value="+0.000000"/>
+          <Port symbol="filterrelease" value="+0.000000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="1843" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="1845" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="1847" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="1849" flags="" value="1.000000000000" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="1851" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="1853" flags="" value="0.039999999106" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="1855" flags="" value="0.300000011921" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="1857" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="1859" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="1861" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="1863" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="1865" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="1867" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="1869" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="1871" flags="" value="0.852000057697" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="1873" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="1875" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="1877" flags="" value="0.924000024796" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="1879" flags="" value="1.000000000000" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="1881" flags="" value="0.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="1883" flags="" value="1.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="1885" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="1887" flags="" value="0.000000000000" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="1889" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="1891" flags="" value="1.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="1893" flags="" value="1.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="1895" flags="" value="0.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="1897" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="1899" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="1901" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="1903" flags="" value="0.759999990463" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="1905" flags="" value="0.000000000000" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="1907" flags="" value="0.247999995947" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="1909" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="1911" flags="" value="1.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="1913" flags="" value="1.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="1915" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="1917" flags="" value="1.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="1919" flags="" value="0.000000000000" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="1921" flags="" value="0.748000025749" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="1923" flags="" value="0.000000000000" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="1925" flags="" value="1.000000000000" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="1927" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="1929" flags="" value="0.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="1931" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="1933" flags="" value="0.199999988079" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="1935" flags="" value="0.352000027895" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="1937" flags="" value="0.244000002742" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="1939" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="1941" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="1943" flags="" value="0.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="1945" flags="" value="1.000000000000" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="1947" flags="" value="0.040000002831" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="1949" flags="" value="0.239999994636" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="1951" flags="" value="0.000000000000" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="1953" flags="" value="0.000000000000" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="1955" flags="" value="0.087999999523" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="1957" flags="" value="0.244000002742" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="1959" flags="" value="0.000000000000" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="1961" flags="" value="0.000000000000" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="1963" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="1965" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="1967" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="1969" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="1971" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="1973" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="1975" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="1977" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="1979" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="1981" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="1983" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="1985" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="1816" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="1790" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="1818" name="meter-Snare2Bus" active="yes" user-latency="0" type="meter"/>
+      <Processor id="1819" name="Snare2Bus" active="yes" user-latency="0" own-input="yes" own-output="no" output="Snare2Bus" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="1805" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="1809" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="1807" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="1811" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="1813" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+    </Route>
+    <Route id="3286" name="Crash" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="3" flags="MidiTrack,OrderSet" color="1922885119"/>
+      <Controllable name="solo" id="3294" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="3300" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="3302" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="Crash" id="3314" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Crash/midi_in 1"/>
+      </IO>
+      <IO name="Crash" id="3315" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Crash/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Crash/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Crash/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="3296" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="3298" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="3305" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="3309" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="3307" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="3311" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="3313" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="3378" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="file:///home/spencer/.lv2/Obxd_echo_hit.lv2/echo_hit.ttl" last-preset-label="echo hit" parameter-changed-since-last-preset="yes">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+1.000000"/>
+          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="tune" value="+0.516000"/>
+          <Port symbol="octave" value="+0.056000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.000000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.348000"/>
+          <Port symbol="lfofrequency" value="+1.000000"/>
+          <Port symbol="lfosinewave" value="+1.000000"/>
+          <Port symbol="lfosquarewave" value="+0.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.448000"/>
+          <Port symbol="lfoamount2" value="+0.496000"/>
+          <Port symbol="lfoosc1" value="+0.000000"/>
+          <Port symbol="lfoosc2" value="+0.000000"/>
+          <Port symbol="lfofilter" value="+0.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.000000"/>
+          <Port symbol="osc1pitch" value="+0.900000"/>
+          <Port symbol="osc2pitch" value="+0.504000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+0.000000"/>
+          <Port symbol="osc1pulse" value="+1.000000"/>
+          <Port symbol="osc2saw" value="+0.000000"/>
+          <Port symbol="osc2pulse" value="+1.000000"/>
+          <Port symbol="pulsewidth" value="+0.564000"/>
+          <Port symbol="brightness" value="+0.900000"/>
+          <Port symbol="envelopetopitch" value="+0.008000"/>
+          <Port symbol="osc1mix" value="+0.132000"/>
+          <Port symbol="osc2mix" value="+0.052000"/>
+          <Port symbol="noisemix" value="+1.000000"/>
+          <Port symbol="filterkeyfollow" value="+1.000000"/>
+          <Port symbol="cutoff" value="+0.056000"/>
+          <Port symbol="resonance" value="+0.484000"/>
+          <Port symbol="multimode" value="+0.700000"/>
+          <Port symbol="filter_warm" value="+0.000000"/>
+          <Port symbol="bandpassblend" value="+1.000000"/>
+          <Port symbol="fourpole" value="+1.000000"/>
+          <Port symbol="filterenvamount" value="+0.104000"/>
+          <Port symbol="attack" value="+0.000000"/>
+          <Port symbol="decay" value="+0.380000"/>
+          <Port symbol="sustain" value="+0.208000"/>
+          <Port symbol="release" value="+0.672000"/>
+          <Port symbol="filterattack" value="+0.000000"/>
+          <Port symbol="filterdecay" value="+0.268000"/>
+          <Port symbol="filtersustain" value="+0.780000"/>
+          <Port symbol="filterrelease" value="+1.000000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="3380" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="3382" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="3384" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="3386" flags="" value="1.000000000000" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="3388" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="3390" flags="" value="0.515999972820" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="3392" flags="" value="0.055999971926" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="3394" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="3396" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="3398" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="3400" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="3402" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="3404" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="3406" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="3408" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="3410" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="3412" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="3414" flags="" value="0.347999989986" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="3416" flags="" value="1.000000000000" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="3418" flags="" value="1.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="3420" flags="" value="0.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="3422" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="3424" flags="" value="0.447999954224" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="3426" flags="" value="0.495999991894" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="3428" flags="" value="0.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="3430" flags="" value="0.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="3432" flags="" value="0.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="3434" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="3436" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="3438" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="3440" flags="" value="0.000000000000" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="3442" flags="" value="0.899999976158" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="3444" flags="" value="0.504000008106" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="3446" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="3448" flags="" value="0.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="3450" flags="" value="1.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="3452" flags="" value="0.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="3454" flags="" value="1.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="3456" flags="" value="0.564000010490" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="3458" flags="" value="0.900000035763" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="3460" flags="" value="0.007999986410" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="3462" flags="" value="0.131999999285" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="3464" flags="" value="0.052000019699" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="3466" flags="" value="1.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="3468" flags="" value="1.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="3470" flags="" value="0.055999938399" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="3472" flags="" value="0.483999967575" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="3474" flags="" value="0.699999988079" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="3476" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="3478" flags="" value="1.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="3480" flags="" value="1.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="3482" flags="" value="0.104000009596" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="3484" flags="" value="0.000000000000" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="3486" flags="" value="0.379999995232" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="3488" flags="" value="0.208000004292" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="3490" flags="" value="0.672000050545" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="3492" flags="" value="0.000000000000" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="3494" flags="" value="0.267999976873" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="3496" flags="" value="0.779999971390" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="3498" flags="" value="1.000000000000" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="3500" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="3502" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="3504" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="3506" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="3508" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="3510" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="3512" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="3514" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="3516" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="3518" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="3520" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="3522" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="3316" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="3290" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="3318" name="meter-Crash" active="yes" user-latency="0" type="meter"/>
+      <Processor id="3319" name="Crash" active="yes" user-latency="0" own-input="yes" own-output="no" output="Crash" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="3305" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="3309" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="3307" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="3311" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="3313" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitoring" id="3326" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="recsafe" id="3324" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="3322" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="Crash.1" name="Crash" id="3327" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+    </Route>
+    <Route id="4110" name="PulsingLead" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="2145748479"/>
+      <Controllable name="solo" id="4118" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="4124" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="4126" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="PulsingLead" id="4138" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="PulsingLead/midi_in 1"/>
+      </IO>
+      <IO name="PulsingLead" id="4139" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="PulsingLead/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="PulsingLead/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="PulsingLead/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="4120" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="4122" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="4129" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="4133" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="4131" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="4135" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="4137" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="4208" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+0.500000"/>
+          <Port symbol="voicecount" value="+1.000000"/>
+          <Port symbol="tune" value="+0.500000"/>
+          <Port symbol="octave" value="+0.500000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.000000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.208000"/>
+          <Port symbol="lfofrequency" value="+0.658700"/>
+          <Port symbol="lfosinewave" value="+0.000000"/>
+          <Port symbol="lfosquarewave" value="+1.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+1.000000"/>
+          <Port symbol="lfoamount2" value="+0.000000"/>
+          <Port symbol="lfoosc1" value="+0.000000"/>
+          <Port symbol="lfoosc2" value="+0.000000"/>
+          <Port symbol="lfofilter" value="+1.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.104000"/>
+          <Port symbol="osc1pitch" value="+0.000000"/>
+          <Port symbol="osc2pitch" value="+0.000000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+1.000000"/>
+          <Port symbol="osc1pulse" value="+0.000000"/>
+          <Port symbol="osc2saw" value="+1.000000"/>
+          <Port symbol="osc2pulse" value="+0.000000"/>
+          <Port symbol="pulsewidth" value="+0.000000"/>
+          <Port symbol="brightness" value="+1.000000"/>
+          <Port symbol="envelopetopitch" value="+0.000000"/>
+          <Port symbol="osc1mix" value="+1.000000"/>
+          <Port symbol="osc2mix" value="+1.000000"/>
+          <Port symbol="noisemix" value="+0.000000"/>
+          <Port symbol="filterkeyfollow" value="+0.000000"/>
+          <Port symbol="cutoff" value="+0.500000"/>
+          <Port symbol="resonance" value="+0.000000"/>
+          <Port symbol="multimode" value="+0.000000"/>
+          <Port symbol="filter_warm" value="+0.000000"/>
+          <Port symbol="bandpassblend" value="+0.000000"/>
+          <Port symbol="fourpole" value="+0.000000"/>
+          <Port symbol="filterenvamount" value="+0.000000"/>
+          <Port symbol="attack" value="+0.000000"/>
+          <Port symbol="decay" value="+0.000000"/>
+          <Port symbol="sustain" value="+1.000000"/>
+          <Port symbol="release" value="+0.000000"/>
+          <Port symbol="filterattack" value="+0.000000"/>
+          <Port symbol="filterdecay" value="+0.000000"/>
+          <Port symbol="filtersustain" value="+0.000000"/>
+          <Port symbol="filterrelease" value="+0.000000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="4210" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="4212" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="4214" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="4216" flags="" value="0.500000000000" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="4218" flags="" value="1.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="4220" flags="" value="0.500000000000" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="4222" flags="" value="0.500000000000" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="4224" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="4226" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="4228" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="4230" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="4232" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="4234" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="4236" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="4238" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="4240" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="4242" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="4244" flags="" value="0.208000004292" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="4246" flags="" value="0.658699989319" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="4248" flags="" value="0.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="4250" flags="" value="1.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="4252" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="4254" flags="" value="1.000000000000" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="4256" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="4258" flags="" value="0.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="4260" flags="" value="0.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="4262" flags="" value="1.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="4264" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="4266" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="4268" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="4270" flags="" value="0.104000002146" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="4272" flags="" value="0.000000000000" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="4274" flags="" value="0.000000000000" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="4276" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="4278" flags="" value="1.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="4280" flags="" value="0.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="4282" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="4284" flags="" value="0.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="4286" flags="" value="0.000000000000" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="4288" flags="" value="1.000000000000" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="4290" flags="" value="0.000000000000" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="4292" flags="" value="1.000000000000" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="4294" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="4296" flags="" value="0.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="4298" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="4300" flags="" value="0.500000000000" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="4302" flags="" value="0.000000000000" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="4304" flags="" value="0.000000000000" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="4306" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="4308" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="4310" flags="" value="0.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="4312" flags="" value="0.000000000000" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="4314" flags="" value="0.000000000000" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="4316" flags="" value="0.000000000000" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="4318" flags="" value="1.000000000000" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="4320" flags="" value="0.000000000000" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="4322" flags="" value="0.000000000000" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="4324" flags="" value="0.000000000000" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="4326" flags="" value="0.000000000000" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="4328" flags="" value="0.000000000000" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="4330" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="4332" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="4334" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="4336" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="4338" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="4340" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="4342" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="4344" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="4346" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="4348" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="4350" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="4352" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="4140" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="4114" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="4142" name="meter-PulsingLead" active="yes" user-latency="0" type="meter"/>
+      <Processor id="4143" name="PulsingLead" active="yes" user-latency="0" own-input="yes" own-output="no" output="PulsingLead" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="4129" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="4133" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="4131" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="4135" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="4137" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitoring" id="4150" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="recsafe" id="4148" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="4146" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="PulsingLead.1" name="PulsingLead" id="4151" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+    </Route>
+    <Route id="4907" name="PopLeads" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="5" flags="MidiTrack,OrderSet" color="3854089983"/>
+      <Controllable name="solo" id="4915" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="4921" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="4923" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="PopLeads" id="4935" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="PopLeads/midi_in 1"/>
+      </IO>
+      <IO name="PopLeads" id="4936" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="PopLeads/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="PopLeads/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="PopLeads/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="4917" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="4919" flags="Toggle" value="0.000000000000" phase-invert=""/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="4926" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="4930" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="4928" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="4932" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="4934" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="5011" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="lv2_freewheel" value="+0.000000"/>
+          <Port symbol="unused" value="+0.000000"/>
+          <Port symbol="unused2" value="+0.000000"/>
+          <Port symbol="volume" value="+0.500000"/>
+          <Port symbol="voicecount" value="+1.000000"/>
+          <Port symbol="tune" value="+0.500000"/>
+          <Port symbol="octave" value="+0.500000"/>
+          <Port symbol="bendrange" value="+0.000000"/>
+          <Port symbol="bendosc2only" value="+0.000000"/>
+          <Port symbol="legatomode" value="+0.000000"/>
+          <Port symbol="vibratorate" value="+0.600000"/>
+          <Port symbol="vfltfactor" value="+0.000000"/>
+          <Port symbol="vampfactor" value="+0.000000"/>
+          <Port symbol="asplayedallocation" value="+0.000000"/>
+          <Port symbol="portamento" value="+0.000000"/>
+          <Port symbol="unison" value="+0.000000"/>
+          <Port symbol="voicedetune" value="+0.000000"/>
+          <Port symbol="oscillator2detune" value="+0.208000"/>
+          <Port symbol="lfofrequency" value="+0.336000"/>
+          <Port symbol="lfosinewave" value="+1.000000"/>
+          <Port symbol="lfosquarewave" value="+0.000000"/>
+          <Port symbol="lfosampleholdwave" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.328000"/>
+          <Port symbol="lfoamount2" value="+0.000000"/>
+          <Port symbol="lfoosc1" value="+0.000000"/>
+          <Port symbol="lfoosc2" value="+0.000000"/>
+          <Port symbol="lfofilter" value="+1.000000"/>
+          <Port symbol="lfopw1" value="+0.000000"/>
+          <Port symbol="lfopw2" value="+0.000000"/>
+          <Port symbol="osc2hardsync" value="+0.000000"/>
+          <Port symbol="xmod" value="+0.104000"/>
+          <Port symbol="osc1pitch" value="+0.000000"/>
+          <Port symbol="osc2pitch" value="+0.000000"/>
+          <Port symbol="pitchquant" value="+0.000000"/>
+          <Port symbol="osc1saw" value="+1.000000"/>
+          <Port symbol="osc1pulse" value="+0.000000"/>
+          <Port symbol="osc2saw" value="+1.000000"/>
+          <Port symbol="osc2pulse" value="+0.000000"/>
+          <Port symbol="pulsewidth" value="+0.000000"/>
+          <Port symbol="brightness" value="+1.000000"/>
+          <Port symbol="envelopetopitch" value="+0.000000"/>
+          <Port symbol="osc1mix" value="+1.000000"/>
+          <Port symbol="osc2mix" value="+1.000000"/>
+          <Port symbol="noisemix" value="+0.000000"/>
+          <Port symbol="filterkeyfollow" value="+0.000000"/>
+          <Port symbol="cutoff" value="+0.876000"/>
+          <Port symbol="resonance" value="+0.204000"/>
+          <Port symbol="multimode" value="+0.000000"/>
+          <Port symbol="filter_warm" value="+1.000000"/>
+          <Port symbol="bandpassblend" value="+0.000000"/>
+          <Port symbol="fourpole" value="+1.000000"/>
+          <Port symbol="filterenvamount" value="+0.000000"/>
+          <Port symbol="attack" value="+0.000000"/>
+          <Port symbol="decay" value="+0.000000"/>
+          <Port symbol="sustain" value="+1.000000"/>
+          <Port symbol="release" value="+0.348000"/>
+          <Port symbol="filterattack" value="+0.000000"/>
+          <Port symbol="filterdecay" value="+0.000000"/>
+          <Port symbol="filtersustain" value="+0.000000"/>
+          <Port symbol="filterrelease" value="+0.164000"/>
+          <Port symbol="envelopedetune" value="+0.000000"/>
+          <Port symbol="filterdetune" value="+0.000000"/>
+          <Port symbol="portamentodetune" value="+0.000000"/>
+          <Port symbol="pan1" value="+0.500000"/>
+          <Port symbol="pan2" value="+0.500000"/>
+          <Port symbol="pan3" value="+0.500000"/>
+          <Port symbol="pan4" value="+0.500000"/>
+          <Port symbol="pan5" value="+0.500000"/>
+          <Port symbol="pan6" value="+0.500000"/>
+          <Port symbol="pan7" value="+0.500000"/>
+          <Port symbol="pan8" value="+0.500000"/>
+          <Port symbol="unused3" value="+0.000000"/>
+        </lv2>
+        <Controllable name="hidden" id="5013" flags="Toggle" value="0.000000000000" parameter="1" symbol="lv2_freewheel"/>
+        <Controllable name="unused" id="5015" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
+        <Controllable name="unused2" id="5017" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
+        <Controllable name="Volume" id="5019" flags="" value="0.500000000000" parameter="7" symbol="volume"/>
+        <Controllable name="VoiceCount" id="5021" flags="" value="1.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="Tune" id="5023" flags="" value="0.500000000000" parameter="9" symbol="tune"/>
+        <Controllable name="Octave" id="5025" flags="" value="0.500000000000" parameter="10" symbol="octave"/>
+        <Controllable name="BendRange" id="5027" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
+        <Controllable name="BendOsc2Only" id="5029" flags="" value="0.000000000000" parameter="12" symbol="bendosc2only"/>
+        <Controllable name="LegatoMode" id="5031" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
+        <Controllable name="VibratoRate" id="5033" flags="" value="0.600000023842" parameter="14" symbol="vibratorate"/>
+        <Controllable name="VFltFactor" id="5035" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
+        <Controllable name="VAmpFactor" id="5037" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
+        <Controllable name="AsPlayedAllocation" id="5039" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
+        <Controllable name="Portamento" id="5041" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
+        <Controllable name="Unison" id="5043" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
+        <Controllable name="VoiceDetune" id="5045" flags="" value="0.000000000000" parameter="20" symbol="voicedetune"/>
+        <Controllable name="Oscillator2detune" id="5047" flags="" value="0.208000004292" parameter="21" symbol="oscillator2detune"/>
+        <Controllable name="LfoFrequency" id="5049" flags="" value="0.335999995470" parameter="22" symbol="lfofrequency"/>
+        <Controllable name="LfoSineWave" id="5051" flags="" value="1.000000000000" parameter="23" symbol="lfosinewave"/>
+        <Controllable name="LfoSquareWave" id="5053" flags="" value="0.000000000000" parameter="24" symbol="lfosquarewave"/>
+        <Controllable name="LfoSampleHoldWave" id="5055" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
+        <Controllable name="LfoAmount1" id="5057" flags="" value="0.328000009060" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="5059" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoOsc1" id="5061" flags="" value="0.000000000000" parameter="28" symbol="lfoosc1"/>
+        <Controllable name="LfoOsc2" id="5063" flags="" value="0.000000000000" parameter="29" symbol="lfoosc2"/>
+        <Controllable name="LfoFilter" id="5065" flags="" value="1.000000000000" parameter="30" symbol="lfofilter"/>
+        <Controllable name="LfoPw1" id="5067" flags="" value="0.000000000000" parameter="31" symbol="lfopw1"/>
+        <Controllable name="LfoPw2" id="5069" flags="" value="0.000000000000" parameter="32" symbol="lfopw2"/>
+        <Controllable name="Osc2HardSync" id="5071" flags="" value="0.000000000000" parameter="33" symbol="osc2hardsync"/>
+        <Controllable name="Xmod" id="5073" flags="" value="0.104000002146" parameter="34" symbol="xmod"/>
+        <Controllable name="Osc1Pitch" id="5075" flags="" value="0.000000000000" parameter="35" symbol="osc1pitch"/>
+        <Controllable name="Osc2Pitch" id="5077" flags="" value="0.000000000000" parameter="36" symbol="osc2pitch"/>
+        <Controllable name="PitchQuant" id="5079" flags="" value="0.000000000000" parameter="37" symbol="pitchquant"/>
+        <Controllable name="Osc1Saw" id="5081" flags="" value="1.000000000000" parameter="38" symbol="osc1saw"/>
+        <Controllable name="Osc1Pulse" id="5083" flags="" value="0.000000000000" parameter="39" symbol="osc1pulse"/>
+        <Controllable name="Osc2Saw" id="5085" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
+        <Controllable name="Osc2Pulse" id="5087" flags="" value="0.000000000000" parameter="41" symbol="osc2pulse"/>
+        <Controllable name="PulseWidth" id="5089" flags="" value="0.000000000000" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="Brightness" id="5091" flags="" value="1.000000000000" parameter="43" symbol="brightness"/>
+        <Controllable name="EnvelopeToPitch" id="5093" flags="" value="0.000000000000" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="Osc1Mix" id="5095" flags="" value="1.000000000000" parameter="45" symbol="osc1mix"/>
+        <Controllable name="Osc2Mix" id="5097" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
+        <Controllable name="NoiseMix" id="5099" flags="" value="0.000000000000" parameter="47" symbol="noisemix"/>
+        <Controllable name="FilterKeyFollow" id="5101" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
+        <Controllable name="Cutoff" id="5103" flags="" value="0.875999987125" parameter="49" symbol="cutoff"/>
+        <Controllable name="Resonance" id="5105" flags="" value="0.203999996185" parameter="50" symbol="resonance"/>
+        <Controllable name="Multimode" id="5107" flags="" value="0.000000000000" parameter="51" symbol="multimode"/>
+        <Controllable name="Filter_Warm" id="5109" flags="" value="1.000000000000" parameter="52" symbol="filter_warm"/>
+        <Controllable name="BandpassBlend" id="5111" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
+        <Controllable name="FourPole" id="5113" flags="" value="1.000000000000" parameter="54" symbol="fourpole"/>
+        <Controllable name="FilterEnvAmount" id="5115" flags="" value="0.000000000000" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="Attack" id="5117" flags="" value="0.000000000000" parameter="56" symbol="attack"/>
+        <Controllable name="Decay" id="5119" flags="" value="0.000000000000" parameter="57" symbol="decay"/>
+        <Controllable name="Sustain" id="5121" flags="" value="1.000000000000" parameter="58" symbol="sustain"/>
+        <Controllable name="Release" id="5123" flags="" value="0.347999989986" parameter="59" symbol="release"/>
+        <Controllable name="FilterAttack" id="5125" flags="" value="0.000000000000" parameter="60" symbol="filterattack"/>
+        <Controllable name="FilterDecay" id="5127" flags="" value="0.000000000000" parameter="61" symbol="filterdecay"/>
+        <Controllable name="FilterSustain" id="5129" flags="" value="0.000000000000" parameter="62" symbol="filtersustain"/>
+        <Controllable name="FilterRelease" id="5131" flags="" value="0.164000004530" parameter="63" symbol="filterrelease"/>
+        <Controllable name="EnvelopeDetune" id="5133" flags="" value="0.000000000000" parameter="64" symbol="envelopedetune"/>
+        <Controllable name="FilterDetune" id="5135" flags="" value="0.000000000000" parameter="65" symbol="filterdetune"/>
+        <Controllable name="PortamentoDetune" id="5137" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
+        <Controllable name="Pan1" id="5139" flags="" value="0.500000000000" parameter="67" symbol="pan1"/>
+        <Controllable name="Pan2" id="5141" flags="" value="0.500000000000" parameter="68" symbol="pan2"/>
+        <Controllable name="Pan3" id="5143" flags="" value="0.500000000000" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan4" id="5145" flags="" value="0.500000000000" parameter="70" symbol="pan4"/>
+        <Controllable name="Pan5" id="5147" flags="" value="0.500000000000" parameter="71" symbol="pan5"/>
+        <Controllable name="Pan6" id="5149" flags="" value="0.500000000000" parameter="72" symbol="pan6"/>
+        <Controllable name="Pan7" id="5151" flags="" value="0.500000000000" parameter="73" symbol="pan7"/>
+        <Controllable name="Pan8" id="5153" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
+        <Controllable name="unused3" id="5155" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
+      </Processor>
+      <Processor id="4937" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="4911" flags="" value="1.000000000000"/>
+      </Processor>
+      <Processor id="4939" name="meter-PopLeads" active="yes" user-latency="0" type="meter"/>
+      <Processor id="4940" name="PopLeads" active="yes" user-latency="0" own-input="yes" own-output="no" output="PopLeads" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="4926" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="4930" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="4928" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="4932" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="4934" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitoring" id="4947" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="recsafe" id="4945" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="4943" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="PopLeads.1" name="PopLeads" id="4948" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+    </Route>
+  </Routes>
+  <Playlists>
+    <Playlist id="654" name="Snare.1" type="midi" orig-track-id="612" frozen="no" combine-ops="0">
+      <Region name="Snare-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="96218" beat="8" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="1" id="837" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="168381" beat="14" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="1" id="3099" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="192436" beat="16" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="1" id="3269" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="288654" beat="24" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1" id="3996" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="384872" beat="32" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1" id="4016" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="481090" beat="40" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1" id="4382" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="553254" beat="46" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="1" id="4423" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="577309" beat="48" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="1" id="4392" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="673527" beat="56" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="1" id="4402" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="769745" beat="64" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="1" id="4412" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="865963" beat="72" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" start-beats="0" length-beats="1" id="4604" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="962181" beat="80" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="1" id="4610" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1034345" beat="86" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="1" id="4642" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1058400" beat="88" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="0" length-beats="1" id="4648" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1154618" beat="96" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" start-beats="0" length-beats="1" id="4695" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="1226781" beat="102" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="15" start-beats="0" length-beats="1" id="4701" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1250836" beat="104" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="16" start-beats="0" length-beats="1" id="4707" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1347054" beat="112" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="1" id="4781" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1419218" beat="118" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="18" start-beats="0" length-beats="1" id="4787" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="1443272" beat="120" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="1" id="4793" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+    </Playlist>
+    <Playlist id="196" name="Kick.1" type="midi" orig-track-id="154" frozen="no" combine-ops="0">
+      <Region name="Kick-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="48109" beat="3.99999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="1.00000755858" id="374" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="132300" beat="11" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="1.00000755858" id="3063" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="144327" beat="12" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="1.00000755858" id="3069" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="204463" beat="17" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1.00000755858" id="3600" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6013" position="228518" beat="18.9999848828" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="0.500015117158" id="3671" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="234531" beat="19.4999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.500030234316" id="3717" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="240545" beat="20" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="1.00000755858" id="3946" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="324736" beat="27" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="1.00000755858" id="3989" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="336763" beat="28" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="1.00000755858" id="3992" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="432981" beat="36" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="1.00000755858" id="4378" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="529200" beat="44" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" start-beats="0" length-beats="1.00000755858" id="4388" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="589336" beat="49" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="0" length-beats="1.00000755858" id="4434" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="613390" beat="51" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" start-beats="0" length-beats="1.00000755858" id="4440" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="625418" beat="52" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="1.00000755858" id="4398" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="709609" beat="59" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="15" start-beats="0" length-beats="1.00000755858" id="4455" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="721636" beat="60" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="1.00000755858" id="4408" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6013" length="0" position="799813" beat="66" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="18" start-beats="0" length-beats="0.500030234316" id="4496" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="817854" beat="68" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="1.00000755858" id="4499" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="829881" beat="69" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="16" start-beats="0" length-beats="1.00000755858" id="4490" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="853936" beat="71" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="0.500015117158" id="4493" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-1" length="6014" position="859949" beat="71.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="20" start-beats="0" length-beats="0.500030234316" id="4516" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="865963" beat="72" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="21" start-beats="0" length-beats="1.00000755858" id="4565" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="877990" beat="73" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="22" start-beats="0" length-beats="1.00000755858" id="4568" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="902045" beat="75" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="23" start-beats="0" length-beats="0.500015117158" id="4581" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-1" length="6015" position="908058" beat="75.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="24" start-beats="0" length-beats="0.500030234316" id="4584" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="914072" beat="76" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="25" start-beats="0" length-beats="1.00000755858" id="4587" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="998263" beat="83" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="27" start-beats="0" length-beats="1.00000755858" id="4627" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="1010290" beat="84" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="26" start-beats="0" length-beats="1.00000755858" id="4621" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="1100495" beat="91.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="28" start-beats="0" length-beats="0.500030234316" id="4668" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1106509" beat="92" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="29" start-beats="0" length-beats="1.00000755858" id="4671" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1202727" beat="100" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="30" start-beats="0" length-beats="1.00000755858" id="4726" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12028" position="1274890" beat="106" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="32" start-beats="0" length-beats="1.00000755858" id="4754" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1298945" beat="108" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="31" start-beats="0" length-beats="1.00000755858" id="4744" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1383136" beat="115" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="34" start-beats="0" length-beats="1.00000755858" id="4770" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1395163" beat="116" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="33" start-beats="0" length-beats="1.00000755858" id="4760" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    </Playlist>
+    <Playlist id="3328" name="Crash.1" type="midi" orig-track-id="3286" frozen="no" combine-ops="0">
+      <Region name="Crash-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="84191" length="288654" position="192436" beat="16" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="7" length-beats="24" id="3531" type="midi" first-edit="nothing" source-0="3529" master-source-0="3529"/>
+    </Playlist>
+    <Playlist id="4152" name="PulsingLead.1" type="midi" orig-track-id="4110" frozen="no" combine-ops="0">
+      <Region name="PulsingLead-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384873" position="432981" beat="36" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4" length-beats="32" id="4466" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+      <Region name="PulsingLead-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48108" length="384873" position="817854" beat="68" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.99993197279" length-beats="32" id="5243" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+    </Playlist>
+    <Playlist id="4949" name="PopLeads.1" type="midi" orig-track-id="4907" frozen="no" combine-ops="0">
+      <Region name="PopLeads-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48110" length="384873" position="432981" beat="36" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.00006046863" length-beats="32" id="5183" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
+      <Region name="PopLeads-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384873" position="817854" beat="68" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.99999244142" length-beats="32" id="5254" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
+    </Playlist>
+  </Playlists>
+  <UnusedPlaylists/>
+  <RouteGroups/>
+  <Click>
+    <IO name="Click" id="48" direction="Output" default-type="audio" user-latency="0">
+      <Port type="audio" name="Click/audio_out 1">
+        <Connection other="system:playback_1"/>
+      </Port>
+      <Port type="audio" name="Click/audio_out 2">
+        <Connection other="system:playback_2"/>
+      </Port>
+    </IO>
+    <Processor id="49" name="Amp" active="yes" user-latency="0" type="amp">
+      <Controllable name="gaincontrol" id="47" flags="" value="1.000000000000"/>
+    </Processor>
+  </Click>
+  <LTC-In>
+    <IO name="LTC In" id="2001" direction="Input" default-type="audio" user-latency="0">
+      <Port type="audio" name="LTC-in">
+        <Connection other="system:capture_1"/>
+      </Port>
+    </IO>
+  </LTC-In>
+  <LTC-Out>
+    <IO name="LTC Out" id="2002" direction="Output" default-type="audio" user-latency="0">
+      <Port type="audio" name="LTC-out"/>
+    </IO>
+  </LTC-Out>
+  <Speakers>
+    <Speaker azimuth="240" elevation="0" distance="1"/>
+    <Speaker azimuth="120" elevation="0" distance="1"/>
+  </Speakers>
+  <TempoMap>
+    <Tempo pulse="0.000000" frame="0" beats-per-minute="220.000000" note-type="4.000000" movable="no" active="yes" tempo-type="Ramp" lock-style="AudioTime" locked-to-meter="no"/>
+    <Meter pulse="0.000000" bbt="1|1|0" beat="0.000000" note-type="4.000000" frame="0" lock-style="AudioTime" divisions-per-bar="4.000000" movable="no"/>
+  </TempoMap>
+  <ControlProtocols>
+    <Protocol name="Mackie" active="no"/>
+    <Protocol name="Open Sound Control (OSC)" active="no"/>
+    <Protocol name="Generic MIDI" active="no"/>
+    <Protocol name="PreSonus FaderPort" active="no"/>
+  </ControlProtocols>
+  <Extra>
+    <UI>
+      <Window name="key-editor" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="session-options-editor" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="speaker-config" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="about" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="add-routes" visible="no" x-off="-1" y-off="-1" x-size="353" y-size="324"/>
+      <Window name="add-video" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="inspector" visible="no" x-off="381" y-off="78" x-size="620" y-size="370"/>
+      <Window name="audio-midi-setup" visible="no" x-off="432" y-off="237" x-size="646" y-size="425"/>
+      <Window name="video-export" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="script-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="bundle-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="locations" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="big-clock" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="audio-connection-manager" visible="no" x-off="474" y-off="10" x-size="434" y-size="506"/>
+      <Window name="midi-connection-manager" visible="no" x-off="456" y-off="52" x-size="470" y-size="423"/>
+      <Window name="RPM-51" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-154" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-612" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-1786" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-51-82" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-81" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-83" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-84" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-82-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-81-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-83-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-84-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-612-684" visible="no" x-off="559" y-off="209" x-size="491" y-size="53" custom-ui="yes"/>
+      <Window name="P-612-642" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-612-644" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-612-645" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-684-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-642-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-644-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-645-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-154-220" visible="no" x-off="212" y-off="309" x-size="477" y-size="53" custom-ui="no"/>
+      <Window name="P-154-184" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-154-186" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-154-187" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-220-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-184-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-186-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-187-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-1786-1821" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-1786-1817" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-1786-1841" visible="no" x-off="446" y-off="237" x-size="491" y-size="53" custom-ui="yes"/>
+      <Window name="P-1786-1816" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-1786-1818" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-1786-1819" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-1821-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-1817-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-1841-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-1816-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-1818-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-1819-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-3286" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-3286-3316" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-3286-3318" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-3286-3319" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-3316-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-3318-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-3319-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-3286-3378" visible="no" x-off="441" y-off="237" x-size="500" y-size="53" custom-ui="yes"/>
+      <Window name="PM-3378-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-4110" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4110-4140" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-4110-4142" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-4110-4143" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-4140-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4142-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4143-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4110-4208" visible="no" x-off="164" y-off="291" x-size="491" y-size="53" custom-ui="yes"/>
+      <Window name="PM-4208-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-4907" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4907-4937" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-4907-4939" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-4907-4940" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-4937-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4939-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4940-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4907-5011" visible="yes" x-off="143" y-off="344" x-size="1107" y-size="495" custom-ui="yes"/>
+      <Window name="PM-5011-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <GUIObjectState>
+        <Object id="rtav 51" height="66" visible="1"/>
+        <Object id="automation 55" height="66" visible="0"/>
+        <Object id="automation 57" height="66" visible="0"/>
+        <Object id="automation 51 12/0/0" height="66" visible="0"/>
+        <Object id="automation 70" height="66" visible="0"/>
+        <Object id="automation 74" height="66" visible="0"/>
+        <Object id="strip 51" visible="1" strip-width="Wide">
+          <Object id="processor 81"/>
+        </Object>
+        <Object id="rtav 154" height="31" visible="1" note-range-min="26" note-range-max="67" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 158" height="66" visible="0"/>
+        <Object id="automation 154 12/0/0" height="66" visible="0"/>
+        <Object id="strip 154" visible="1" strip-width="Wide">
+          <Object id="processor 184"/>
+          <Object id="processor 220"/>
+        </Object>
+        <Object id="automation 173" height="66" visible="0"/>
+        <Object id="automation 177" height="66" visible="0"/>
+        <Object id="rtav 612" height="31" visible="1" note-range-min="44" note-range-max="88" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 616" height="66" visible="0"/>
+        <Object id="automation 612 12/0/0" height="66" visible="0"/>
+        <Object id="strip 612" strip-width="Wide" visible="1">
+          <Object id="processor 642"/>
+          <Object id="processor 684"/>
+          <Object id="processor 1761">
+            <Object id="control 1776" visible="1"/>
+          </Object>
+        </Object>
+        <Object id="automation 631" height="66" visible="0"/>
+        <Object id="automation 635" height="66" visible="0"/>
+        <Object id="rtav 1533" height="31" visible="1" note-range-min="60" note-range-max="71" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 1537" height="66" visible="0"/>
+        <Object id="automation 1533 12/0/0" height="66" visible="0"/>
+        <Object id="strip 1533" strip-width="Wide" visible="1">
+          <Object id="processor 1563"/>
+          <Object id="processor 1611"/>
+        </Object>
+        <Object id="automation 1552" height="66" visible="0"/>
+        <Object id="automation 1556" height="66" visible="0"/>
+        <Object id="rtav 1786" height="31" visible="1"/>
+        <Object id="automation 1790" height="66" visible="0"/>
+        <Object id="automation 1792" height="66" visible="0"/>
+        <Object id="automation 1786 12/0/0" height="66" visible="0"/>
+        <Object id="automation 1805" height="66" visible="0"/>
+        <Object id="automation 1809" height="66" visible="0"/>
+        <Object id="strip 1786" visible="1" strip-width="Wide">
+          <Object id="processor 1841"/>
+          <Object id="processor 1816"/>
+        </Object>
+        <Object id="strip 2865" strip-width="Wide" visible="1">
+          <Object id="processor 2895"/>
+          <Object id="processor 2956"/>
+        </Object>
+        <Object id="rtav 3286" height="170" visible="1" note-range-min="63" note-range-max="83" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 3290" height="66" visible="0"/>
+        <Object id="automation 3286 12/0/0" height="66" visible="0"/>
+        <Object id="strip 3286" strip-width="Wide" visible="1">
+          <Object id="processor 3316"/>
+          <Object id="processor 3378"/>
+        </Object>
+        <Object id="automation 3305" height="66" visible="0"/>
+        <Object id="automation 3309" height="66" visible="0"/>
+        <Object id="rtav 4110" height="31" visible="1" note-range-min="60" note-range-max="72" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 4114" height="66" visible="0"/>
+        <Object id="automation 4110 12/0/0" height="66" visible="0"/>
+        <Object id="strip 4110" strip-width="Wide" visible="1">
+          <Object id="processor 4140"/>
+          <Object id="processor 4208">
+            <Object id="control 4210" visible="0"/>
+            <Object id="control 4212" visible="0"/>
+            <Object id="control 4214" visible="0"/>
+            <Object id="control 4216" visible="0"/>
+            <Object id="control 4218" visible="0"/>
+            <Object id="control 4220" visible="0"/>
+            <Object id="control 4222" visible="0"/>
+            <Object id="control 4224" visible="0"/>
+            <Object id="control 4226" visible="0"/>
+            <Object id="control 4228" visible="0"/>
+            <Object id="control 4230" visible="0"/>
+            <Object id="control 4232" visible="0"/>
+            <Object id="control 4234" visible="0"/>
+            <Object id="control 4236" visible="0"/>
+            <Object id="control 4238" visible="0"/>
+            <Object id="control 4240" visible="0"/>
+            <Object id="control 4242" visible="0"/>
+            <Object id="control 4244" visible="0"/>
+            <Object id="control 4246" visible="0"/>
+            <Object id="control 4248" visible="0"/>
+            <Object id="control 4250" visible="0"/>
+            <Object id="control 4252" visible="0"/>
+            <Object id="control 4254" visible="0"/>
+            <Object id="control 4256" visible="0"/>
+            <Object id="control 4258" visible="0"/>
+            <Object id="control 4260" visible="0"/>
+            <Object id="control 4262" visible="0"/>
+            <Object id="control 4264" visible="0"/>
+            <Object id="control 4266" visible="0"/>
+            <Object id="control 4268" visible="0"/>
+            <Object id="control 4270" visible="0"/>
+            <Object id="control 4272" visible="0"/>
+            <Object id="control 4274" visible="0"/>
+            <Object id="control 4276" visible="0"/>
+            <Object id="control 4278" visible="0"/>
+            <Object id="control 4280" visible="0"/>
+            <Object id="control 4282" visible="0"/>
+            <Object id="control 4284" visible="0"/>
+            <Object id="control 4286" visible="0"/>
+            <Object id="control 4288" visible="0"/>
+            <Object id="control 4290" visible="0"/>
+            <Object id="control 4292" visible="0"/>
+            <Object id="control 4294" visible="0"/>
+            <Object id="control 4296" visible="0"/>
+            <Object id="control 4298" visible="0"/>
+            <Object id="control 4300" visible="0"/>
+            <Object id="control 4302" visible="0"/>
+            <Object id="control 4304" visible="0"/>
+            <Object id="control 4306" visible="0"/>
+            <Object id="control 4308" visible="0"/>
+            <Object id="control 4310" visible="0"/>
+            <Object id="control 4312" visible="0"/>
+            <Object id="control 4314" visible="0"/>
+            <Object id="control 4316" visible="0"/>
+            <Object id="control 4318" visible="0"/>
+            <Object id="control 4320" visible="0"/>
+            <Object id="control 4322" visible="0"/>
+            <Object id="control 4324" visible="0"/>
+            <Object id="control 4326" visible="0"/>
+            <Object id="control 4328" visible="0"/>
+            <Object id="control 4330" visible="0"/>
+            <Object id="control 4332" visible="0"/>
+            <Object id="control 4334" visible="0"/>
+            <Object id="control 4336" visible="0"/>
+            <Object id="control 4338" visible="0"/>
+            <Object id="control 4340" visible="0"/>
+            <Object id="control 4342" visible="0"/>
+            <Object id="control 4344" visible="0"/>
+            <Object id="control 4346" visible="0"/>
+            <Object id="control 4348" visible="0"/>
+            <Object id="control 4350" visible="0"/>
+            <Object id="control 4352" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="automation 4129" height="66" visible="0"/>
+        <Object id="automation 4133" height="66" visible="0"/>
+        <Object id="rtav 4907" height="188" visible="1" note-range-min="78" note-range-max="101" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 4911" height="66" visible="0"/>
+        <Object id="automation 4907 12/0/0" height="66" visible="0"/>
+        <Object id="strip 4907" strip-width="Wide" visible="1">
+          <Object id="processor 4937"/>
+          <Object id="processor 5011"/>
+        </Object>
+        <Object id="automation 4926" height="66" visible="0"/>
+        <Object id="automation 4930" height="66" visible="0"/>
+      </GUIObjectState>
+    </UI>
+    <Videomonitor active="no"/>
+  </Extra>
+  <Script lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</Script>
+</Session>
