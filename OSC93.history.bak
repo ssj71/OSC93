@@ -1,394 +1,1069 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1478366800" tv-usec="494343" name="region drag">
-    <StatefulDiffCommand obj-id="4701" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="12027" to="12028"/>
-        <position from="1280904" to="1274890"/>
-        <beat from="106.5" to="106"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4701"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4701"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
+  <UndoTransaction tv-sec="1478585989" tv-usec="388281" name="record Cutoff automation">
+    <MementoRedoCommand obj-id="7951" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="parameter-49" id="7951" default="0.5" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 0
+24054 0.103174604475498
+1514773 0.103174604475498
+1514837 0.095238097012043
+1528310 0.095238097012043
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1478366801" tv-usec="613513" name="region drag">
-    <StatefulDiffCommand obj-id="4707" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1304959" to="1298945"/>
-        <beat from="108.5" to="108"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366804" tv-usec="976107" name="copy objects">
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4621"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4621"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366806" tv-usec="917887" name="paste">
-    <StatefulDiffCommand obj-id="196" type-name="ARDOUR::MidiPlaylist">
+  <UndoTransaction tv-sec="1478586122" tv-usec="564575" name="capture">
+    <StatefulDiffCommand obj-id="7630" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4726"/>
+          <Add id="8073"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586186" tv-usec="843494" name="delete objects">
+    <StatefulDiffCommand obj-id="7630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="8073"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection/>
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="321600" y-origin="548.000000">
+        <Selection>
+          <Region id="8073"/>
+        </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="321600" y-origin="548.000000">
         <Selection/>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1478366808" tv-usec="844545" name="region drag">
-    <StatefulDiffCommand obj-id="4726" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="12028" to="12027"/>
-        <position from="1208740" to="1202727"/>
-        <beat from="100.5" to="100"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4726"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4726"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
+  <UndoTransaction tv-sec="1478586274" tv-usec="366643" name="record Cutoff automation">
+    <MementoRedoCommand obj-id="7951" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="parameter-49" id="7951" default="0.5" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 0
+24054 0.103174604475498
+414876 0.103174604475498
+414940 0.206349208950996
+816348 0.206349208950996
+817884 0.436507940292358
+818908 0.468253970146179
+820444 0.51587301492691
+821468 0.531746029853821
+823004 0.555555582046509
+824540 0.571428596973419
+825564 0.579365074634552
+827100 0.60317462682724
+829660 0.60317462682724
+831196 0.611111104488373
+832220 0.61904764175415
+833756 0.642857134342194
+834780 0.666666686534882
+836316 0.674603164196014
+837852 0.682539701461792
+838876 0.690476179122925
+840412 0.698412716388702
+841948 0.698412716388702
+842972 0.690476179122925
+844508 0.674603164196014
+845532 0.650793671607971
+847068 0.60317462682724
+848604 0.420634925365448
+849628 0.246031746268272
+851164 0.0714285746216774
+852700 0.333333343267441
+853724 0.642857134342194
+855260 0.674603164196014
+856796 0.682539701461792
+857820 0.698412716388702
+860380 0.698412716388702
+861916 0.674603164196014
+863452 0.650793671607971
+864476 0.642857134342194
+866012 0.634920656681061
+867548 0.626984119415283
+870108 0.626984119415283
+871132 0.611111104488373
+872668 0.58730161190033
+874204 0.571428596973419
+875228 0.547619044780731
+876764 0.531746029853821
+877788 0.5
+879324 0.428571432828903
+880860 0.396825402975082
+881884 0.309523820877075
+883420 0.222222223877907
+884956 0.142857149243355
+885980 0.0793650820851326
+888540 0.0793650820851326
+890076 0.158730164170265
+891612 0.230158731341362
+892636 0.28571429848671
+894172 0.309523820877075
+895196 0.365079373121262
+896732 0.436507940292358
+898780 0.492063492536545
+899804 0.547619044780731
+901340 0.634920656681061
+902364 0.706349194049835
+903900 0.746031761169434
+905436 0.753968238830566
+906460 0.785714268684387
+907996 0.817460298538208
+909020 0.825396835803986
+910556 0.841269850730896
+912092 0.841269850730896
+913116 0.857142865657806
+914652 0.857142865657806
+916188 0.873015880584717
+917212 0.888888895511627
+919772 0.888888895511627
+921308 0.91269838809967
+922332 0.91269838809967
+923868 0.920634925365448
+925404 0.920634925365448
+926428 0.936507940292358
+927964 0.944444417953491
+928988 0.952380955219269
+930524 0.960317432880402
+932572 0.952380955219269
+933596 0.936507940292358
+935132 0.904761910438538
+936668 0.857142865657806
+937692 0.746031761169434
+939228 0.642857134342194
+940252 0.60317462682724
+941788 0.571428596973419
+943324 0.539682567119598
+944348 0.5
+945884 0.468253970146179
+947420 0.476190477609634
+949980 0.476190477609634
+951004 0.444444447755814
+952540 0.31746032834053
+954076 0.365079373121262
+955100 0.51587301492691
+956636 0.333333343267441
+957660 0.214285716414452
+959196 0.51587301492691
+960732 0.507936537265778
+962268 0.5
+963292 0.357142865657806
+964828 0.48412698507309
+966364 0.690476179122925
+967388 0.698412716388702
+968924 0.642857134342194
+969948 0.611111104488373
+971484 0.61904764175415
+973020 0.626984119415283
+974044 0.626984119415283
+975580 0.61904764175415
+976604 0.626984119415283
+978140 0.642857134342194
+979676 0.642857134342194
+980700 0.634920656681061
+982236 0.634920656681061
+983772 0.61904764175415
+984796 0.61904764175415
+986332 0.476190477609634
+987356 0.412698417901993
+988892 0.60317462682724
+989916 0.650793671607971
+991452 0.706349194049835
+992988 0.722222208976746
+994524 0.714285731315613
+995548 0.714285731315613
+997084 0.722222208976746
+998108 0.722222208976746
+999644 0.674603164196014
+1000668 0.571428596973419
+1002204 0.206349208950996
+1011420 0.206349208950996
+1012956 0.357142865657806
+1014492 0.468253970146179
+1015516 0.468253970146179
+1017052 0.428571432828903
+1018076 0.428571432828903
+1019612 0.48412698507309
+1021148 0.51587301492691
+1022172 0.555555582046509
+1023708 0.58730161190033
+1024732 0.611111104488373
+1026268 0.626984119415283
+1027804 0.626984119415283
+1028828 0.642857134342194
+1030364 0.642857134342194
+1031388 0.650793671607971
+1032924 0.642857134342194
+1035484 0.642857134342194
+1037020 0.61904764175415
+1038044 0.60317462682724
+1039580 0.58730161190033
+1041116 0.579365074634552
+1042140 0.555555582046509
+1043676 0.51587301492691
+1044700 0.48412698507309
+1046236 0.293650805950165
+1047772 0.230158731341362
+1048796 0.492063492536545
+1050332 0.531746029853821
+1051868 0.507936537265778
+1052892 0.531746029853821
+1054428 0.531746029853821
+1055452 0.51587301492691
+1056988 0.5
+1062108 0.5
+1063644 0.48412698507309
+1065180 0.492063492536545
+1066204 0.444444447755814
+1067740 0.436507940292358
+1071836 0.436507940292358
+1072860 0.428571432828903
+1074396 0.412698417901993
+1075420 0.412698417901993
+1076956 0.404761910438538
+1078492 0.380952388048172
+1079516 0.357142865657806
+1081052 0.214285716414452
+1082076 0.0873015895485878
+1083612 0.341269850730896
+1085148 0.396825402975082
+1086172 0.428571432828903
+1087708 0.436507940292358
+1088732 0.436507940292358
+1090268 0.468253970146179
+1091804 0.452380955219269
+1092828 0.468253970146179
+1094364 0.492063492536545
+1095900 0.5
+1096924 0.507936537265778
+1098460 0.51587301492691
+1099484 0.539682567119598
+1101020 0.571428596973419
+1102556 0.571428596973419
+1103580 0.579365074634552
+1105116 0.60317462682724
+1106140 0.611111104488373
+1107676 0.626984119415283
+1109212 0.642857134342194
+1110236 0.674603164196014
+1111772 0.682539701461792
+1113308 0.682539701461792
+1114332 0.698412716388702
+1115868 0.714285731315613
+1116892 0.722222208976746
+1119964 0.722222208976746
+1120988 0.746031761169434
+1122524 0.746031761169434
+1124060 0.738095223903656
+1125084 0.746031761169434
+1126620 0.777777791023254
+1127644 0.785714268684387
+1129180 0.801587283611298
+1130716 0.817460298538208
+1131740 0.857142865657806
+1133276 0.888888895511627
+1139932 0.888888895511627
+1140956 0.873015880584717
+1142492 0.849206328392029
+1144028 0.817460298538208
+1145564 0.785714268684387
+1147100 0.761904776096344
+1148124 0.706349194049835
+1149660 0.666666686534882
+1150684 0.634920656681061
+1152220 0.60317462682724
+1153756 0.579365074634552
+1154780 0.571428596973419
+1156316 0.547619044780731
+1157340 0.531746029853821
+1158876 0.507936537265778
+1162972 0.507936537265778
+1163996 0.5
+1168092 0.5
+1169628 0.492063492536545
+1170652 0.5
+1173724 0.5
+1174748 0.51587301492691
+1176284 0.563492059707642
+1177820 0.579365074634552
+1178844 0.626984119415283
+1180380 0.674603164196014
+1181916 0.738095223903656
+1182940 0.817460298538208
+1184476 0.857142865657806
+1185500 0.88095235824585
+1187036 0.89682537317276
+1188060 0.904761910438538
+1189596 0.904761910438538
+1191132 0.89682537317276
+1192156 0.89682537317276
+1193692 0.888888895511627
+1194716 0.841269850730896
+1196252 0.444444447755814
+1197788 0.15079365670681
+1201372 0.15079365670681
+1202908 0.365079373121262
+1204444 0.158730164170265
+1205468 0.309523820877075
+1207004 0.507936537265778
+1208540 0.293650805950165
+1218780 0.293650805950165
+1220316 0.436507940292358
+1221852 0.690476179122925
+1222876 0.706349194049835
+1224412 0.738095223903656
+1225948 0.746031761169434
+1226972 0.753968238830566
+1228508 0.698412716388702
+1229532 0.666666686534882
+1231068 0.579365074634552
+1232604 0.507936537265778
+1233628 0.349206358194351
+1235164 0.15079365670681
+1236700 0.0714285746216774
+1237724 0.380952388048172
+1239260 0.452380955219269
+1240284 0.468253970146179
+1241820 0.507936537265778
+1243356 0.531746029853821
+1244380 0.539682567119598
+1246428 0.571428596973419
+1247452 0.571428596973419
+1248988 0.579365074634552
+1251548 0.579365074634552
+1253084 0.563492059707642
+1254620 0.547619044780731
+1256156 0.531746029853821
+1258204 0.492063492536545
+1259740 0.444444447755814
+1260764 0.404761910438538
+1262300 0.349206358194351
+1263836 0.222222223877907
+1264860 0.0873015895485878
+1266396 0
+1273052 0
+1274588 0.0714285746216774
+1276124 0.634920656681061
+1277148 0.698412716388702
+1278684 0.690476179122925
+1279708 0.706349194049835
+1281244 0.746031761169434
+1282780 0.746031761169434
+1283804 0.753968238830566
+1285340 0.738095223903656
+1286364 0.746031761169434
+1287900 0.753968238830566
+1289436 0.753968238830566
+1290972 0.746031761169434
+1291996 0.722222208976746
+1294556 0.722222208976746
+1296092 0.714285731315613
+1297628 0.706349194049835
+1298652 0.698412716388702
+1300188 0.706349194049835
+1301212 0.706349194049835
+1302748 0.690476179122925
+1304284 0.682539701461792
+1305820 0.642857134342194
+1306844 0.611111104488373
+1308380 0.58730161190033
+1309404 0.555555582046509
+1310940 0.507936537265778
+1311964 0.468253970146179
+1313500 0.373015880584717
+1315036 0.341269850730896
+1316060 0.230158731341362
+1317596 0.16666667163372
+1318620 0.16666667163372
+1320156 0.238095238804817
+1321692 0.230158731341362
+1323228 0.222222223877907
+1324764 0.182539686560631
+1325788 0.206349208950996
+1327324 0.214285716414452
+1328860 0.198412701487541
+1329884 0.206349208950996
+1331420 0.277777791023254
+1332444 0.277777791023254
+1333980 0.238095238804817
+1335516 0.15079365670681
+1336540 0.126984134316444
+1338588 0.261904776096344
+1340124 0.16666667163372
+1341660 0.30158731341362
+1342172 0.214285716414452
+1343708 0.142857149243355
+1345756 0.174603179097176
+1346780 0.626984119415283
+1348316 0.531746029853821
+1349852 0.444444447755814
+1350876 0.412698417901993
+1352412 0.428571432828903
+1353948 0.444444447755814
+1354972 0.428571432828903
+1356508 0.373015880584717
+1357532 0.373015880584717
+1359068 0.420634925365448
+1360604 0.428571432828903
+1361628 0.428571432828903
+1363164 0.404761910438538
+1364700 0.404761910438538
+1365724 0.412698417901993
+1367260 0.428571432828903
+1368284 0.412698417901993
+1369820 0.428571432828903
+1370844 0.444444447755814
+1372380 0.277777791023254
+1373916 0.174603179097176
+1375452 0.412698417901993
+1376476 0.507936537265778
+1378012 0.5
+1379036 0.468253970146179
+1380572 0.357142865657806
+1381084 0.31746032834053
+1382620 0.277777791023254
+1384668 0.28571429848671
+1386204 0.261904776096344
+1387228 0.269841283559799
+1388764 0.230158731341362
+1390300 0.214285716414452
+1391324 0.214285716414452
+1392860 0.222222223877907
+1393884 0.230158731341362
+1395420 0.246031746268272
+1396956 0.1349206417799
+1397980 0.222222223877907
+1399516 0.373015880584717
+1401052 0.404761910438538
+1402076 0.380952388048172
+1403612 0.404761910438538
+1404636 0.436507940292358
+1406172 0.452380955219269
+1407708 0.5
+1408732 0.531746029853821
+1410268 0.5
+1411804 0.468253970146179
+1412828 0.492063492536545
+1414364 0.51587301492691
+1415900 0.492063492536545
+1416924 0.420634925365448
+1418460 0.333333343267441
+1419484 0.246031746268272
+1421020 0.174603179097176
+1422556 0.0396825410425663
+1423580 0
+1595100 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1478366820" tv-usec="165731" name="region drag">
-    <StatefulDiffCommand obj-id="4701" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1274890" to="1226781"/>
-        <beat from="106" to="102"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4701"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4701"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366822" tv-usec="667241" name="region drag">
-    <StatefulDiffCommand obj-id="4707" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1298945" to="1250836"/>
-        <beat from="108" to="104"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366824" tv-usec="886356" name="paste">
-    <StatefulDiffCommand obj-id="196" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4744"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366827" tv-usec="95849" name="region drag">
-    <StatefulDiffCommand obj-id="4744" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1304959" to="1298945"/>
-        <beat from="108.5" to="108"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4744"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="634560" y-origin="0.000000">
-        <Selection>
-          <Region id="4744"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366850" tv-usec="49977" name="paste">
-    <StatefulDiffCommand obj-id="196" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4754"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection/>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366855" tv-usec="884643" name="paste">
-    <StatefulDiffCommand obj-id="196" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4760"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection/>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366857" tv-usec="316129" name="region drag">
-    <StatefulDiffCommand obj-id="4760" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1401177" to="1395163"/>
-        <beat from="116.5" to="116"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4760"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4760"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366860" tv-usec="47954" name="paste">
-    <StatefulDiffCommand obj-id="196" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4770"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4760"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4760"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366862" tv-usec="780134" name="copy objects">
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366863" tv-usec="998931" name="paste">
-    <StatefulDiffCommand obj-id="654" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4781"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366867" tv-usec="234421" name="paste">
-    <StatefulDiffCommand obj-id="654" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4787"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366868" tv-usec="686154" name="paste">
-    <StatefulDiffCommand obj-id="654" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="4793"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4707"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366870" tv-usec="815636" name="region drag">
-    <StatefulDiffCommand obj-id="4787" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="12028" to="12027"/>
-        <position from="1425231" to="1419218"/>
-        <beat from="118.5" to="118"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4787"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4787"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478366872" tv-usec="918703" name="region drag">
-    <StatefulDiffCommand obj-id="4781" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <position from="1353068" to="1347054"/>
-        <beat from="112.5" to="112"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4781"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="799680" y-origin="0.000000">
-        <Selection>
-          <Region id="4781"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1478367140" tv-usec="731248" name="add marker">
-    <MementoCommand obj-id="1996" type-name="ARDOUR::Locations">
+  <UndoTransaction tv-sec="1478586364" tv-usec="14961" name="clear markers">
+    <MementoCommand obj-id="31" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
-        <Location id="407" name="Loop" start="384872" end="1272959" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8062" name="xrun" start="547958" end="547958" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8067" name="xrun" start="921206" end="921206" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8068" name="xrun" start="936054" end="936054" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8084" name="xrun" start="503516" end="503516" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8085" name="xrun" start="639196" end="639196" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8090" name="xrun" start="1253596" end="1253596" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8091" name="xrun" start="1261788" end="1261788" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8092" name="xrun" start="1338076" end="1338076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8093" name="xrun" start="1338076" end="1338076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8094" name="xrun" start="1342684" end="1342684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8095" name="xrun" start="1380060" end="1380060" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8096" name="xrun" start="1382108" end="1382108" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8097" name="xrun" start="1424092" end="1424092" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8098" name="xrun" start="1587932" end="1587932" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8105" name="xrun" start="442076" end="442076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8106" name="xrun" start="442076" end="442076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8107" name="xrun" start="442076" end="442076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8108" name="xrun" start="442588" end="442588" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8109" name="xrun" start="442588" end="442588" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8110" name="xrun" start="443100" end="443100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8111" name="xrun" start="443612" end="443612" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8112" name="xrun" start="444124" end="444124" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8113" name="xrun" start="444636" end="444636" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8114" name="xrun" start="445148" end="445148" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8115" name="xrun" start="445148" end="445148" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8116" name="xrun" start="445660" end="445660" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8117" name="xrun" start="446172" end="446172" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8118" name="xrun" start="446684" end="446684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8119" name="xrun" start="447196" end="447196" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8120" name="xrun" start="447196" end="447196" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8121" name="xrun" start="447708" end="447708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8122" name="xrun" start="448220" end="448220" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8123" name="xrun" start="448732" end="448732" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8124" name="xrun" start="448732" end="448732" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8125" name="xrun" start="449244" end="449244" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8126" name="xrun" start="449756" end="449756" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8127" name="xrun" start="450268" end="450268" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8128" name="xrun" start="450268" end="450268" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8129" name="xrun" start="451292" end="451292" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8130" name="xrun" start="487644" end="487644" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8131" name="xrun" start="491228" end="491228" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8132" name="xrun" start="494300" end="494300" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8133" name="xrun" start="500956" end="500956" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8134" name="xrun" start="503516" end="503516" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8135" name="xrun" start="506076" end="506076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8136" name="xrun" start="507100" end="507100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8137" name="xrun" start="510684" end="510684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8138" name="xrun" start="517340" end="517340" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8139" name="xrun" start="520412" end="520412" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8140" name="xrun" start="522972" end="522972" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8141" name="xrun" start="525532" end="525532" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8142" name="xrun" start="525532" end="525532" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8143" name="xrun" start="526044" end="526044" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8144" name="xrun" start="529628" end="529628" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8145" name="xrun" start="532188" end="532188" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8146" name="xrun" start="541404" end="541404" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8147" name="xrun" start="581852" end="581852" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8148" name="xrun" start="582364" end="582364" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8149" name="xrun" start="582876" end="582876" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8150" name="xrun" start="583388" end="583388" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8151" name="xrun" start="583900" end="583900" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8152" name="xrun" start="613084" end="613084" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8153" name="xrun" start="618716" end="618716" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8154" name="xrun" start="618716" end="618716" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8155" name="xrun" start="619228" end="619228" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8156" name="xrun" start="619228" end="619228" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8157" name="xrun" start="619740" end="619740" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8158" name="xrun" start="620252" end="620252" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8159" name="xrun" start="620764" end="620764" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8160" name="xrun" start="621276" end="621276" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8161" name="xrun" start="621788" end="621788" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8162" name="xrun" start="622300" end="622300" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8163" name="xrun" start="622812" end="622812" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8164" name="xrun" start="622812" end="622812" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8165" name="xrun" start="623324" end="623324" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8166" name="xrun" start="623836" end="623836" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8167" name="xrun" start="623836" end="623836" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8168" name="xrun" start="624348" end="624348" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8169" name="xrun" start="624860" end="624860" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8170" name="xrun" start="625372" end="625372" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8171" name="xrun" start="625884" end="625884" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8172" name="xrun" start="626396" end="626396" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8173" name="xrun" start="626908" end="626908" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8174" name="xrun" start="627420" end="627420" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8175" name="xrun" start="627420" end="627420" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8176" name="xrun" start="627932" end="627932" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8177" name="xrun" start="628444" end="628444" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8178" name="xrun" start="628956" end="628956" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8179" name="xrun" start="629468" end="629468" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8180" name="xrun" start="629980" end="629980" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8181" name="xrun" start="630492" end="630492" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8182" name="xrun" start="630492" end="630492" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8183" name="xrun" start="631004" end="631004" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8184" name="xrun" start="631516" end="631516" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8185" name="xrun" start="632028" end="632028" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8186" name="xrun" start="632540" end="632540" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8187" name="xrun" start="632540" end="632540" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8188" name="xrun" start="633052" end="633052" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8189" name="xrun" start="633564" end="633564" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8190" name="xrun" start="634076" end="634076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8191" name="xrun" start="634588" end="634588" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8192" name="xrun" start="635100" end="635100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8193" name="xrun" start="635612" end="635612" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8194" name="xrun" start="636124" end="636124" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8195" name="xrun" start="636636" end="636636" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8196" name="xrun" start="637148" end="637148" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8197" name="xrun" start="637148" end="637148" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8198" name="xrun" start="637660" end="637660" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8199" name="xrun" start="638172" end="638172" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8200" name="xrun" start="638684" end="638684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8201" name="xrun" start="639196" end="639196" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8202" name="xrun" start="639196" end="639196" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8203" name="xrun" start="639708" end="639708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8204" name="xrun" start="640220" end="640220" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8205" name="xrun" start="640732" end="640732" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8206" name="xrun" start="641244" end="641244" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8207" name="xrun" start="641756" end="641756" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8208" name="xrun" start="641756" end="641756" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8209" name="xrun" start="642268" end="642268" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8210" name="xrun" start="642780" end="642780" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8211" name="xrun" start="643292" end="643292" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8212" name="xrun" start="643804" end="643804" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8213" name="xrun" start="723164" end="723164" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8214" name="xrun" start="730844" end="730844" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8215" name="xrun" start="735452" end="735452" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8216" name="xrun" start="735964" end="735964" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8217" name="xrun" start="860380" end="860380" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8220" name="xrun" start="959708" end="959708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8221" name="xrun" start="964828" end="964828" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8222" name="xrun" start="964828" end="964828" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8223" name="xrun" start="973020" end="973020" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8224" name="xrun" start="973020" end="973020" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8225" name="xrun" start="973532" end="973532" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8226" name="xrun" start="974556" end="974556" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8227" name="xrun" start="974556" end="974556" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8228" name="xrun" start="975068" end="975068" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8229" name="xrun" start="975580" end="975580" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8230" name="xrun" start="1081052" end="1081052" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8231" name="xrun" start="1081052" end="1081052" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8232" name="xrun" start="1081564" end="1081564" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8233" name="xrun" start="1082076" end="1082076" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8234" name="xrun" start="1130716" end="1130716" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8235" name="xrun" start="1130716" end="1130716" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8236" name="xrun" start="1131228" end="1131228" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8237" name="xrun" start="1131740" end="1131740" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8238" name="xrun" start="1131740" end="1131740" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8239" name="xrun" start="1132252" end="1132252" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8240" name="xrun" start="1132764" end="1132764" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8241" name="xrun" start="1132764" end="1132764" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
       </Locations>
       <Locations>
         <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
-        <Location id="407" name="Loop" start="384872" end="1272959" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
-        <Location id="4806" name="mark1" start="837155" end="837155" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
       </Locations>
     </MementoCommand>
     <MementoCommand obj-id="38" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="0" y-origin="66.000000">
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="0" y-origin="548.000000">
         <Selection>
-          <Region id="4781"/>
+          <RouteView id="7588"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="0" y-origin="66.000000">
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="0" y-origin="548.000000">
         <Selection>
-          <Region id="4781"/>
-          <Marker id="4806" start="yes"/>
+          <RouteView id="7588"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586436" tv-usec="749329" name="capture">
+    <StatefulDiffCommand obj-id="7630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8360"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586490" tv-usec="293601" name="clear markers">
+    <MementoCommand obj-id="31" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8249" name="xrun" start="451292" end="451292" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8250" name="xrun" start="451804" end="451804" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8251" name="xrun" start="451804" end="451804" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8252" name="xrun" start="452316" end="452316" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8253" name="xrun" start="452316" end="452316" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8254" name="xrun" start="452828" end="452828" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8255" name="xrun" start="453340" end="453340" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8256" name="xrun" start="453852" end="453852" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8257" name="xrun" start="454364" end="454364" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8258" name="xrun" start="454876" end="454876" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8259" name="xrun" start="455388" end="455388" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8260" name="xrun" start="501468" end="501468" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8261" name="xrun" start="501468" end="501468" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8262" name="xrun" start="501980" end="501980" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8263" name="xrun" start="502492" end="502492" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8264" name="xrun" start="502492" end="502492" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8265" name="xrun" start="540892" end="540892" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8266" name="xrun" start="540892" end="540892" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8267" name="xrun" start="541404" end="541404" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8268" name="xrun" start="541916" end="541916" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8269" name="xrun" start="541916" end="541916" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8270" name="xrun" start="542428" end="542428" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8271" name="xrun" start="542940" end="542940" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8272" name="xrun" start="543452" end="543452" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8273" name="xrun" start="543964" end="543964" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8274" name="xrun" start="544476" end="544476" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8275" name="xrun" start="544988" end="544988" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8276" name="xrun" start="544988" end="544988" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8277" name="xrun" start="545500" end="545500" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8278" name="xrun" start="546012" end="546012" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8279" name="xrun" start="546524" end="546524" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8280" name="xrun" start="547036" end="547036" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8281" name="xrun" start="547548" end="547548" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8282" name="xrun" start="664796" end="664796" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8283" name="xrun" start="664796" end="664796" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8284" name="xrun" start="665308" end="665308" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8285" name="xrun" start="665308" end="665308" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8286" name="xrun" start="701148" end="701148" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8287" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8288" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8289" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8290" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8291" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8292" name="xrun" start="703708" end="703708" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8293" name="xrun" start="896732" end="896732" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8294" name="xrun" start="897244" end="897244" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8295" name="xrun" start="899804" end="899804" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8296" name="xrun" start="904412" end="904412" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8297" name="xrun" start="905948" end="905948" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8298" name="xrun" start="907484" end="907484" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8299" name="xrun" start="909532" end="909532" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8300" name="xrun" start="924892" end="924892" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8305" name="xrun" start="944860" end="944860" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8306" name="xrun" start="979164" end="979164" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8307" name="xrun" start="985308" end="985308" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8308" name="xrun" start="991964" end="991964" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8309" name="xrun" start="992476" end="992476" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8310" name="xrun" start="994524" end="994524" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8311" name="xrun" start="996060" end="996060" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8312" name="xrun" start="1003228" end="1003228" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8313" name="xrun" start="1007836" end="1007836" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8314" name="xrun" start="1010396" end="1010396" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8315" name="xrun" start="1016028" end="1016028" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8316" name="xrun" start="1017052" end="1017052" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8317" name="xrun" start="1021660" end="1021660" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8318" name="xrun" start="1034972" end="1034972" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8319" name="xrun" start="1039068" end="1039068" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8320" name="xrun" start="1039068" end="1039068" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8321" name="xrun" start="1043676" end="1043676" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8322" name="xrun" start="1050332" end="1050332" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8323" name="xrun" start="1050332" end="1050332" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8324" name="xrun" start="1050332" end="1050332" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8325" name="xrun" start="1050332" end="1050332" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8326" name="xrun" start="1050332" end="1050332" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8327" name="xrun" start="1060572" end="1060572" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8328" name="xrun" start="1060572" end="1060572" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8329" name="xrun" start="1060572" end="1060572" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8330" name="xrun" start="1060572" end="1060572" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8331" name="xrun" start="1077980" end="1077980" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8332" name="xrun" start="1077980" end="1077980" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8333" name="xrun" start="1083100" end="1083100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8334" name="xrun" start="1083100" end="1083100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8335" name="xrun" start="1095900" end="1095900" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8336" name="xrun" start="1099996" end="1099996" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8337" name="xrun" start="1102556" end="1102556" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8338" name="xrun" start="1103580" end="1103580" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8339" name="xrun" start="1109724" end="1109724" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8340" name="xrun" start="1112796" end="1112796" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8341" name="xrun" start="1119452" end="1119452" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8342" name="xrun" start="1119452" end="1119452" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8343" name="xrun" start="1119452" end="1119452" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8344" name="xrun" start="1147100" end="1147100" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8345" name="xrun" start="1150684" end="1150684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8346" name="xrun" start="1150684" end="1150684" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8347" name="xrun" start="1155804" end="1155804" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8348" name="xrun" start="1166044" end="1166044" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8349" name="xrun" start="1166044" end="1166044" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8350" name="xrun" start="1166556" end="1166556" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8351" name="xrun" start="1167580" end="1167580" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8352" name="xrun" start="1167580" end="1167580" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8353" name="xrun" start="1192668" end="1192668" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8354" name="xrun" start="1193180" end="1193180" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8355" name="xrun" start="1193180" end="1193180" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="547200" y-origin="548.000000">
+        <Selection>
+          <RouteView id="7176"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="547200" y-origin="548.000000">
+        <Selection>
+          <RouteView id="7176"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586734" tv-usec="393276" name="delete objects">
+    <StatefulDiffCommand obj-id="7630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="8360"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="435840" y-origin="548.000000">
+        <Selection>
+          <Region id="8360"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="960" left-frame="435840" y-origin="548.000000">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586748" tv-usec="486436" name="set punch range from selection">
+    <MementoCommand obj-id="31" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8374" name="Punch" start="817854" end="1202727" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <Region id="7582"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <Region id="7582"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586751" tv-usec="46756" name="move marker">
+    <MementoCommand obj-id="31" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8374" name="Punch" start="817854" end="1202727" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
+        <Location id="8374" name="Punch" start="793800" end="1202727" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <Region id="7582"/>
+          <Marker id="8374" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <Region id="7582"/>
+          <Marker id="8374" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586823" tv-usec="297054" name="capture">
+    <StatefulDiffCommand obj-id="7630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8440"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586880" tv-usec="795248" name="move notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="81" new="79" id="897352"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="20.967264" note="81" length="1.877400" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="20.967264" note="79" length="1.877400" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586890" tv-usec="184928" name="move notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="77" new="76" id="900812"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="23.776130" note="77" length="8.667717" velocity="78" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="23.776130" note="76" length="8.667717" velocity="78" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586911" tv-usec="176490" name="delete selection">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes>
+        <note id="909019" note="81" channel="0" time="45.7604" length="28.2929" velocity="7"/>
+      </RemovedNotes>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="45.760416" note="81" length="28.292865" velocity="7" off-velocity="64"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="2048" left-frame="0" y-origin="548.000000">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586927" tv-usec="658612" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes>
+        <Change property="StartTime" old="44.9448" new="46" id="908951"/>
+        <Change property="Length" old="3.21079" new="2.15556" id="908951"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="44.944769" note="81" length="3.210786" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586933" tv-usec="412282" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586936" tv-usec="867051" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586943" tv-usec="793056" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586945" tv-usec="908102" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes>
+        <Change property="StartTime" old="46" new="45" id="908951"/>
+        <Change property="Length" old="2.15556" new="3.15556" id="908951"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="46.000000" note="81" length="2.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="45.000000" note="81" length="3.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1478586951" tv-usec="338851" name="resize notes">
+    <NoteDiffCommand midi-source="8364">
+      <ChangedNotes>
+        <Change property="StartTime" old="45" new="45.486" id="908951"/>
+        <Change property="Length" old="3.15556" new="2.6696" id="908951"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="38" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="45.000000" note="81" length="3.155556" velocity="7" off-velocity="0"/>
+          </MIDINote>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="256" left-frame="1189888" y-origin="548.000000">
+        <Selection>
+          <MIDINote region-id="8440">
+            <note channel="0" time="45.485956" note="81" length="2.669599" velocity="7" off-velocity="0"/>
+          </MIDINote>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
