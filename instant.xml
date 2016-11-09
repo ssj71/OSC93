@@ -2,16 +2,14 @@
 <instant>
   <LastUsedSnapshot name="OSC93"/>
   <Main x="0" y="18" w="1436" h="861" current-tab="editor"/>
-  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="4096" snap-to="SnapToBeat" snap-mode="SnapOff" internal-snap-to="SnapToBeat" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="1263104" left-frame="0" y-origin="683.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseContent" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="no" nudge-clock-value="220500">
+  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="1024" snap-to="SnapToBeatDiv2" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv3" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="1491381" left-frame="1012736" y-origin="364.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
     <Window name="Editor" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="yes"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <MIDINote region-id="8440">
-        <note channel="0" time="45.485956" note="81" length="2.669599" velocity="53" off-velocity="0"/>
-      </MIDINote>
+      <Marker id="8374" start="yes"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
     <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</ActionScript>

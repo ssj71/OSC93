@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="8770" name-counter="1" event-counter="948877" vca-counter="1">
+<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="22849" name-counter="1" event-counter="2134420" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.3-4-gb7e8d6f" modified-with="Ardour 5.3-4-gb7e8d6f"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -89,90 +89,54 @@
       <InterpolationStyle parameter="midicc-0-1" style="Discrete"/>
       <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
     </Source>
+    <Source name="Melody-4.mid" type="midi" flags="Writable,CanRename" id="10688" captured-for="Melody" origin="">
+      <InterpolationStyle parameter="midicc-0-1" style="Discrete"/>
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="Snare-2.mid" type="midi" flags="Writable,CanRename" id="11503" origin=""/>
+    <Source name="Crash-3.mid" type="midi" flags="Writable,CanRename" id="11635" origin=""/>
+    <Source name="Melody-6.mid" type="midi" flags="Writable,CanRename" id="13687" captured-for="Melody" origin="">
+      <InterpolationStyle parameter="midicc-0-1" style="Discrete"/>
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
   </Sources>
   <Regions>
     <Region name="Kick-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6143" position="26624" beat="2.21363567649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="0.278594104308" id="383" type="midi" first-edit="nothing" source-0="381" master-source-0="381"/>
-    <Region name="Kick-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-5802" length="17830" position="210688" beat="17.5175207861" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1.48246409675" id="3594" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-5802" length="17830" position="210688" beat="17.5175207861" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="-0.482403628118" length-beats="1.48246409675" id="3594" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     <Region name="Kick-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12539" position="210086" beat="17.467467876" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1.04254724112" id="3606" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     <Region name="Kick-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="229120" beat="19.0500377929" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1" id="3628" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     <Region name="Kick-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="228518" beat="18.9999848828" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1" id="3656" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     <Region name="Kick-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="234531" beat="19.4999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.5" id="3695" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
     <Region name="Kick-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6014" position="240545" beat="19.9999622071" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.5" id="3709" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-    <Region name="Kick-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="11640" length="387" position="252185" beat="20.9677626606" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="0.0321768707483" id="3986" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="11640" length="387" position="252185" beat="20.9677626606" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0.967800453515" length-beats="0.0321768707483" id="3986" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     <Region name="Crash-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-4418" length="16445" position="885600" beat="73.6326530612" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="-0.367331821618" length-beats="0.999977324263" id="4086" type="midi" first-edit="nothing" source-0="4084" master-source-0="4084"/>
-    <Region name="Kick-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="786422" beat="65.3865608466" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="0.613439153439" id="4368" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-    <Region name="Snare-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="834531" beat="69.386553288" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="0.613439153439" id="4372" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+    <Region name="Kick-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="786422" beat="65.3865608466" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0.386621315193" length-beats="0.613439153439" id="4368" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Snare-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4650" length="7378" position="834531" beat="69.386553288" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0.386621315193" length-beats="0.613439153439" id="4372" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
     <Region name="Kick-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="1088468" beat="90.4999848828" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="28" start-beats="0" length-beats="0.5" id="4665" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
     <Region name="PulsingLead-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890018" position="384872" beat="31.9999395314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74" id="5169" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
-    <Region name="Melody-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1252864" position="348790" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="104.168586546" id="8070" type="midi" first-edit="nothing" source-0="7632" master-source-0="7632"/>
+    <Region name="Melody-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1252864" position="348790" beat="28.9999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="104.168586546" id="8070" type="midi" first-edit="nothing" source-0="7632" master-source-0="7632"/>
     <Region name="Melody-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="1252864" position="348790" beat="28.9999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="104.168586546" id="8073" type="midi" first-edit="nothing" source-0="7632" master-source-0="7632"/>
-    <Region name="Melody-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="885760" position="414940" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="73.6459561602" id="8357" type="midi" first-edit="nothing" source-0="8243" master-source-0="8243"/>
+    <Region name="Melody-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="885760" position="414940" beat="34.4999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="73.6459561602" id="8357" type="midi" first-edit="nothing" source-0="8243" master-source-0="8243"/>
     <Region name="Melody-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="885760" position="414940" beat="34.4999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="73.6459561602" id="8360" type="midi" first-edit="nothing" source-0="8243" master-source-0="8243"/>
-    <Region name="Melody-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890659" position="793800" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74.0532804233" id="8437" type="midi" first-edit="nothing" source-0="8364" master-source-0="8364"/>
+    <Region name="Melody-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890659" position="793800" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74.0532804233" id="8437" type="midi" first-edit="nothing" source-0="8364" master-source-0="8364"/>
+    <Region name="Melody-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890659" position="793800" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74.0532804233" id="8440" type="midi" first-edit="nothing" source-0="8364" master-source-0="8364"/>
+    <Region name="Snare-1.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1551518" beat="128.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="20" start-beats="0" length-beats="1" id="11481" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+    <Region name="Melody-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="868643" position="793800" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="72.2227739985" id="11665" type="midi" first-edit="nothing" source-0="10688" master-source-0="10688"/>
+    <Region name="Melody-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="791697" position="1587912" beat="132.025941043" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="65.8251473923" id="14457" type="midi" first-edit="nothing" source-0="13687" master-source-0="13687"/>
   </Regions>
   <Locations>
     <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
     <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8374" name="Punch" start="793800" end="1202727" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8386" name="xrun" start="930283" end="930283" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8387" name="xrun" start="1275371" end="1275371" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8388" name="xrun" start="1281003" end="1281003" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8389" name="xrun" start="1284075" end="1284075" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8390" name="xrun" start="1285099" end="1285099" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8391" name="xrun" start="1299435" end="1299435" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8392" name="xrun" start="1303531" end="1303531" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8393" name="xrun" start="1303531" end="1303531" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8394" name="xrun" start="1303531" end="1303531" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8395" name="xrun" start="1304043" end="1304043" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8396" name="xrun" start="1304555" end="1304555" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8397" name="xrun" start="1305067" end="1305067" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8398" name="xrun" start="1305067" end="1305067" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8399" name="xrun" start="1305579" end="1305579" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8400" name="xrun" start="1316843" end="1316843" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8401" name="xrun" start="1316843" end="1316843" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8402" name="xrun" start="1317355" end="1317355" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8403" name="xrun" start="1331691" end="1331691" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8404" name="xrun" start="1364459" end="1364459" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8405" name="xrun" start="1445355" end="1445355" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8406" name="xrun" start="1445355" end="1445355" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8407" name="xrun" start="1445867" end="1445867" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8408" name="xrun" start="1448939" end="1448939" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8409" name="xrun" start="1454571" end="1454571" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8410" name="xrun" start="1459691" end="1459691" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8411" name="xrun" start="1464299" end="1464299" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8412" name="xrun" start="1465835" end="1465835" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8413" name="xrun" start="1470955" end="1470955" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8414" name="xrun" start="1471467" end="1471467" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8415" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8416" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8417" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8418" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8419" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8420" name="xrun" start="1476587" end="1476587" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8421" name="xrun" start="1477099" end="1477099" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8422" name="xrun" start="1484779" end="1484779" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8423" name="xrun" start="1484779" end="1484779" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8424" name="xrun" start="1519595" end="1519595" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8425" name="xrun" start="1519595" end="1519595" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8426" name="xrun" start="1520107" end="1520107" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8427" name="xrun" start="1520619" end="1520619" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8428" name="xrun" start="1521131" end="1521131" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8429" name="xrun" start="1521643" end="1521643" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8430" name="xrun" start="1521643" end="1521643" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8431" name="xrun" start="1522155" end="1522155" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8432" name="xrun" start="1522667" end="1522667" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8433" name="xrun" start="1523179" end="1523179" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8434" name="xrun" start="1539051" end="1539051" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8435" name="xrun" start="1541611" end="1541611" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+    <Location id="8374" name="Punch" start="1581586" end="1968840" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
   <Routes>
     <Route id="154" name="Kick" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="0" flags="MidiTrack,OrderSet" color="2147483647"/>
-      <Controllable name="solo" id="5517" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="5523" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="5525" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="20529" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="20535" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="20537" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Kick" id="182" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Kick/midi_in 1"/>
       </IO>
@@ -186,7 +150,7 @@
         <Port type="midi" name="Kick/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="5519" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="20531" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="166" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -197,7 +161,7 @@
         <Controllable name="pan-lfe" id="181" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="220" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="220" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -365,7 +329,7 @@
         <Controllable name="unused3" id="364" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
       <Processor id="184" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="158" flags="" value="0.502808332443"/>
+        <Controllable name="gaincontrol" id="158" flags="" value="0.558787703514"/>
       </Processor>
       <Processor id="186" name="meter-Kick" active="yes" user-latency="0" type="meter"/>
       <Processor id="187" name="Kick" active="yes" user-latency="0" own-input="yes" own-output="no" output="Kick" type="main-outs" role="Main">
@@ -387,9 +351,9 @@
     </Route>
     <Route id="612" name="Snare" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="1" flags="MidiTrack,OrderSet" color="2147483647"/>
-      <Controllable name="solo" id="5744" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="5750" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="5752" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="20720" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="20726" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="20728" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Snare" id="640" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Snare/midi_in 1"/>
       </IO>
@@ -405,7 +369,7 @@
         </Port>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="5746" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="20722" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="624" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -416,7 +380,7 @@
         <Controllable name="pan-lfe" id="639" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="684" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="684" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -606,9 +570,9 @@
     </Route>
     <Route id="51" name="Master" default-type="audio" strict-io="0" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterK20">
       <PresentationInfo order="1" flags="MasterOut,OrderSet" color="2147483647"/>
-      <Controllable name="solo" id="5708" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="5714" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="5716" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="20911" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="20917" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="20919" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Master" id="79" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="Master/audio_in 1">
           <Connection other="Bass/audio_out 1"/>
@@ -640,7 +604,7 @@
         </Port>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="5710" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="20913" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="63" flags="Toggle" value="0.000000000000" phase-invert="00"/>
       <Automation/>
       <Pannable>
@@ -673,9 +637,9 @@
     </Route>
     <Route id="1786" name="Snare2Bus" default-type="audio" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak">
       <PresentationInfo order="2" flags="MidiBus,OrderSet" color="2147483647"/>
-      <Controllable name="solo" id="5935" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="5941" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="5943" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="20947" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="20953" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="20955" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Snare2Bus" id="1814" direction="Input" default-type="audio" user-latency="0">
         <Port type="midi" name="Snare2Bus/midi_in 1">
           <Connection other="Snare/midi_out 1"/>
@@ -691,7 +655,7 @@
         <Port type="midi" name="Snare2Bus/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="5937" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="20949" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="1798" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -706,7 +670,7 @@
       <Processor id="1817" name="Amp" active="yes" user-latency="0" type="trim">
         <Controllable name="trimcontrol" id="1792" flags="" value="1.000000000000"/>
       </Processor>
-      <Processor id="1841" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="1841" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -892,9 +856,9 @@
     </Route>
     <Route id="3286" name="Crash" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="3" flags="MidiTrack,OrderSet" color="1922885119"/>
-      <Controllable name="solo" id="6122" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="6128" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="6130" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="21134" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="21140" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="21142" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Crash" id="3314" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Crash/midi_in 1"/>
       </IO>
@@ -908,7 +872,7 @@
         <Port type="midi" name="Crash/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="6124" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="21136" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="3298" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -919,7 +883,7 @@
         <Controllable name="pan-lfe" id="3313" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="3378" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="3378" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -944,7 +908,7 @@
           <Port symbol="unused" value="+0.000000"/>
           <Port symbol="unused2" value="+0.000000"/>
           <Port symbol="volume" value="+1.000000"/>
-          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="voicecount" value="+0.142857"/>
           <Port symbol="tune" value="+0.516000"/>
           <Port symbol="octave" value="+0.056000"/>
           <Port symbol="bendrange" value="+0.000000"/>
@@ -1017,7 +981,7 @@
         <Controllable name="unused" id="3382" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
         <Controllable name="unused2" id="3384" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
         <Controllable name="Volume" id="3386" flags="" value="1.000000000000" parameter="7" symbol="volume"/>
-        <Controllable name="VoiceCount" id="3388" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="VoiceCount" id="3388" flags="" value="0.142857000232" parameter="8" symbol="voicecount"/>
         <Controllable name="Tune" id="3390" flags="" value="0.515999972820" parameter="9" symbol="tune"/>
         <Controllable name="Octave" id="3392" flags="" value="0.056000001729" parameter="10" symbol="octave"/>
         <Controllable name="BendRange" id="3394" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
@@ -1109,9 +1073,9 @@
     </Route>
     <Route id="4110" name="PulsingLead" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="2145748479"/>
-      <Controllable name="solo" id="6313" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="6319" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="6321" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="21325" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="21331" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="21333" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="PulsingLead" id="4138" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="PulsingLead/midi_in 1"/>
       </IO>
@@ -1125,7 +1089,7 @@
         <Port type="midi" name="PulsingLead/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="6315" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="21327" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="4122" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -1136,7 +1100,7 @@
         <Controllable name="pan-lfe" id="4137" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="4208" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="4208" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -1326,9 +1290,9 @@
     </Route>
     <Route id="4907" name="PopLeads" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="5" flags="MidiTrack,OrderSet" color="2147483647"/>
-      <Controllable name="solo" id="6504" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="6510" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="6512" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <Controllable name="solo" id="21516" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="21522" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="21524" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="PopLeads" id="4935" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="PopLeads/midi_in 1"/>
       </IO>
@@ -1342,7 +1306,7 @@
         <Port type="midi" name="PopLeads/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="6506" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="21518" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="4919" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -1353,7 +1317,7 @@
         <Controllable name="pan-lfe" id="4934" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="5011" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
+      <Processor id="5011" name="Obxd" active="no" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
         </ConfiguredInput>
@@ -1541,13 +1505,15 @@
       <Controllable name="recenable" id="4943" flags="Toggle,RealTime" value="0.000000000000"/>
       <Diskstream flags="Recordable" playlist="PopLeads.1" name="PopLeads" id="4948" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
-    <Route id="7176" name="Bass" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
-      <PresentationInfo order="6" flags="MidiTrack,OrderSet" color="3850224383"/>
-      <Controllable name="solo" id="7184" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="7190" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="7192" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+    <Route id="7176" name="Bass" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+      <PresentationInfo order="6" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <Controllable name="solo" id="21707" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="21713" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="21715" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Bass" id="7204" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Bass/midi_in 1"/>
+        <Port type="midi" name="Bass/midi_in 1">
+          <Connection other="a2j:K-Board [20] (capture): K-Board MIDI 1"/>
+        </Port>
       </IO>
       <IO name="Bass" id="7205" direction="Output" default-type="midi" user-latency="0">
         <Port type="audio" name="Bass/audio_out 1">
@@ -1559,7 +1525,7 @@
         <Port type="midi" name="Bass/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="7186" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="21709" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="7188" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -1570,6 +1536,7 @@
         <Controllable name="pan-lfe" id="7203" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
+      <Processor id="7208" name="meter-Bass" active="yes" user-latency="0" type="meter"/>
       <Processor id="7286" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
@@ -1595,7 +1562,7 @@
           <Port symbol="unused" value="+0.000000"/>
           <Port symbol="unused2" value="+0.000000"/>
           <Port symbol="volume" value="+0.500000"/>
-          <Port symbol="voicecount" value="+0.000000"/>
+          <Port symbol="voicecount" value="+0.142857"/>
           <Port symbol="tune" value="+0.500000"/>
           <Port symbol="octave" value="+0.500000"/>
           <Port symbol="bendrange" value="+0.000000"/>
@@ -1605,7 +1572,7 @@
           <Port symbol="vfltfactor" value="+0.000000"/>
           <Port symbol="vampfactor" value="+0.000000"/>
           <Port symbol="asplayedallocation" value="+0.000000"/>
-          <Port symbol="portamento" value="+0.696000"/>
+          <Port symbol="portamento" value="+0.000000"/>
           <Port symbol="unison" value="+0.000000"/>
           <Port symbol="voicedetune" value="+0.108000"/>
           <Port symbol="oscillator2detune" value="+0.400000"/>
@@ -1668,7 +1635,7 @@
         <Controllable name="unused" id="7290" flags="" value="0.000000000000" parameter="5" symbol="unused"/>
         <Controllable name="unused2" id="7292" flags="" value="0.000000000000" parameter="6" symbol="unused2"/>
         <Controllable name="Volume" id="7294" flags="" value="0.500000000000" parameter="7" symbol="volume"/>
-        <Controllable name="VoiceCount" id="7296" flags="" value="0.000000000000" parameter="8" symbol="voicecount"/>
+        <Controllable name="VoiceCount" id="7296" flags="" value="0.142857000232" parameter="8" symbol="voicecount"/>
         <Controllable name="Tune" id="7298" flags="" value="0.500000000000" parameter="9" symbol="tune"/>
         <Controllable name="Octave" id="7300" flags="" value="0.500000000000" parameter="10" symbol="octave"/>
         <Controllable name="BendRange" id="7302" flags="" value="0.000000000000" parameter="11" symbol="bendrange"/>
@@ -1678,16 +1645,16 @@
         <Controllable name="VFltFactor" id="7310" flags="" value="0.000000000000" parameter="15" symbol="vfltfactor"/>
         <Controllable name="VAmpFactor" id="7312" flags="" value="0.000000000000" parameter="16" symbol="vampfactor"/>
         <Controllable name="AsPlayedAllocation" id="7314" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
-        <Controllable name="Portamento" id="7316" flags="" value="0.696000039577" parameter="18" symbol="portamento"/>
+        <Controllable name="Portamento" id="7316" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
         <Controllable name="Unison" id="7318" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
-        <Controllable name="VoiceDetune" id="7320" flags="" value="0.107999987900" parameter="20" symbol="voicedetune"/>
+        <Controllable name="VoiceDetune" id="7320" flags="" value="0.108000002801" parameter="20" symbol="voicedetune"/>
         <Controllable name="Oscillator2detune" id="7322" flags="" value="0.400000005960" parameter="21" symbol="oscillator2detune"/>
         <Controllable name="LfoFrequency" id="7324" flags="" value="0.596000015736" parameter="22" symbol="lfofrequency"/>
         <Controllable name="LfoSineWave" id="7326" flags="" value="1.000000000000" parameter="23" symbol="lfosinewave"/>
         <Controllable name="LfoSquareWave" id="7328" flags="" value="0.000000000000" parameter="24" symbol="lfosquarewave"/>
         <Controllable name="LfoSampleHoldWave" id="7330" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
-        <Controllable name="LfoAmount1" id="7332" flags="" value="0.072000011802" parameter="26" symbol="lfoamount1"/>
-        <Controllable name="LfoAmount2" id="7334" flags="" value="0.151999935508" parameter="27" symbol="lfoamount2"/>
+        <Controllable name="LfoAmount1" id="7332" flags="" value="0.071999996901" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount2" id="7334" flags="" value="0.151999995112" parameter="27" symbol="lfoamount2"/>
         <Controllable name="LfoOsc1" id="7336" flags="" value="0.000000000000" parameter="28" symbol="lfoosc1"/>
         <Controllable name="LfoOsc2" id="7338" flags="" value="0.000000000000" parameter="29" symbol="lfoosc2"/>
         <Controllable name="LfoFilter" id="7340" flags="" value="0.000000000000" parameter="30" symbol="lfofilter"/>
@@ -1702,9 +1669,9 @@
         <Controllable name="Osc1Pulse" id="7358" flags="" value="1.000000000000" parameter="39" symbol="osc1pulse"/>
         <Controllable name="Osc2Saw" id="7360" flags="" value="1.000000000000" parameter="40" symbol="osc2saw"/>
         <Controllable name="Osc2Pulse" id="7362" flags="" value="0.000000000000" parameter="41" symbol="osc2pulse"/>
-        <Controllable name="PulseWidth" id="7364" flags="" value="0.111999988556" parameter="42" symbol="pulsewidth"/>
+        <Controllable name="PulseWidth" id="7364" flags="" value="0.112000003457" parameter="42" symbol="pulsewidth"/>
         <Controllable name="Brightness" id="7366" flags="" value="1.000000000000" parameter="43" symbol="brightness"/>
-        <Controllable name="EnvelopeToPitch" id="7368" flags="" value="0.020000053570" parameter="44" symbol="envelopetopitch"/>
+        <Controllable name="EnvelopeToPitch" id="7368" flags="" value="0.019999999553" parameter="44" symbol="envelopetopitch"/>
         <Controllable name="Osc1Mix" id="7370" flags="" value="1.000000000000" parameter="45" symbol="osc1mix"/>
         <Controllable name="Osc2Mix" id="7372" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
         <Controllable name="NoiseMix" id="7374" flags="" value="0.000000000000" parameter="47" symbol="noisemix"/>
@@ -1740,7 +1707,6 @@
       <Processor id="7206" name="Amp" active="yes" user-latency="0" type="amp">
         <Controllable name="gaincontrol" id="7180" flags="" value="0.421684771776"/>
       </Processor>
-      <Processor id="7208" name="meter-Bass" active="yes" user-latency="0" type="meter"/>
       <Processor id="7209" name="Bass" active="yes" user-latency="0" own-input="yes" own-output="no" output="Bass" type="main-outs" role="Main">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
         <Pannable>
@@ -1753,16 +1719,16 @@
         </Pannable>
       </Processor>
       <Slavable/>
-      <Controllable name="monitoring" id="7216" flags="RealTime" value="0.000000000000" monitoring=""/>
+      <Controllable name="monitoring" id="7216" flags="RealTime" value="1.000000000000" monitoring="MonitorInput"/>
       <Controllable name="recsafe" id="7214" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Controllable name="recenable" id="7212" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="recenable" id="7212" flags="Toggle,RealTime" value="1.000000000000"/>
       <Diskstream flags="Recordable" playlist="Bass.1" name="Bass" id="7217" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
-    <Route id="7588" name="Melody" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
-      <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="2547312127"/>
-      <Controllable name="solo" id="7596" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="7602" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="7604" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+    <Route id="7588" name="Melody" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
+      <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <Controllable name="solo" id="21898" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="21904" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="21906" flags="Toggle" value="0.000000000000" solo-safe="no"/>
       <IO name="Melody" id="7616" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Melody/midi_in 1">
           <Connection other="a2j:K-Board [20] (capture): K-Board MIDI 1"/>
@@ -1778,7 +1744,7 @@
         <Port type="midi" name="Melody/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="7598" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="mute" id="21900" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="phase" id="7600" flags="Toggle" value="0.000000000000" phase-invert=""/>
       <Automation/>
       <Pannable>
@@ -1789,7 +1755,6 @@
         <Controllable name="pan-lfe" id="7615" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="7620" name="meter-Melody" active="yes" user-latency="0" type="meter"/>
       <Processor id="7860" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <Automation>
           <AutomationList automation-id="parameter-49" id="7951" default="0.5" min-yval="0" max-yval="1" interpolation-style="Linear" state="Play" style="Absolute">
@@ -1797,505 +1762,616 @@
 24054 0.103174604475498
 378795 0.103174604475498
 378859 0.174603179097176
-819179 0.174603179097176
-820715 0.357142865657806
-822251 0.5
-823787 0.539682567119598
-824811 0.563492059707642
-826347 0.60317462682724
-827883 0.61904764175415
-828907 0.642857134342194
-830443 0.650793671607971
-831467 0.674603164196014
-833003 0.674603164196014
-834539 0.650793671607971
-835563 0.650793671607971
-837099 0.642857134342194
-838123 0.626984119415283
-839659 0.60317462682724
-841195 0.579365074634552
-842731 0.579365074634552
-843755 0.563492059707642
-845291 0.51587301492691
-846315 0.48412698507309
-847851 0.428571432828903
-849387 0.396825402975082
-850411 0.293650805950165
-851947 0.0873015895485878
-852971 0.0873015895485878
-854507 0.373015880584717
-856043 0.428571432828903
-857067 0.436507940292358
-858603 0.452380955219269
-859627 0.476190477609634
-861163 0.507936537265778
-862699 0.51587301492691
-863723 0.571428596973419
-865259 0.58730161190033
-866795 0.61904764175415
-868331 0.626984119415283
-869355 0.642857134342194
-870891 0.642857134342194
-871915 0.634920656681061
-873451 0.626984119415283
-874987 0.60317462682724
-876011 0.571428596973419
-877547 0.555555582046509
-879083 0.51587301492691
-880107 0.468253970146179
-881643 0.380952388048172
-883179 0.31746032834053
-884203 0.142857149243355
-885739 0
-889835 0
-890859 0.00793650839477777
-892395 0.222222223877907
-893419 0.293650805950165
-894955 0.404761910438538
-896491 0.5
-897515 0.58730161190033
-899051 0.634920656681061
-900075 0.650793671607971
-901611 0.698412716388702
-903147 0.746031761169434
-904171 0.746031761169434
-905707 0.753968238830566
-907243 0.769841253757477
-908267 0.785714268684387
-909803 0.817460298538208
-910827 0.817460298538208
-912363 0.825396835803986
-913899 0.841269850730896
-914923 0.857142865657806
-916459 0.857142865657806
-917483 0.873015880584717
-919019 0.88095235824585
-920555 0.88095235824585
-921579 0.888888895511627
-923115 0.888888895511627
-924139 0.88095235824585
-925675 0.849206328392029
-927211 0.817460298538208
-928235 0.801587283611298
-930283 0.769841253757477
-931819 0.706349194049835
-933355 0.666666686534882
-934379 0.642857134342194
-935915 0.634920656681061
-937451 0.61904764175415
-938475 0.579365074634552
-940011 0.563492059707642
-941035 0.555555582046509
-942571 0.5
-944107 0.468253970146179
-945131 0.380952388048172
-946667 0.246031746268272
-947691 0.095238097012043
-949227 0.0873015895485878
-950763 0.158730164170265
-951787 0.341269850730896
-953323 0.277777791023254
-954347 0.103174604475498
-955883 0.206349208950996
-957419 0.238095238804817
-958443 0.214285716414452
-959979 0.222222223877907
-961003 0.158730164170265
-962539 0.611111104488373
-964075 0.650793671607971
-965099 0.571428596973419
-966635 0.48412698507309
-968171 0.547619044780731
-969195 0.571428596973419
-970731 0.563492059707642
+379883 0.476190477609634
+819179 0.476190477609634
+820715 0.5
+821739 0.571428596973419
+823275 0.642857134342194
+828395 0.642857134342194
+829931 0.650793671607971
+830955 0.674603164196014
+834027 0.674603164196014
+835051 0.682539701461792
+837611 0.738095223903656
+840683 0.761904776096344
+841707 0.785714268684387
+843755 0.801587283611298
+844779 0.769841253757477
+847339 0.801587283611298
+848875 0.769841253757477
+850411 0.51587301492691
+851947 0.28571429848671
+852971 0
+854507 0.452380955219269
+855531 0.539682567119598
+857067 0.571428596973419
+862187 0.626984119415283
+863723 0.666666686534882
+864747 0.674603164196014
+867819 0.674603164196014
+874475 0.714285731315613
+875499 0.706349194049835
+878059 0.698412716388702
+879595 0.674603164196014
+882155 0.61904764175415
+883691 0.51587301492691
+885227 0.428571432828903
+886251 0.246031746268272
+887787 0.0793650820851326
+888811 0.0793650820851326
+890347 0.142857149243355
+891883 0.333333343267441
+892907 0.436507940292358
+894443 0.539682567119598
+895979 0.61904764175415
+897003 0.706349194049835
+900075 0.746031761169434
+902635 0.817460298538208
+903659 0.825396835803986
+906731 0.825396835803986
+907755 0.841269850730896
+910315 0.841269850730896
+913387 0.857142865657806
+915947 0.857142865657806
+920043 0.857142865657806
+922603 0.841269850730896
+925675 0.801587283611298
+926699 0.777777791023254
+929259 0.714285731315613
+930795 0.650793671607971
+933355 0.563492059707642
+935915 0.539682567119598
+937451 0.5
+938987 0.476190477609634
+940011 0.436507940292358
+946667 0.404761910438538
+948203 0.341269850730896
+949227 0.15079365670681
+950763 0.238095238804817
+952299 0.309523820877075
+953323 0.16666667163372
+954859 0.277777791023254
+955883 0.373015880584717
+957419 0.420634925365448
+958955 0.357142865657806
+959979 0.30158731341362
+961515 0.309523820877075
+963051 0.571428596973419
+964075 0.547619044780731
+965611 0.444444447755814
+968171 0.531746029853821
+969707 0.531746029853821
+970731 0.5
 972267 0.5
-973291 0.468253970146179
-974827 0.452380955219269
-975851 0.468253970146179
-977387 0.468253970146179
-978923 0.452380955219269
-979947 0.420634925365448
-981483 0.412698417901993
-983019 0.412698417901993
-984043 0.420634925365448
-985579 0.452380955219269
-987115 0.476190477609634
-988139 0.48412698507309
-989675 0.5
-990699 0.722222208976746
-992235 0.809523820877075
-993771 0.769841253757477
-994795 0.714285731315613
+973803 0.531746029853821
+974827 0.531746029853821
+976363 0.5
+977899 0.492063492536545
+983019 0.349206358194351
+984555 0.230158731341362
+986091 0.293650805950165
+987115 0.674603164196014
+988651 0.738095223903656
+991211 0.746031761169434
+992747 0.722222208976746
+993771 0.682539701461792
+995307 0.714285731315613
 996331 0.706349194049835
-997867 0.626984119415283
-998891 0.547619044780731
-1000427 0.547619044780731
-1001963 0.492063492536545
-1003499 0.373015880584717
-1004523 0.1349206417799
-1006059 0
-1011179 0
-1012715 0.357142865657806
-1014251 0.412698417901993
-1015275 0.452380955219269
-1016811 0.507936537265778
-1017835 0.547619044780731
-1019371 0.58730161190033
-1020907 0.61904764175415
+999403 0.642857134342194
+1000427 0.48412698507309
+1001963 0.103174604475498
+1008619 0.103174604475498
+1009643 0.349206358194351
+1011179 0.48412698507309
+1012715 0.555555582046509
+1013739 0.58730161190033
+1017835 0.650793671607971
+1020395 0.650793671607971
 1021931 0.674603164196014
-1023467 0.706349194049835
-1024491 0.738095223903656
-1026027 0.746031761169434
-1027563 0.746031761169434
-1028587 0.753968238830566
-1030123 0.769841253757477
-1031147 0.785714268684387
-1035243 0.785714268684387
-1036779 0.753968238830566
-1037803 0.714285731315613
-1039339 0.706349194049835
-1040875 0.690476179122925
-1041899 0.666666686534882
-1043435 0.58730161190033
-1044459 0.531746029853821
-1045995 0.269841283559799
-1047531 0.222222223877907
-1048555 0.365079373121262
-1050091 0.468253970146179
-1051627 0.5
-1052651 0.5
-1054187 0.51587301492691
-1055723 0.531746029853821
-1057259 0.531746029853821
-1058283 0.51587301492691
-1059819 0.492063492536545
-1060843 0.468253970146179
-1062379 0.373015880584717
-1063915 0.28571429848671
-1064939 0.16666667163372
-1066475 0.0634920671582222
-1068011 0
-1078763 0
-1080299 0.15079365670681
-1081323 0.634920656681061
-1082859 0.690476179122925
-1083883 0.706349194049835
-1085419 0.722222208976746
-1086955 0.753968238830566
-1088491 0.769841253757477
-1089515 0.769841253757477
-1091051 0.753968238830566
-1092587 0.746031761169434
-1093611 0.722222208976746
-1095147 0.682539701461792
-1096171 0.674603164196014
-1097707 0.650793671607971
-1100267 0.650793671607971
-1101803 0.642857134342194
-1103339 0.642857134342194
-1104363 0.626984119415283
-1108459 0.626984119415283
-1109995 0.611111104488373
-1111019 0.60317462682724
-1112555 0.60317462682724
-1113579 0.571428596973419
-1115115 0.547619044780731
-1116139 0.531746029853821
-1117675 0.476190477609634
-1119211 0.373015880584717
-1120747 0.222222223877907
-1121771 0.1349206417799
-1123307 0.0873015895485878
-1124843 0.095238097012043
-1125867 0.158730164170265
-1127403 0.198412701487541
-1128427 0.238095238804817
-1129963 0.373015880584717
-1131499 0.452380955219269
-1132523 0.51587301492691
-1134059 0.539682567119598
-1135083 0.539682567119598
-1136619 0.547619044780731
-1139691 0.547619044780731
-1140715 0.539682567119598
-1142251 0.531746029853821
-1143275 0.51587301492691
-1144811 0.492063492536545
-1145835 0.476190477609634
-1147371 0.436507940292358
-1148907 0.420634925365448
-1149931 0.373015880584717
-1151467 0.309523820877075
-1153003 0.333333343267441
-1154027 0.341269850730896
-1155563 0.373015880584717
-1156587 0.436507940292358
-1158123 0.51587301492691
-1159659 0.555555582046509
-1161195 0.58730161190033
-1162219 0.650793671607971
-1163755 0.626984119415283
-1165291 0.563492059707642
-1166315 0.51587301492691
-1167851 0.48412698507309
-1168875 0.48412698507309
-1170411 0.476190477609634
-1171947 0.452380955219269
-1172971 0.5
-1174507 0.531746029853821
-1176043 0.547619044780731
-1177067 0.507936537265778
-1178603 0.412698417901993
-1180139 0.333333343267441
-1181163 0.206349208950996
-1182699 0.095238097012043
-1183723 0
-1202667 0
-1203691 0.222222223877907
-1205227 0.365079373121262
-1206763 0.380952388048172
-1207787 0.452380955219269
-1209323 0.468253970146179
-1210859 0.5
-1211883 0.634920656681061
-1213419 0.690476179122925
-1214443 0.706349194049835
-1215979 0.722222208976746
-1217515 0.738095223903656
-1218539 0.753968238830566
-1220075 0.746031761169434
+1027051 0.642857134342194
+1029611 0.642857134342194
+1031147 0.650793671607971
+1033707 0.642857134342194
+1036779 0.642857134342194
+1037803 0.626984119415283
+1043435 0.539682567119598
+1044459 0.48412698507309
+1045995 0.420634925365448
+1047019 0.777777791023254
+1048555 0.857142865657806
+1050091 0.88095235824585
+1052651 0.888888895511627
+1055211 0.91269838809967
+1056747 0.904761910438538
+1060843 0.873015880584717
+1061867 0.785714268684387
+1063403 0.698412716388702
+1067499 0.58730161190033
+1068523 0.571428596973419
+1072619 0.531746029853821
+1074155 0.531746029853821
+1075179 0.507936537265778
+1078251 0.48412698507309
+1082347 0.396825402975082
+1083371 0.174603179097176
+1084907 0.666666686534882
+1086443 0.722222208976746
+1087467 0.746031761169434
+1089003 0.746031761169434
+1091563 0.801587283611298
+1095659 0.801587283611298
+1097195 0.785714268684387
+1098219 0.801587283611298
+1099755 0.785714268684387
+1103851 0.785714268684387
+1106411 0.761904776096344
+1107947 0.746031761169434
+1108971 0.746031761169434
+1112043 0.690476179122925
+1113067 0.674603164196014
+1115627 0.674603164196014
+1117163 0.642857134342194
+1118699 0.642857134342194
+1119723 0.626984119415283
+1122795 0.61904764175415
+1123819 0.60317462682724
+1125355 0.60317462682724
+1127915 0.571428596973419
+1132011 0.571428596973419
+1133547 0.555555582046509
+1136107 0.555555582046509
+1140203 0.634920656681061
+1143275 0.674603164196014
+1145835 0.682539701461792
+1147371 0.714285731315613
+1148395 0.746031761169434
+1155563 0.817460298538208
+1156587 0.817460298538208
+1169899 0.89682537317276
+1171435 0.91269838809967
+1172971 0.936507940292358
+1173995 0.936507940292358
+1178091 1
+1186283 1
+1187307 0.952380955219269
+1188843 0.857142865657806
+1190379 0.722222208976746
+1191403 0.420634925365448
+1192939 0.0238095242530107
+1193963 0
+1200619 0
+1202155 0.0714285746216774
+1203691 0.579365074634552
+1204715 0.746031761169434
+1206251 0.769841253757477
+1208811 0.769841253757477
+1214443 0.817460298538208
+1215467 0.809523820877075
+1218027 0.753968238830566
+1219563 0.746031761169434
 1221099 0.746031761169434
-1222635 0.714285731315613
-1224171 0.698412716388702
-1225195 0.626984119415283
-1226731 0.571428596973419
-1227755 0.547619044780731
-1229803 0.5
-1230827 0.452380955219269
-1232363 0.373015880584717
-1233387 0.293650805950165
-1234923 0.095238097012043
-1235947 0
-1239019 0
-1240043 0.0634920671582222
-1241579 0.365079373121262
-1243115 0.404761910438538
-1244139 0.412698417901993
-1245675 0.428571432828903
-1247211 0.444444447755814
-1248235 0.452380955219269
-1249771 0.48412698507309
-1250795 0.48412698507309
-1252331 0.5
-1253867 0.507936537265778
-1254891 0.51587301492691
-1256427 0.51587301492691
-1257963 0.531746029853821
-1258987 0.531746029853821
-1260523 0.5
-1261547 0.48412698507309
-1263083 0.452380955219269
-1264619 0.436507940292358
-1265643 0.380952388048172
-1267179 0.309523820877075
-1268203 0.261904776096344
-1269739 0.142857149243355
-1271275 0.0317460335791111
-1272299 0
-1273835 0
-1275883 0.230158731341362
-1276907 0.293650805950165
-1278443 0.436507940292358
-1279979 0.5
-1281515 0.539682567119598
-1283051 0.563492059707642
-1283563 0.579365074634552
-1285611 0.666666686534882
-1287147 0.674603164196014
-1288683 0.698412716388702
-1290219 0.706349194049835
-1291755 0.714285731315613
-1292779 0.746031761169434
-1294827 0.769841253757477
-1296363 0.785714268684387
-1297899 0.785714268684387
-1298923 0.801587283611298
-1300459 0.817460298538208
-1303019 0.817460298538208
-1303531 0.801587283611298
-1304043 0.801587283611298
-1304555 0.777777791023254
-1306091 0.722222208976746
-1307627 0.650793671607971
-1309163 0.58730161190033
-1310699 0.58730161190033
-1312235 0.571428596973419
-1314283 0.555555582046509
-1315307 0.51587301492691
-1316331 0.476190477609634
-1318891 0.380952388048172
-1320427 0.373015880584717
-1321451 0.396825402975082
-1324523 0.396825402975082
-1326059 0.412698417901993
-1328107 0.428571432828903
-1329643 0.1349206417799
-1330667 0.1349206417799
-1332203 0.269841283559799
-1333739 0.246031746268272
-1335275 0.230158731341362
-1343979 0.230158731341362
-1345515 0.269841283559799
-1347051 0.476190477609634
-1348587 0.547619044780731
-1350123 0.452380955219269
-1351659 0.444444447755814
-1352683 0.468253970146179
-1354219 0.48412698507309
-1355755 0.476190477609634
-1356779 0.468253970146179
-1358315 0.452380955219269
-1359339 0.468253970146179
-1360875 0.492063492536545
-1362411 0.5
-1363435 0.468253970146179
-1364971 0.428571432828903
-1366507 0.428571432828903
-1368043 0.380952388048172
-1369067 0.357142865657806
-1370603 0.365079373121262
-1372139 0.349206358194351
-1373163 0.61904764175415
-1374699 0.88095235824585
-1375723 0.857142865657806
-1377259 0.785714268684387
-1378795 0.825396835803986
-1379819 0.841269850730896
-1381355 0.817460298538208
-1382891 0.785714268684387
-1383915 0.547619044780731
-1385451 0.404761910438538
-1386987 0.341269850730896
-1388011 0.0873015895485878
-1397227 0.0873015895485878
-1398763 0.214285716414452
-1400299 0.30158731341362
-1401323 0.380952388048172
-1402859 0.436507940292358
-1403883 0.492063492536545
-1405419 0.547619044780731
-1406955 0.60317462682724
-1407979 0.626984119415283
-1409515 0.650793671607971
-1411051 0.666666686534882
-1412075 0.666666686534882
-1413611 0.674603164196014
-1416171 0.674603164196014
-1417707 0.642857134342194
-1418731 0.634920656681061
-1420267 0.61904764175415
-1421291 0.626984119415283
-1422827 0.611111104488373
-1424363 0.60317462682724
-1425387 0.571428596973419
-1426923 0.539682567119598
-1427947 0.51587301492691
-1429483 0.5
-1431019 0.468253970146179
-1432555 0.31746032834053
-1433579 0.650793671607971
-1435115 0.777777791023254
-1436651 0.801587283611298
-1437675 0.817460298538208
-1439211 0.801587283611298
-1440747 0.753968238830566
-1441771 0.738095223903656
-1443307 0.714285731315613
-1444331 0.682539701461792
-1444843 0.642857134342194
-1446379 0.60317462682724
-1447403 0.579365074634552
-1449451 0.507936537265778
-1450987 0.48412698507309
-1452523 0.428571432828903
-1453547 0.412698417901993
-1455083 0.396825402975082
-1457131 0.373015880584717
-1458155 0.365079373121262
-1459691 0.373015880584717
-1461227 0.365079373121262
-1462251 0.365079373121262
-1463275 0.373015880584717
-1464811 0.373015880584717
-1466347 0.380952388048172
-1467883 0.380952388048172
-1469419 0.396825402975082
-1470443 0.396825402975082
-1472491 0.404761910438538
-1475563 0.412698417901993
-1478123 0.468253970146179
-1479659 0.507936537265778
-1481195 0.531746029853821
-1482219 0.539682567119598
-1483755 0.571428596973419
-1485291 0.60317462682724
-1486827 0.61904764175415
-1488363 0.634920656681061
-1489899 0.642857134342194
-1491435 0.650793671607971
-1493483 0.674603164196014
-1495019 0.682539701461792
-1496555 0.698412716388702
-1499627 0.698412716388702
-1501675 0.706349194049835
-1503211 0.722222208976746
-1504747 0.722222208976746
-1506795 0.738095223903656
-1508331 0.753968238830566
-1509355 0.753968238830566
-1511403 0.777777791023254
-1512939 0.801587283611298
-1514475 0.809523820877075
-1515499 0.817460298538208
-1517035 0.825396835803986
-1522155 0.825396835803986
-1523179 0.857142865657806
-1526251 0.857142865657806
-1527787 0.873015880584717
-1529323 0.88095235824585
-1530859 0.888888895511627
-1532395 0.89682537317276
-1534443 0.904761910438538
-1535979 0.91269838809967
-1537515 0.91269838809967
-1538539 0.936507940292358
-1540075 0.944444417953491
-1541099 0.960317432880402
-1544171 0.960317432880402
-1545707 0.968253970146179
-1547243 0.960317432880402
-1549291 0.960317432880402
-1550827 0.968253970146179
-1552363 0.960317432880402
-1553899 0.968253970146179
-1562603 0.968253970146179
-1564139 0.976190447807312
-1566699 0.976190447807312
-1568235 0.98412698507309
-1576427 0.98412698507309
-1577451 0.976190447807312
-1578987 0.968253970146179
-1580523 0.968253970146179
-1581547 0.960317432880402
-1584107 0.960317432880402
-1585643 0.936507940292358
-1587179 0.936507940292358
-1588715 0.904761910438538
-1589739 0.873015880584717
-1591275 0.746031761169434
-1592299 0.452380955219269
-1593835 0.246031746268272
-1684459 0.246031746268272
+1222123 0.722222208976746
+1227755 0.682539701461792
+1228779 0.650793671607971
+1231851 0.579365074634552
+1232875 0.563492059707642
+1234411 0.492063492536545
+1235947 0.365079373121262
+1237483 0.30158731341362
+1238507 0.111111111938953
+1240043 0.246031746268272
+1241067 0.373015880584717
+1242603 0.436507940292358
+1244139 0.48412698507309
+1245163 0.547619044780731
+1249259 0.61904764175415
+1250795 0.60317462682724
+1253355 0.60317462682724
+1255915 0.626984119415283
+1257451 0.611111104488373
+1260011 0.611111104488373
+1264107 0.531746029853821
+1265643 0.507936537265778
+1269227 0.420634925365448
+1270763 0.341269850730896
+1272299 0.246031746268272
+1273323 0.0476190485060215
+1274859 0.396825402975082
+1276395 0.571428596973419
+1277931 0.611111104488373
+1280491 0.698412716388702
+1282027 0.714285731315613
+1283563 0.714285731315613
+1284587 0.698412716388702
+1287659 0.690476179122925
+1288683 0.666666686534882
+1290219 0.58730161190033
+1291755 0.563492059707642
+1298411 0.579365074634552
+1299435 0.58730161190033
+1300971 0.555555582046509
+1303531 0.531746029853821
+1305067 0.468253970146179
+1306091 0.428571432828903
+1307627 0.396825402975082
+1309163 0.404761910438538
+1310187 0.365079373121262
+1313259 0.357142865657806
+1314283 0.365079373121262
+1315819 0.396825402975082
+1317355 0.412698417901993
+1321451 0.404761910438538
+1322475 0.380952388048172
+1325035 0.373015880584717
+1326571 0.357142865657806
+1329643 0.31746032834053
+1331179 0.341269850730896
+1332203 0.357142865657806
+1333739 0.31746032834053
+1335275 0.30158731341362
+1336299 0.0158730167895555
+1337835 0.214285716414452
+1338859 0.293650805950165
+1340395 0.206349208950996
+1341419 0.198412701487541
+1342955 0.309523820877075
+1344491 0.238095238804817
+1346027 0.341269850730896
+1347051 0.396825402975082
+1348587 0.682539701461792
+1350123 0.682539701461792
+1351147 0.650793671607971
+1352683 0.698412716388702
+1353707 0.714285731315613
+1359339 0.650793671607971
+1360363 0.666666686534882
+1363435 0.674603164196014
+1364459 0.650793671607971
+1367531 0.611111104488373
+1368555 0.61904764175415
+1370091 0.380952388048172
+1371627 0.476190477609634
+1372651 0.746031761169434
+1375211 0.777777791023254
+1376747 0.738095223903656
+1378283 0.690476179122925
+1379307 0.698412716388702
+1382379 0.634920656681061
+1383403 0.539682567119598
+1384939 0.28571429848671
+1395691 0.28571429848671
+1396715 0.444444447755814
+1399275 0.51587301492691
+1400811 0.539682567119598
+1402347 0.539682567119598
+1403371 0.571428596973419
+1406443 0.60317462682724
+1411563 0.60317462682724
+1412587 0.611111104488373
+1415659 0.60317462682724
+1416683 0.611111104488373
+1420779 0.579365074634552
+1422315 0.547619044780731
+1424875 0.404761910438538
+1425899 0.261904776096344
+1427435 0.0714285746216774
+1433088 0.980519473552704
+1437163 0.586580097675323
+1442788 0.3210678845644
+1454059 0.348484843969345
+1466866 0.683982670307159
+1468395 0.725829720497131
+1469931 0.733766257762909
+1470955 0.6782106757164
+1472491 0.670274198055267
+1476587 0.686147212982178
+1477611 0.646464645862579
+1479147 0.638528168201447
+1480171 0.682539701461792
+1481195 0.642857134342194
+1483755 0.611111104488373
+1486315 0.555555582046509
+1487851 0.539682567119598
+1489387 0.555555582046509
+1493483 0.555555582046509
+1496043 0.571428596973419
+1500139 0.571428596973419
+1504235 0.58730161190033
+1505259 0.58730161190033
+1506795 0.60317462682724
+1509355 0.611111104488373
+1510891 0.626984119415283
+1512427 0.626984119415283
+1513451 0.642857134342194
+1516011 0.642857134342194
+1517547 0.650793671607971
+1521643 0.650793671607971
+1522667 0.666666686534882
+1530859 0.674603164196014
+1532395 0.682539701461792
+1534955 0.714285731315613
+1540587 0.753968238830566
+1543147 0.785714268684387
+1547243 0.841269850730896
+1548267 0.849206328392029
+1549803 0.873015880584717
+1551339 0.873015880584717
+1556459 0.936507940292358
+1557995 0.952380955219269
+1559019 0.976190447807312
+1560555 0.98412698507309
+1563115 0.960317432880402
+1570283 1
+1585131 1
+1586155 0.944444417953491
+1587691 0.722222208976746
+1589227 0.380952388048172
+1617604 0.380952388048172
+1617668 0.222222223877907
+1619204 0.222222223877907
+1620228 0.214285716414452
+1621764 0.214285716414452
+1622788 0.206349208950996
+1624324 0.182539686560631
+1625860 0.174603179097176
+1626884 0.16666667163372
+1628420 0.142857149243355
+1629444 0.1349206417799
+1630980 0.103174604475498
+1632516 0.103174604475498
+1633540 0.126984134316444
+1635076 0.1349206417799
+1636100 0.1349206417799
+1637636 0.142857149243355
+1639172 0.158730164170265
+1640196 0.16666667163372
+1641732 0.174603179097176
+1642756 0.174603179097176
+1644292 0.16666667163372
+1645828 0.16666667163372
+1646852 0.174603179097176
+1648388 0.182539686560631
+1649412 0.182539686560631
+1650948 0.198412701487541
+1656068 0.198412701487541
+1657604 0.206349208950996
+1658628 0.214285716414452
+1661700 0.214285716414452
+1662724 0.206349208950996
+1664260 0.206349208950996
+1665284 0.214285716414452
+1684228 0.214285716414452
+1685764 0.198412701487541
+1686788 0.198412701487541
+1688324 0.182539686560631
+1689860 0.198412701487541
+1690884 0.198412701487541
+1692420 0.214285716414452
+1693956 0.206349208950996
+1694980 0.214285716414452
+1699076 0.214285716414452
+1700612 0.222222223877907
+1701636 0.222222223877907
+1703172 0.238095238804817
+1705732 0.238095238804817
+1707268 0.246031746268272
+1709828 0.246031746268272
+1710852 0.238095238804817
+1712388 0.238095238804817
+1713924 0.230158731341362
+1719044 0.230158731341362
+1720580 0.222222223877907
+1724676 0.222222223877907
+1726212 0.230158731341362
+1727236 0.246031746268272
+1728772 0.269841283559799
+1729796 0.28571429848671
+1731332 0.293650805950165
+1733892 0.293650805950165
+1735428 0.28571429848671
+1736452 0.28571429848671
+1737988 0.269841283559799
+1739012 0.246031746268272
+1740548 0.269841283559799
+1742084 0.277777791023254
+1743620 0.309523820877075
+1745156 0.349206358194351
+1746180 0.373015880584717
+1747716 0.380952388048172
+1748740 0.365079373121262
+1750276 0.357142865657806
+1751812 0.357142865657806
+1752836 0.349206358194351
+1754372 0.341269850730896
+1755908 0.31746032834053
+1756932 0.30158731341362
+1758468 0.28571429848671
+1759492 0.269841283559799
+1761028 0.269841283559799
+1762564 0.261904776096344
+1763588 0.269841283559799
+1765124 0.30158731341362
+1766148 0.333333343267441
+1767684 0.380952388048172
+1769220 0.412698417901993
+1770244 0.404761910438538
+1771780 0.412698417901993
+1773316 0.380952388048172
+1774340 0.341269850730896
+1775876 0.269841283559799
+1777412 0.198412701487541
+1778948 0.143892347812653
+1779972 0
+1779979 0.13768115942029
+1789184 0.282608693276626
+1814269 0.0942028950953829
+1814276 0
+1815812 0.1349206417799
+1816836 0.222222223877907
+1818372 0.277777791023254
+1819908 0.246031746268272
+1820932 0.16666667163372
+1822468 0.0317460335791111
+1823492 0
+1838340 0
+1839876 0.111111111938953
+1840900 0.15079365670681
+1842436 0.182539686560631
+1843972 0.214285716414452
+1844996 0.238095238804817
+1846532 0.238095238804817
+1847556 0.261904776096344
+1849092 0.293650805950165
+1850628 0.30158731341362
+1851652 0.333333343267441
+1853188 0.357142865657806
+1854724 0.373015880584717
+1855748 0.380952388048172
+1857284 0.420634925365448
+1858820 0.444444447755814
+1859844 0.468253970146179
+1862916 0.468253970146179
+1863940 0.444444447755814
+1865476 0.436507940292358
+1867012 0.396825402975082
+1868036 0.277777791023254
+1869572 0.0238095242530107
+1870596 0
+1971456 0.195652173913043
+2035972 0.18840579688549
+2037252 0.221532091498375
+2039044 0.230848863720894
+2040068 0.241545900702476
+2041860 0.223257422447205
+2042628 0.198412701487541
+2044420 0.230158731341362
+2045444 0.252588003873825
+2046724 0.28571429848671
+2048260 0.31746032834053
+2049284 0.349206358194351
+2050820 0.373015880584717
+2051844 0.412698417901993
+2053380 0.428571432828903
+2054916 0.436507940292358
+2055940 0.452380955219269
+2057476 0.452380955219269
+2058500 0.476190477609634
+2060036 0.492063492536545
+2061572 0.5
+2062596 0.5
+2064132 0.48412698507309
+2065156 0.452380955219269
+2066692 0.412698417901993
+2068228 0.31746032834053
+2069764 0.174603179097176
+2070788 0
+2074880 0.282608695652174
+2100996 0
+2102532 0.142857149243355
+2104068 0.222222223877907
+2105604 0.28571429848671
+2107140 0.293650805950165
+2108164 0.277777791023254
+2109700 0.174603179097176
+2110724 0.0634920671582222
+2112260 0
+2123012 0
+2124036 0.0158730167895555
+2125572 0.1349206417799
+2126596 0.174603179097176
+2128132 0.230158731341362
+2129668 0.238095238804817
+2130692 0.238095238804817
+2132228 0.261904776096344
+2133764 0.269841283559799
+2134788 0.277777791023254
+2136324 0.28571429848671
+2137860 0.30158731341362
+2138884 0.341269850730896
+2140420 0.357142865657806
+2141444 0.373015880584717
+2142980 0.404761910438538
+2144516 0.428571432828903
+2146052 0.444444447755814
+2147076 0.476190477609634
+2148612 0.507936537265778
+2149636 0.547619044780731
+2151172 0.579365074634552
+2152708 0.60317462682724
+2153732 0.60317462682724
+2155268 0.5
+2156292 0.412698417901993
+2157828 0.30158731341362
+2159364 0.182539686560631
+2160388 0.095238097012043
+2161924 0.15079365670681
+2162948 0.206349208950996
+2164484 0.349206358194351
+2166020 0.412698417901993
+2167044 0.452380955219269
+2168580 0.468253970146179
+2169604 0.452380955219269
+2171140 0.468253970146179
+2172676 0.452380955219269
+2173700 0.452380955219269
+2175236 0.444444447755814
+2176260 0.436507940292358
+2179332 0.436507940292358
+2180356 0.428571432828903
+2183428 0.428571432828903
+2184452 0.420634925365448
+2185988 0.412698417901993
+2187012 0.404761910438538
+2188548 0.404761910438538
+2190084 0.396825402975082
+2191108 0.396825402975082
+2192644 0.380952388048172
+2209028 0.380952388048172
+2210052 0.396825402975082
+2211588 0.380952388048172
+2212612 0.396825402975082
+2214148 0.412698417901993
+2216708 0.412698417901993
+2218244 0.428571432828903
+2220804 0.428571432828903
+2222340 0.436507940292358
+2228996 0.436507940292358
+2230020 0.452380955219269
+2235652 0.452380955219269
+2236676 0.468253970146179
+2239748 0.468253970146179
+2240772 0.476190477609634
+2242308 0.48412698507309
+2259716 0.48412698507309
+2260740 0.492063492536545
+2262276 0.5
+2279684 0.5
+2280708 0.507936537265778
+2301188 0.507936537265778
+2302212 0.51587301492691
+2303748 0.531746029853821
+2304772 0.531746029853821
+2306308 0.539682567119598
+2308868 0.539682567119598
+2310404 0.547619044780731
+2311428 0.547619044780731
+2312964 0.539682567119598
+2323716 0.539682567119598
+2324740 0.547619044780731
+2326276 0.547619044780731
+2327812 0.555555582046509
+2341124 0.555555582046509
+2342660 0.539682567119598
+2347780 0.539682567119598
+2349316 0.531746029853821
+2350340 0.507936537265778
+2351876 0.492063492536545
+2352900 0.452380955219269
+2354436 0.357142865657806
+2355460 0.261904776096344
+2356996 0.0714285746216774
+2358532 0
+2381572 0
 </events>
           </AutomationList>
         </Automation>
@@ -2364,7 +2440,7 @@
           <Port symbol="osc2mix" value="+1.000000"/>
           <Port symbol="noisemix" value="+0.540000"/>
           <Port symbol="filterkeyfollow" value="+0.000000"/>
-          <Port symbol="cutoff" value="+0.452164"/>
+          <Port symbol="cutoff" value="+0.555556"/>
           <Port symbol="resonance" value="+0.000000"/>
           <Port symbol="multimode" value="+0.436000"/>
           <Port symbol="filter_warm" value="+0.000000"/>
@@ -2437,16 +2513,16 @@
         <Controllable name="Osc2Mix" id="7946" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
         <Controllable name="NoiseMix" id="7948" flags="" value="0.540000021458" parameter="47" symbol="noisemix"/>
         <Controllable name="FilterKeyFollow" id="7950" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
-        <Controllable name="Cutoff" id="7952" flags="" value="0.452163934708" parameter="49" symbol="cutoff"/>
+        <Controllable name="Cutoff" id="7952" flags="" value="0.555555582047" parameter="49" symbol="cutoff"/>
         <Controllable name="Resonance" id="7954" flags="" value="0.000000000000" parameter="50" symbol="resonance"/>
-        <Controllable name="Multimode" id="7956" flags="" value="0.435999959707" parameter="51" symbol="multimode"/>
+        <Controllable name="Multimode" id="7956" flags="" value="0.435999989510" parameter="51" symbol="multimode"/>
         <Controllable name="Filter_Warm" id="7958" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
         <Controllable name="BandpassBlend" id="7960" flags="" value="0.000000000000" parameter="53" symbol="bandpassblend"/>
         <Controllable name="FourPole" id="7962" flags="" value="1.000000000000" parameter="54" symbol="fourpole"/>
-        <Controllable name="FilterEnvAmount" id="7964" flags="" value="0.983999967575" parameter="55" symbol="filterenvamount"/>
+        <Controllable name="FilterEnvAmount" id="7964" flags="" value="0.984000027180" parameter="55" symbol="filterenvamount"/>
         <Controllable name="Attack" id="7966" flags="" value="0.024000000209" parameter="56" symbol="attack"/>
         <Controllable name="Decay" id="7968" flags="" value="0.075999997556" parameter="57" symbol="decay"/>
-        <Controllable name="Sustain" id="7970" flags="" value="0.415999978781" parameter="58" symbol="sustain"/>
+        <Controllable name="Sustain" id="7970" flags="" value="0.416000008583" parameter="58" symbol="sustain"/>
         <Controllable name="Release" id="7972" flags="" value="0.000000000000" parameter="59" symbol="release"/>
         <Controllable name="FilterAttack" id="7974" flags="" value="0.000000000000" parameter="60" symbol="filterattack"/>
         <Controllable name="FilterDecay" id="7976" flags="" value="0.211999997497" parameter="61" symbol="filterdecay"/>
@@ -2468,6 +2544,7 @@
       <Processor id="7618" name="Amp" active="yes" user-latency="0" type="amp">
         <Controllable name="gaincontrol" id="7592" flags="" value="0.743810772896"/>
       </Processor>
+      <Processor id="7620" name="meter-Melody" active="yes" user-latency="0" type="meter"/>
       <Processor id="7621" name="Melody" active="yes" user-latency="0" own-input="yes" own-output="no" output="Melody" type="main-outs" role="Main">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
         <Pannable>
@@ -2482,37 +2559,15 @@
       <Slavable/>
       <Controllable name="monitoring" id="7628" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="7626" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Controllable name="recenable" id="7624" flags="Toggle,RealTime" value="1.000000000000"/>
+      <Controllable name="recenable" id="7624" flags="Toggle,RealTime" value="0.000000000000"/>
       <Diskstream flags="Recordable" playlist="Melody.1" name="Melody" id="7629" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
   </Routes>
   <Playlists>
-    <Playlist id="7218" name="Bass.1" type="midi" orig-track-id="7176" frozen="no" combine-ops="0">
-      <Region name="Bass-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="384872" position="432981" beat="36" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="32" id="7439" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
-      <Region name="Bass-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="384873" position="817854" beat="68" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="32" id="7582" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
-      <Region name="Bass-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="384873" position="1202727" beat="100" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="32" id="8050" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
-    </Playlist>
-    <Playlist id="654" name="Snare.1" type="midi" orig-track-id="612" frozen="no" combine-ops="0">
-      <Region name="Snare-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="96218" beat="7.99998488284" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="1" id="837" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="168381" beat="13.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="1" id="3099" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="192436" beat="15.9999697657" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="1" id="3269" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="288654" beat="23.9999546485" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1" id="3996" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="384872" beat="31.9999395314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1" id="4016" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="481090" beat="39.9999244142" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1" id="4382" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="553254" beat="45.9999546485" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="1" id="4423" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="577309" beat="47.9999924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="1" id="4392" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="673527" beat="55.9999773243" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="1" id="4402" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="769745" beat="63.9999622071" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="1" id="4412" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="865963" beat="71.9999470899" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" start-beats="0" length-beats="1" id="4604" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="962181" beat="79.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="1" id="4610" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1034345" beat="85.9999622071" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="1" id="4642" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1058400" beat="88" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="0" length-beats="1" id="4648" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1154618" beat="95.9999848828" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" start-beats="0" length-beats="1" id="4695" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1226781" beat="101.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="15" start-beats="0" length-beats="1" id="4701" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1250836" beat="103.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="16" start-beats="0" length-beats="1" id="4707" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1347054" beat="111.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="1" id="4781" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1419218" beat="117.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="18" start-beats="0" length-beats="1" id="4787" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
-      <Region name="Snare-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1443272" beat="119.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="1" id="4793" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+    <Playlist id="4152" name="PulsingLead.1" type="midi" orig-track-id="4110" frozen="no" combine-ops="0">
+      <Region name="PulsingLead-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48110" length="384872" position="432981" beat="35.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4" length-beats="32" id="4466" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+      <Region name="PulsingLead-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="817854" beat="67.9999546485" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.99993197279" length-beats="32" id="5243" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+      <Region name="PulsingLead-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="1202727" beat="99.9999773243" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="3.99993197279" length-beats="32" id="8020" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
     </Playlist>
     <Playlist id="196" name="Kick.1" type="midi" orig-track-id="154" frozen="no" combine-ops="0">
       <Region name="Kick-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="48109" beat="3.99999244142" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="1" id="374" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
@@ -2550,23 +2605,58 @@
       <Region name="Kick-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1298945" beat="107.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="31" start-beats="0" length-beats="1" id="4744" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
       <Region name="Kick-1.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1383136" beat="114.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="34" start-beats="0" length-beats="1" id="4770" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
       <Region name="Kick-1.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1395163" beat="115.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="33" start-beats="0" length-beats="1" id="4760" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6013" position="1479354" beat="122.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="35" start-beats="0" length-beats="0.5" id="11421" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="1485367" beat="123.499901738" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="36" start-beats="0" length-beats="0.5" id="11424" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1491381" beat="123.999931973" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="37" start-beats="0" length-beats="1" id="11427" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6013" position="1527463" beat="126.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="38" start-beats="0" length-beats="0.5" id="11433" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="1533476" beat="127.49989418" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="39" start-beats="0" length-beats="0.5" id="11436" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1539490" beat="127.999924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="40" start-beats="0" length-beats="1" id="11439" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="1551518" beat="128.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="41" start-beats="0" length-beats="0.5" id="11457" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6013" position="1557531" beat="129.499931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="42" start-beats="0" length-beats="0.5" id="11460" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1563545" beat="129.999962207" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="43" start-beats="0" length-beats="1" id="11463" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     </Playlist>
     <Playlist id="3328" name="Crash.1" type="midi" orig-track-id="3286" frozen="no" combine-ops="0">
       <Region name="Crash-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="84191" length="288654" position="192436" beat="15.9999697657" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="7" length-beats="24" id="3531" type="midi" first-edit="nothing" source-0="3529" master-source-0="3529"/>
-      <Region name="Crash-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="84191" length="96218" position="769745" beat="64" sync-position="84191" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="7" length-beats="8" id="7564" type="midi" first-edit="nothing" source-0="3529" master-source-0="3529"/>
+      <Region name="Crash-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="84191" length="96218" position="769745" beat="63.9999622071" sync-position="84191" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="7" length-beats="8" id="7564" type="midi" first-edit="nothing" source-0="3529" master-source-0="3529"/>
+      <Region name="Crash-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="190462" position="1515436" beat="125.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="15.8359259259" id="11637" type="midi" first-edit="nothing" source-0="11635" master-source-0="11635"/>
     </Playlist>
-    <Playlist id="4152" name="PulsingLead.1" type="midi" orig-track-id="4110" frozen="no" combine-ops="0">
-      <Region name="PulsingLead-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48110" length="384872" position="432981" beat="35.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4" length-beats="32" id="4466" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
-      <Region name="PulsingLead-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="817854" beat="67.9999546485" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.99993197279" length-beats="32" id="5243" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
-      <Region name="PulsingLead-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384873" position="1202727" beat="100" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="3.99993197279" length-beats="32" id="8020" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
+    <Playlist id="7630" name="Melody.1" type="midi" orig-track-id="7588" frozen="no" combine-ops="0">
+      <Region name="Melody-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="793800" position="793800" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="66" id="11668" type="midi" first-edit="nothing" source-0="10688" master-source-0="10688"/>
+      <Region name="Melody-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="793800" position="1587600" beat="132" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="66" id="14460" type="midi" first-edit="nothing" source-0="13687" master-source-0="13687"/>
+    </Playlist>
+    <Playlist id="7218" name="Bass.1" type="midi" orig-track-id="7176" frozen="no" combine-ops="0">
+      <Region name="Bass-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="384872" position="432981" beat="35.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="32" id="7439" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
+      <Region name="Bass-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="384872" position="817854" beat="67.9999546485" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="32" id="7582" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
+      <Region name="Bass-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="384872" position="1202727" beat="99.9999773243" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="32" id="8050" type="midi" first-edit="nothing" source-0="7437" master-source-0="7437"/>
+    </Playlist>
+    <Playlist id="654" name="Snare.1" type="midi" orig-track-id="612" frozen="no" combine-ops="0">
+      <Region name="Snare-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="96218" beat="7.99998488284" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="1" id="837" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="168381" beat="13.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="1" id="3099" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="192436" beat="15.9999697657" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="1" id="3269" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="288654" beat="23.9999546485" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="1" id="3996" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="384872" beat="31.9999395314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="1" id="4016" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="481090" beat="39.9999244142" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="1" id="4382" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="553254" beat="45.9999546485" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="1" id="4423" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="577309" beat="47.9999924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="1" id="4392" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="673527" beat="55.9999773243" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="1" id="4402" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="769745" beat="63.9999622071" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="1" id="4412" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="865963" beat="71.9999470899" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" start-beats="0" length-beats="1" id="4604" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="962181" beat="79.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="1" id="4610" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1034345" beat="85.9999622071" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="1" id="4642" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1058400" beat="88" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="0" length-beats="1" id="4648" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1154618" beat="95.9999848828" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" start-beats="0" length-beats="1" id="4695" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1226781" beat="101.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="15" start-beats="0" length-beats="1" id="4701" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1250836" beat="103.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="16" start-beats="0" length-beats="1" id="4707" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1347054" beat="111.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="1" id="4781" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1419218" beat="117.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="18" start-beats="0" length-beats="1" id="4787" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1443272" beat="119.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="1" id="4793" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
+      <Region name="Snare-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="1551518" beat="128.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="21" start-beats="0" length-beats="1" id="11505" type="midi" first-edit="nothing" source-0="11503" master-source-0="11503"/>
+      <Region name="Snare-1.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="1563545" beat="129.999962207" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="20" start-beats="0" length-beats="1" id="11484" type="midi" first-edit="nothing" source-0="835" master-source-0="835"/>
     </Playlist>
     <Playlist id="4949" name="PopLeads.1" type="midi" orig-track-id="4907" frozen="no" combine-ops="0">
       <Region name="PopLeads-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48110" length="384872" position="432981" beat="35.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.00006046863" length-beats="32" id="5183" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
       <Region name="PopLeads-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="817854" beat="67.9999546485" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.99999244142" length-beats="32" id="5254" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
-      <Region name="PopLeads-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384873" position="1202727" beat="100" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="3.99999244142" length-beats="32" id="8035" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
-    </Playlist>
-    <Playlist id="7630" name="Melody.1" type="midi" orig-track-id="7588" frozen="no" combine-ops="0">
-      <Region name="Melody-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="890659" position="793800" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="74.0532804233" id="8440" type="midi" first-edit="nothing" source-0="8364" master-source-0="8364"/>
+      <Region name="PopLeads-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="1202727" beat="99.9999773243" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="3.99999244142" length-beats="32" id="8035" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists/>
@@ -2585,14 +2675,14 @@
     </Processor>
   </Click>
   <LTC-In>
-    <IO name="LTC In" id="44" direction="Input" default-type="audio" user-latency="0">
+    <IO name="LTC In" id="45" direction="Input" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-in">
         <Connection other="system:capture_1"/>
       </Port>
     </IO>
   </LTC-In>
   <LTC-Out>
-    <IO name="LTC Out" id="45" direction="Output" default-type="audio" user-latency="0">
+    <IO name="LTC Out" id="46" direction="Output" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-out"/>
     </IO>
   </LTC-Out>
@@ -2622,22 +2712,24 @@
       <Window name="about" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="add-routes" visible="no" x-off="-1" y-off="-1" x-size="353" y-size="324"/>
       <Window name="add-video" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="inspector" visible="no" x-off="429" y-off="279" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="no" x-off="624" y-off="154" x-size="646" y-size="425"/>
+      <Window name="inspector" visible="no" x-off="116" y-off="93" x-size="620" y-size="370"/>
+      <Window name="audio-midi-setup" visible="no" x-off="0" y-off="0" x-size="678" y-size="425"/>
       <Window name="video-export" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="bundle-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="locations" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="no" x-off="522" y-off="211" x-size="434" y-size="506"/>
-      <Window name="midi-connection-manager" visible="no" x-off="504" y-off="253" x-size="470" y-size="423"/>
+      <Window name="audio-connection-manager" visible="no" x-off="522" y-off="211" x-size="468" y-size="541"/>
+      <Window name="midi-connection-manager" visible="no" x-off="504" y-off="253" x-size="543" y-size="507"/>
       <Window name="RPM-154" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-51" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-612" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-51" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-1786" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3286" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4110" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4907" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-7176" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-7588" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-154-220" visible="no" x-off="212" y-off="309" x-size="477" y-size="53" custom-ui="no"/>
       <Window name="P-154-184" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-154-186" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -2646,14 +2738,6 @@
       <Window name="PM-184-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-186-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-187-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-51-82" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-81" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-83" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-84" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-82-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-81-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-83-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-84-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-612-684" visible="no" x-off="559" y-off="209" x-size="491" y-size="53" custom-ui="no"/>
       <Window name="P-612-642" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-644" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -2662,6 +2746,14 @@
       <Window name="PM-642-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-644-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-645-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-51-82" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-81" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-83" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-84" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-82-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-81-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-83-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-84-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1786-1821" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-1817" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-1841" visible="no" x-off="446" y-off="237" x-size="491" y-size="53" custom-ui="no"/>
@@ -2674,7 +2766,7 @@
       <Window name="PM-1816-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1818-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1819-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3286-3378" visible="no" x-off="441" y-off="237" x-size="500" y-size="53" custom-ui="no"/>
+      <Window name="P-3286-3378" visible="no" x-off="441" y-off="237" x-size="511" y-size="53" custom-ui="no"/>
       <Window name="P-3286-3316" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-3318" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-3319" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -2690,7 +2782,7 @@
       <Window name="PM-4140-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4142-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4143-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4907-5011" visible="no" x-off="143" y-off="344" x-size="491" y-size="53" custom-ui="yes"/>
+      <Window name="P-4907-5011" visible="no" x-off="143" y-off="344" x-size="491" y-size="53" custom-ui="no"/>
       <Window name="P-4907-4937" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-4907-4939" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-4907-4940" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -2698,24 +2790,22 @@
       <Window name="PM-4937-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4939-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4940-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-7176" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-7176-7286" visible="no" x-off="702" y-off="340" x-size="502" y-size="53" custom-ui="no"/>
       <Window name="P-7176-7206" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7176-7208" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7176-7209" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-7286-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7206-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7208-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7209-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7176-7286" visible="no" x-off="702" y-off="340" x-size="491" y-size="53" custom-ui="yes"/>
-      <Window name="PM-7286-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-7588" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-7588-7860" visible="no" x-off="181" y-off="695" x-size="501" y-size="53" custom-ui="no"/>
       <Window name="P-7588-7618" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7588-7620" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7588-7621" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-7860-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7618-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7620-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7621-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7588-7860" visible="yes" x-off="199" y-off="822" x-size="1107" y-size="495" custom-ui="yes"/>
-      <Window name="PM-7860-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 51" height="66" visible="1"/>
         <Object id="automation 55" height="66" visible="0"/>
@@ -2726,7 +2816,7 @@
         <Object id="strip 51" visible="1" strip-width="Wide">
           <Object id="processor 81"/>
         </Object>
-        <Object id="rtav 154" height="31" visible="1" note-range-min="26" note-range-max="67" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 154" height="32" visible="1" note-range-min="26" note-range-max="67" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 158" height="66" visible="0"/>
         <Object id="automation 154 12/0/0" height="66" visible="0"/>
         <Object id="strip 154" visible="1" strip-width="Wide">
@@ -2735,7 +2825,7 @@
         </Object>
         <Object id="automation 173" height="66" visible="0"/>
         <Object id="automation 177" height="66" visible="0"/>
-        <Object id="rtav 612" height="31" visible="1" note-range-min="44" note-range-max="88" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 612" height="32" visible="1" note-range-min="44" note-range-max="88" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 616" height="66" visible="0"/>
         <Object id="automation 612 12/0/0" height="66" visible="0"/>
         <Object id="strip 612" strip-width="Wide" visible="1">
@@ -2756,7 +2846,7 @@
         </Object>
         <Object id="automation 1552" height="66" visible="0"/>
         <Object id="automation 1556" height="66" visible="0"/>
-        <Object id="rtav 1786" height="31" visible="1"/>
+        <Object id="rtav 1786" height="32" visible="1"/>
         <Object id="automation 1790" height="66" visible="0"/>
         <Object id="automation 1792" height="66" visible="0"/>
         <Object id="automation 1786 12/0/0" height="66" visible="0"/>
@@ -2779,7 +2869,7 @@
         </Object>
         <Object id="automation 3305" height="66" visible="0"/>
         <Object id="automation 3309" height="66" visible="0"/>
-        <Object id="rtav 4110" height="31" visible="1" note-range-min="60" note-range-max="72" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 4110" height="32" visible="1" note-range-min="60" note-range-max="72" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 4114" height="66" visible="0"/>
         <Object id="automation 4110 12/0/0" height="66" visible="0"/>
         <Object id="strip 4110" strip-width="Wide" visible="1">
@@ -3035,8 +3125,8 @@
         </Object>
         <Object id="automation 7607" height="66" visible="0"/>
         <Object id="automation 7611" height="66" visible="0"/>
-        <Object id="automation 7952" height="66" visible="1"/>
-        <Object id="automation 7588 13/1/0" height="66" visible="1"/>
+        <Object id="automation 7952" height="69" visible="1"/>
+        <Object id="automation 7588 13/1/0" height="66" visible="0"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="no"/>

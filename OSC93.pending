@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="22141" name-counter="1" event-counter="2095303" vca-counter="1">
+<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="22849" name-counter="1" event-counter="2143382" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.3-4-gb7e8d6f" modified-with="Ardour 5.3-4-gb7e8d6f"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -127,7 +127,7 @@
   <Locations>
     <Location id="377" name="session" start="24054" end="446463" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
     <Location id="407" name="Loop" start="426968" end="823868" flags="IsAutoLoop" locked="no" position-lock-style="AudioTime"/>
-    <Location id="8374" name="Punch" start="1587912" end="1968840" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
+    <Location id="8374" name="Punch" start="1581586" end="1968840" flags="IsAutoPunch" locked="no" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -347,7 +347,11 @@
       <Controllable name="monitoring" id="194" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="192" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="190" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="Kick.1" name="Kick" id="195" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="Kick.1" name="Kick" id="195" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/Kick-5.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
     <Route id="612" name="Snare" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="1" flags="MidiTrack,OrderSet" color="2147483647"/>
@@ -566,7 +570,11 @@
       <Controllable name="monitoring" id="652" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="650" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="648" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="Snare.1" name="Snare" id="653" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="Snare.1" name="Snare" id="653" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/Snare-3.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
     <Route id="51" name="Master" default-type="audio" strict-io="0" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterK20">
       <PresentationInfo order="1" flags="MasterOut,OrderSet" color="2147483647"/>
@@ -1069,7 +1077,11 @@
       <Controllable name="monitoring" id="3326" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="3324" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="3322" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="Crash.1" name="Crash" id="3327" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="Crash.1" name="Crash" id="3327" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/Crash-4.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
     <Route id="4110" name="PulsingLead" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="2145748479"/>
@@ -1286,7 +1298,11 @@
       <Controllable name="monitoring" id="4150" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="4148" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="4146" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="PulsingLead.1" name="PulsingLead" id="4151" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="PulsingLead.1" name="PulsingLead" id="4151" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/PulsingLead-2.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
     <Route id="4907" name="PopLeads" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="5" flags="MidiTrack,OrderSet" color="2147483647"/>
@@ -1503,9 +1519,13 @@
       <Controllable name="monitoring" id="4947" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="4945" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="4943" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="PopLeads.1" name="PopLeads" id="4948" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="PopLeads.1" name="PopLeads" id="4948" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/PopLeads-2.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
-    <Route id="7176" name="Bass" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
+    <Route id="7176" name="Bass" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
       <PresentationInfo order="6" flags="MidiTrack,OrderSet" color="2147483647"/>
       <Controllable name="solo" id="21707" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="21713" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
@@ -1536,6 +1556,7 @@
         <Controllable name="pan-lfe" id="7203" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
+      <Processor id="7208" name="meter-Bass" active="yes" user-latency="0" type="meter"/>
       <Processor id="7286" name="Obxd" active="yes" user-latency="0" type="lv2" unique-id="https://obxd.wordpress.com" count="1" custom="no">
         <ConfiguredInput>
           <Channels type="midi" count="1"/>
@@ -1706,7 +1727,6 @@
       <Processor id="7206" name="Amp" active="yes" user-latency="0" type="amp">
         <Controllable name="gaincontrol" id="7180" flags="" value="0.421684771776"/>
       </Processor>
-      <Processor id="7208" name="meter-Bass" active="yes" user-latency="0" type="meter"/>
       <Processor id="7209" name="Bass" active="yes" user-latency="0" own-input="yes" own-output="no" output="Bass" type="main-outs" role="Main">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
         <Pannable>
@@ -1721,8 +1741,12 @@
       <Slavable/>
       <Controllable name="monitoring" id="7216" flags="RealTime" value="1.000000000000" monitoring="MonitorInput"/>
       <Controllable name="recsafe" id="7214" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Controllable name="recenable" id="7212" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="Bass.1" name="Bass" id="7217" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Controllable name="recenable" id="7212" flags="Toggle,RealTime" value="1.000000000000"/>
+      <Diskstream flags="Recordable" playlist="Bass.1" name="Bass" id="7217" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/Bass-4.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
     <Route id="7588" name="Melody" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
       <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="2147483647"/>
@@ -2513,7 +2537,7 @@
         <Controllable name="Osc2Mix" id="7946" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
         <Controllable name="NoiseMix" id="7948" flags="" value="0.540000021458" parameter="47" symbol="noisemix"/>
         <Controllable name="FilterKeyFollow" id="7950" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
-        <Controllable name="Cutoff" id="7952" flags="" value="0.555555999279" parameter="49" symbol="cutoff"/>
+        <Controllable name="Cutoff" id="7952" flags="" value="0.555555582047" parameter="49" symbol="cutoff"/>
         <Controllable name="Resonance" id="7954" flags="" value="0.000000000000" parameter="50" symbol="resonance"/>
         <Controllable name="Multimode" id="7956" flags="" value="0.435999989510" parameter="51" symbol="multimode"/>
         <Controllable name="Filter_Warm" id="7958" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
@@ -2560,7 +2584,11 @@
       <Controllable name="monitoring" id="7628" flags="RealTime" value="0.000000000000" monitoring=""/>
       <Controllable name="recsafe" id="7626" flags="Toggle,RealTime" value="0.000000000000"/>
       <Controllable name="recenable" id="7624" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="Melody.1" name="Melody" id="7629" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
+      <Diskstream flags="Recordable" playlist="Melody.1" name="Melody" id="7629" speed="1.000000" capture-alignment="Automatic" record-safe="no">
+        <CapturingSources at="1581586">
+          <file path="/home/spencer/OSC93/interchange/OSC93/midifiles/Melody-7.mid"/>
+        </CapturingSources>
+      </Diskstream>
     </Route>
   </Routes>
   <Playlists>
@@ -2713,7 +2741,7 @@
       <Window name="add-routes" visible="no" x-off="-1" y-off="-1" x-size="353" y-size="324"/>
       <Window name="add-video" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="no" x-off="116" y-off="93" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="no" x-off="533" y-off="62" x-size="678" y-size="425"/>
+      <Window name="audio-midi-setup" visible="no" x-off="0" y-off="0" x-size="678" y-size="425"/>
       <Window name="video-export" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="bundle-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
