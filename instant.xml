@@ -2,14 +2,14 @@
 <instant>
   <LastUsedSnapshot name="OSC93"/>
   <Main x="0" y="22" w="2876" h="1752" current-tab="editor"/>
-  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="512" snap-to="SnapToBeatDiv2" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv3" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="2989419" left-frame="2839552" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="no" nudge-clock-value="220500">
+  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="2048" snap-to="SnapToBeatDiv2" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv3" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="5219922" left-frame="2676736" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="no" nudge-clock-value="220500">
     <Window name="Editor" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="yes"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <RouteView id="28518"/>
+      <RouteView id="7588"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
     <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</ActionScript>
