@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
   <LastUsedSnapshot name="OSC93"/>
-  <Main x="0" y="22" w="2876" h="1752" current-tab="editor"/>
-  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="1024" snap-to="SnapToBeatDiv2" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv3" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="316634" left-frame="0" y-origin="285.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
+  <Main x="0" y="22" w="1436" h="1752" current-tab="editor"/>
+  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="1024" snap-to="SnapToBeatDiv3" snap-mode="SnapOff" internal-snap-to="SnapToBeatDiv3" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="0" y-origin="285.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseContent" join-object-range="yes" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
     <Window name="Editor" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="yes"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <Marker id="407" start="no"/>
+      <MIDINote region-id="11668">
+        <note channel="0" time="20.912031" note="79" length="3.204740" velocity="108" off-velocity="0"/>
+      </MIDINote>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
     <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</ActionScript>
     <ActionHooks/>
   </Editor>
-  <Mixer mixer-rhs-pane1-pos="0.600000" mixer-rhs-pane2-pos="0.700000" mixer-list-hpane-pos="0.141713" mixer-inner-pane-pos="0.800000" narrow-strips="no" show-mixer="no" show-mixer-list="yes" maximised="no">
-    <Window name="Mixer" visible="no" x-off="0" y-off="22" x-size="2876" y-size="1752" tabbed="no"/>
+  <Mixer mixer-rhs-pane1-pos="0.600000" mixer-rhs-pane2-pos="0.700000" mixer-list-hpane-pos="0.141713" mixer-inner-pane-pos="0.800000" narrow-strips="no" show-mixer="yes" show-mixer-list="yes" maximised="no">
+    <Window name="Mixer" visible="yes" x-off="1440" y-off="22" x-size="1436" y-size="1752" tabbed="no"/>
     <PluginOrder/>
   </Mixer>
   <Preferences>
