@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="150925" name-counter="5" event-counter="36138543" vca-counter="1">
+<Session version="3002" name="OSC93" sample-rate="44100" end-is-free="no" id-counter="163896" name-counter="8" event-counter="40493650" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.3-4-gb7e8d6f" modified-with="Ardour 5.4"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -177,6 +177,7 @@
       <InterpolationStyle parameter="midicc-0-1" style="Discrete"/>
       <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
     </Source>
+    <Source name="PopLeads-4.mid" type="midi" flags="Writable,CanRename" id="163505" origin=""/>
   </Sources>
   <Regions>
     <Region name="Kick-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6143" position="26624" beat="2.21363567649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="0.278594104308" id="383" type="midi" first-edit="nothing" source-0="381" master-source-0="381"/>
@@ -226,6 +227,7 @@
     <Region name="Bass-5-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="775759" position="5875323" beat="488.500022676" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="64.4999924414" id="60712" type="midi" first-edit="nothing" source-0="28259" master-source-0="28259"/>
     <Region name="Kick-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7294" position="4696650" beat="390.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="83" start-beats="0" length-beats="0.606455026455" id="61015" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
     <Region name="Kick-1.86" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="-1" length="12027" position="3782577" beat="314.499977324" sync-position="-1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="100" start-beats="0" length-beats="1" id="61952" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+    <Region name="Kick-4.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6014" length="6013" position="6188031" beat="514.5" sync-position="6013" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="111" start-beats="0.499947089994" length-beats="0.499947089947" id="62108" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
     <Region name="Melody-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="509696" position="5526531" beat="459.499931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="42.3783522298" id="74732" type="midi" first-edit="nothing" source-0="72707" master-source-0="72707"/>
     <Region name="strange-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="579840" position="5863424" beat="487.510687831" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="48.210430839" id="79383" type="midi" first-edit="nothing" source-0="77585" master-source-0="77585"/>
     <Region name="Kick-1.109" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6735272" beat="559.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="126" start-beats="0" length-beats="1" id="79583" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
@@ -257,6 +259,7 @@
     <Region name="chord-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="977920" position="7552000" beat="627.906273621" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="81.3085411943" id="109405" type="midi" first-edit="nothing" source-0="106385" master-source-0="106385"/>
     <Region name="plecked-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="791296" position="7790080" beat="647.701284958" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="65.7918065004" id="109434" type="midi" first-edit="nothing" source-0="106576" master-source-0="106576"/>
     <Region name="PopLeads-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="204463" position="3704400" beat="308" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="3.99998488284" length-beats="17" id="150285" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
+    <Region name="PopLeads-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="3896836" beat="324" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="3.99998488284" length-beats="32" id="163477" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
   </Regions>
   <Locations>
     <Location id="377" name="session" start="239834" end="8756700" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
@@ -464,7 +467,7 @@
         <Controllable name="Pan8" id="362" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="364" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150495" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="14" selfdestruct="no" target="150395">
+      <Processor id="150495" name="DrumComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="14" selfdestruct="no" target="150395">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
         </PannerShell>
@@ -493,7 +496,7 @@
           <Automation/>
         </Pannable>
         <Processor id="120575" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="120574" flags="GainLike" value="0.182783365250"/>
+          <Controllable name="gaincontrol" id="120574" flags="GainLike" value="0.069037966430"/>
         </Processor>
       </Processor>
       <Processor id="184" name="Amp" active="yes" user-latency="0" type="amp">
@@ -727,7 +730,7 @@
         <Controllable name="Pan8" id="826" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="828" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150517" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="15" selfdestruct="no" target="150395">
+      <Processor id="150517" name="DrumComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="15" selfdestruct="no" target="150395">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
         </PannerShell>
@@ -790,9 +793,9 @@
           <Connection other="Bass/audio_out 1"/>
           <Connection other="Crash/audio_out 1"/>
           <Connection other="Deelay/audio_out 1"/>
+          <Connection other="DrumComp/audio_out 1"/>
           <Connection other="Kick/audio_out 1"/>
           <Connection other="Melody/audio_out 1"/>
-          <Connection other="NewYorkComp/audio_out 1"/>
           <Connection other="PopLeads/audio_out 1"/>
           <Connection other="PulsingLead/audio_out 1"/>
           <Connection other="Snare/audio_out 1"/>
@@ -805,9 +808,9 @@
           <Connection other="Bass/audio_out 2"/>
           <Connection other="Crash/audio_out 2"/>
           <Connection other="Deelay/audio_out 2"/>
+          <Connection other="DrumComp/audio_out 2"/>
           <Connection other="Kick/audio_out 2"/>
           <Connection other="Melody/audio_out 2"/>
-          <Connection other="NewYorkComp/audio_out 2"/>
           <Connection other="PopLeads/audio_out 2"/>
           <Connection other="PulsingLead/audio_out 2"/>
           <Connection other="Snare/audio_out 2"/>
@@ -872,7 +875,7 @@
           <Port symbol="kn" value="+8.000000"/>
           <Port symbol="rat" value="+1.657462"/>
           <Port symbol="thr" value="-3.092901"/>
-          <Port symbol="mak" value="+0.000000"/>
+          <Port symbol="mak" value="+1.237113"/>
           <Port symbol="sidech" value="+0.000000"/>
           <Port symbol="enable" value="+1.000000"/>
         </lv2>
@@ -880,8 +883,8 @@
         <Controllable name="Release" id="150352" flags="" value="77.427749633789" parameter="1" symbol="rel"/>
         <Controllable name="Knee" id="150354" flags="" value="8.000000000000" parameter="2" symbol="kn"/>
         <Controllable name="Ratio" id="150356" flags="" value="1.657462000847" parameter="3" symbol="rat"/>
-        <Controllable name="Threshold" id="150358" flags="" value="-3.092901468277" parameter="4" symbol="thr"/>
-        <Controllable name="Makeup" id="150360" flags="" value="0.000000000000" parameter="5" symbol="mak"/>
+        <Controllable name="Threshold" id="150358" flags="" value="-3.092900991440" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="150360" flags="" value="1.237112998962" parameter="5" symbol="mak"/>
         <Controllable name="Sidechain" id="150362" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
         <Controllable name="Enable" id="150364" flags="Toggle" value="1.000000000000" parameter="9" symbol="enable"/>
       </Processor>
@@ -1174,7 +1177,7 @@
         <Controllable name="Pan8" id="1983" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="1985" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150539" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="16" selfdestruct="no" target="150395">
+      <Processor id="150539" name="DrumComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="16" selfdestruct="no" target="150395">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
         </PannerShell>
@@ -1187,7 +1190,7 @@
           <Automation/>
         </Pannable>
         <Processor id="150554" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150553" flags="GainLike" value="0.250221937895"/>
+          <Controllable name="gaincontrol" id="150553" flags="GainLike" value="0.134939014912"/>
         </Processor>
       </Processor>
       <Processor id="120604" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="3" selfdestruct="no" target="120463">
@@ -1223,8 +1226,97 @@
       </Processor>
       <Slavable/>
     </Route>
+    <Route id="150395" name="DrumComp" default-type="audio" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak">
+      <PresentationInfo order="3" flags="AudioBus,OrderSet" color="2173691391"/>
+      <Controllable name="solo" id="150403" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="150409" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
+      <Controllable name="solo-safe" id="150411" flags="Toggle" value="0.000000000000" solo-safe="no"/>
+      <IO name="DrumComp" id="150423" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="DrumComp/audio_in 1"/>
+        <Port type="audio" name="DrumComp/audio_in 2"/>
+      </IO>
+      <IO name="DrumComp" id="150424" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="DrumComp/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="DrumComp/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
+      <Controllable name="mute" id="150405" flags="Toggle,RealTime" value="0.000000000000"/>
+      <Controllable name="phase" id="150407" flags="Toggle" value="0.000000000000" phase-invert="00"/>
+      <Automation/>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="150414" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="150418" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="150416" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="150420" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="150422" flags="" value="0.000000000000"/>
+        <Automation/>
+      </Pannable>
+      <Processor id="150431" name="return 4" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intreturn" bitslot="3"/>
+      <Processor id="150426" name="Amp" active="yes" user-latency="0" type="trim">
+        <Controllable name="trimcontrol" id="150401" flags="GainLike" value="1.000000000000"/>
+      </Processor>
+      <Processor id="150452" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="3"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="att" value="+10.000000"/>
+          <Port symbol="rel" value="+18.267933"/>
+          <Port symbol="kn" value="+0.000000"/>
+          <Port symbol="rat" value="+8.159534"/>
+          <Port symbol="thr" value="-60.000000"/>
+          <Port symbol="mak" value="+10.670157"/>
+          <Port symbol="sidech" value="+0.000000"/>
+          <Port symbol="enable" value="+1.000000"/>
+        </lv2>
+        <Controllable name="Attack" id="150350" flags="" value="10.000000000000" parameter="0" symbol="att"/>
+        <Controllable name="Release" id="150352" flags="" value="18.267932891846" parameter="1" symbol="rel"/>
+        <Controllable name="Knee" id="150354" flags="" value="0.000000000000" parameter="2" symbol="kn"/>
+        <Controllable name="Ratio" id="150356" flags="" value="8.159533500671" parameter="3" symbol="rat"/>
+        <Controllable name="Threshold" id="150358" flags="" value="-60.000000000000" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="150360" flags="" value="10.670157432556" parameter="5" symbol="mak"/>
+        <Controllable name="Sidechain" id="150362" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
+        <Controllable name="Enable" id="150364" flags="Toggle" value="1.000000000000" parameter="9" symbol="enable"/>
+      </Processor>
+      <Processor id="150425" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="150399" flags="GainLike" value="0.617787063122"/>
+      </Processor>
+      <Processor id="150427" name="meter-NewYorkComp" active="yes" user-latency="0" type="meter"/>
+      <Processor id="150428" name="DrumComp" active="yes" user-latency="0" own-input="yes" own-output="no" output="DrumComp" type="main-outs" role="Main">
+        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="150414" flags="" value="0.500000000000"/>
+          <Controllable name="pan-width" id="150418" flags="" value="1.000000000000"/>
+          <Controllable name="pan-elevation" id="150416" flags="" value="0.000000000000"/>
+          <Controllable name="pan-frontback" id="150420" flags="" value="0.000000000000"/>
+          <Controllable name="pan-lfe" id="150422" flags="" value="0.000000000000"/>
+          <Automation/>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+    </Route>
     <Route id="3286" name="Crash" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="3" flags="MidiTrack,OrderSet" color="1922885119"/>
+      <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="1922885119"/>
       <Controllable name="solo" id="44489" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="44495" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="44497" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -1419,7 +1511,7 @@
         <Controllable name="Pan8" id="3520" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="3522" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150473" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="13" selfdestruct="no" target="150395">
+      <Processor id="150473" name="DrumComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="13" selfdestruct="no" target="150395">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
         </PannerShell>
@@ -1452,7 +1544,7 @@
         </Processor>
       </Processor>
       <Processor id="3316" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="3290" flags="" value="1.000000000000"/>
+        <Controllable name="gaincontrol" id="3290" flags="" value="1.423346996307"/>
       </Processor>
       <Processor id="3318" name="meter-Crash" active="yes" user-latency="0" type="meter"/>
       <Processor id="3319" name="Crash" active="yes" user-latency="0" own-input="yes" own-output="no" output="Crash" type="main-outs" role="Main">
@@ -1473,7 +1565,7 @@
       <Diskstream flags="Recordable" playlist="Crash.1" name="Crash" id="3327" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="4110" name="PulsingLead" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="2145748479"/>
+      <PresentationInfo order="5" flags="MidiTrack,OrderSet" color="2145748479"/>
       <Controllable name="solo" id="44680" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="44686" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="44688" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -1668,22 +1760,6 @@
         <Controllable name="Pan8" id="4350" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="4352" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150561" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="17" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="4129" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="4133" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="4131" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="4135" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="4137" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150576" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150575" flags="GainLike" value="0.000000000000"/>
-        </Processor>
-      </Processor>
       <Processor id="120648" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="5" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
@@ -1701,7 +1777,7 @@
         </Processor>
       </Processor>
       <Processor id="4140" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="4114" flags="" value="0.329835981131"/>
+        <Controllable name="gaincontrol" id="4114" flags="" value="0.467670977116"/>
       </Processor>
       <Processor id="4142" name="meter-PulsingLead" active="yes" user-latency="0" type="meter"/>
       <Processor id="4143" name="PulsingLead" active="yes" user-latency="0" own-input="yes" own-output="no" output="PulsingLead" type="main-outs" role="Main">
@@ -1722,7 +1798,7 @@
       <Diskstream flags="Recordable" playlist="PulsingLead.1" name="PulsingLead" id="4151" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="4907" name="PopLeads" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="5" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <PresentationInfo order="6" flags="MidiTrack,OrderSet" color="2147483647"/>
       <Controllable name="solo" id="44871" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="44877" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="44879" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -1917,22 +1993,6 @@
         <Controllable name="Pan8" id="5153" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="5155" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150583" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="18" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="4926" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="4930" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="4928" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="4932" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="4934" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150598" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150597" flags="GainLike" value="0.000000000000"/>
-        </Processor>
-      </Processor>
       <Processor id="120670" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="6" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
@@ -1950,7 +2010,7 @@
         </Processor>
       </Processor>
       <Processor id="4937" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="4911" flags="" value="0.216573670506"/>
+        <Controllable name="gaincontrol" id="4911" flags="" value="0.336079955101"/>
       </Processor>
       <Processor id="4939" name="meter-PopLeads" active="yes" user-latency="0" type="meter"/>
       <Processor id="4940" name="PopLeads" active="yes" user-latency="0" own-input="yes" own-output="no" output="PopLeads" type="main-outs" role="Main">
@@ -1971,7 +2031,7 @@
       <Diskstream flags="Recordable" playlist="PopLeads.1" name="PopLeads" id="4948" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="7176" name="Bass" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="6" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="2147483647"/>
       <Controllable name="solo" id="45062" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="45068" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="45070" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -2166,21 +2226,52 @@
         <Controllable name="Pan8" id="7428" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="7430" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150605" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="19" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="7195" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="7199" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="7197" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="7201" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="7203" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150620" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150619" flags="GainLike" value="0.012281187810"/>
+      <Processor id="163405" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="3"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="audio" from="2" to="2"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <Processor id="163422" name="Sidechain 7" active="yes" user-latency="0" own-input="yes" own-output="yes" type="sidechain">
+          <IO name="Sidechain 7" id="163423" direction="Input" default-type="audio" pretty-name="SC a-Compressor stereo" user-latency="0">
+            <Port type="audio" name="Sidechain 7/audio_in 1"/>
+          </IO>
         </Processor>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="att" value="+10.000000"/>
+          <Port symbol="rel" value="+80.000000"/>
+          <Port symbol="kn" value="+0.000000"/>
+          <Port symbol="rat" value="+1.811287"/>
+          <Port symbol="thr" value="-20.412392"/>
+          <Port symbol="mak" value="+3.247423"/>
+          <Port symbol="sidech" value="+0.000000"/>
+          <Port symbol="enable" value="+1.000000"/>
+        </lv2>
+        <Controllable name="Attack" id="163407" flags="" value="10.000000000000" parameter="0" symbol="att"/>
+        <Controllable name="Release" id="163409" flags="" value="80.000000000000" parameter="1" symbol="rel"/>
+        <Controllable name="Knee" id="163411" flags="" value="0.000000000000" parameter="2" symbol="kn"/>
+        <Controllable name="Ratio" id="163413" flags="" value="1.811286687851" parameter="3" symbol="rat"/>
+        <Controllable name="Threshold" id="163415" flags="" value="-20.412391662598" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="163417" flags="" value="3.247422933578" parameter="5" symbol="mak"/>
+        <Controllable name="Sidechain" id="163419" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
+        <Controllable name="Enable" id="163421" flags="Toggle" value="1.000000000000" parameter="9" symbol="enable"/>
       </Processor>
       <Processor id="120692" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="7" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
@@ -2199,7 +2290,7 @@
         </Processor>
       </Processor>
       <Processor id="7206" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="7180" flags="" value="0.390139460564"/>
+        <Controllable name="gaincontrol" id="7180" flags="" value="0.710009872913"/>
       </Processor>
       <Processor id="7208" name="meter-Bass" active="yes" user-latency="0" type="meter"/>
       <Processor id="7209" name="Bass" active="yes" user-latency="0" own-input="yes" own-output="no" output="Bass" type="main-outs" role="Main">
@@ -2220,7 +2311,7 @@
       <Diskstream flags="Recordable" playlist="Bass.1" name="Bass" id="7217" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="7588" name="Melody" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="2147483647"/>
+      <PresentationInfo order="8" flags="MidiTrack,OrderSet" color="2147483647"/>
       <Controllable name="solo" id="45253" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="45259" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="45261" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -3912,7 +4003,7 @@
           <Port symbol="legatomode" value="+0.000000"/>
           <Port symbol="vibratorate" value="+0.240000"/>
           <Port symbol="vfltfactor" value="+0.216000"/>
-          <Port symbol="vampfactor" value="+0.360000"/>
+          <Port symbol="vampfactor" value="+0.208000"/>
           <Port symbol="asplayedallocation" value="+0.000000"/>
           <Port symbol="portamento" value="+0.000000"/>
           <Port symbol="unison" value="+0.000000"/>
@@ -3945,7 +4036,7 @@
           <Port symbol="osc2mix" value="+1.000000"/>
           <Port symbol="noisemix" value="+0.540000"/>
           <Port symbol="filterkeyfollow" value="+0.000000"/>
-          <Port symbol="cutoff" value="+0.574668"/>
+          <Port symbol="cutoff" value="+0.269841"/>
           <Port symbol="resonance" value="+0.000000"/>
           <Port symbol="multimode" value="+0.436000"/>
           <Port symbol="filter_warm" value="+0.000000"/>
@@ -3985,7 +4076,7 @@
         <Controllable name="LegatoMode" id="7880" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
         <Controllable name="VibratoRate" id="7882" flags="" value="0.239999994636" parameter="14" symbol="vibratorate"/>
         <Controllable name="VFltFactor" id="7884" flags="" value="0.216000005603" parameter="15" symbol="vfltfactor"/>
-        <Controllable name="VAmpFactor" id="7886" flags="" value="0.360000014305" parameter="16" symbol="vampfactor"/>
+        <Controllable name="VAmpFactor" id="7886" flags="" value="0.208000019193" parameter="16" symbol="vampfactor"/>
         <Controllable name="AsPlayedAllocation" id="7888" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
         <Controllable name="Portamento" id="7890" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
         <Controllable name="Unison" id="7892" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
@@ -4018,7 +4109,7 @@
         <Controllable name="Osc2Mix" id="7946" flags="" value="1.000000000000" parameter="46" symbol="osc2mix"/>
         <Controllable name="NoiseMix" id="7948" flags="" value="0.540000021458" parameter="47" symbol="noisemix"/>
         <Controllable name="FilterKeyFollow" id="7950" flags="" value="0.000000000000" parameter="48" symbol="filterkeyfollow"/>
-        <Controllable name="Cutoff" id="7952" flags="" value="0.574668288231" parameter="49" symbol="cutoff"/>
+        <Controllable name="Cutoff" id="7952" flags="" value="0.269841283560" parameter="49" symbol="cutoff"/>
         <Controllable name="Resonance" id="7954" flags="" value="0.000000000000" parameter="50" symbol="resonance"/>
         <Controllable name="Multimode" id="7956" flags="" value="0.435999989510" parameter="51" symbol="multimode"/>
         <Controllable name="Filter_Warm" id="7958" flags="" value="0.000000000000" parameter="52" symbol="filter_warm"/>
@@ -4046,21 +4137,52 @@
         <Controllable name="Pan8" id="8002" flags="" value="0.815999984741" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="8004" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150627" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="20" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="7607" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="7611" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="7609" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="7613" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="7615" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150642" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150641" flags="GainLike" value="0.030953779817"/>
+      <Processor id="163359" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="3"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="audio" from="2" to="2"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <Processor id="163376" name="Sidechain 5" active="yes" user-latency="0" own-input="yes" own-output="yes" type="sidechain">
+          <IO name="Sidechain 5" id="163377" direction="Input" default-type="audio" pretty-name="SC a-Compressor stereo" user-latency="0">
+            <Port type="audio" name="Sidechain 5/audio_in 1"/>
+          </IO>
         </Processor>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="att" value="+0.100000"/>
+          <Port symbol="rel" value="+41.417503"/>
+          <Port symbol="kn" value="+1.690722"/>
+          <Port symbol="rat" value="+4.157687"/>
+          <Port symbol="thr" value="-12.680414"/>
+          <Port symbol="mak" value="+2.319587"/>
+          <Port symbol="sidech" value="+0.000000"/>
+          <Port symbol="enable" value="+0.000000"/>
+        </lv2>
+        <Controllable name="Attack" id="163361" flags="" value="0.100000001490" parameter="0" symbol="att"/>
+        <Controllable name="Release" id="163363" flags="" value="41.417503356934" parameter="1" symbol="rel"/>
+        <Controllable name="Knee" id="163365" flags="" value="1.690721631050" parameter="2" symbol="kn"/>
+        <Controllable name="Ratio" id="163367" flags="" value="4.157686710358" parameter="3" symbol="rat"/>
+        <Controllable name="Threshold" id="163369" flags="" value="-12.680414199829" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="163371" flags="" value="2.319587469101" parameter="5" symbol="mak"/>
+        <Controllable name="Sidechain" id="163373" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
+        <Controllable name="Enable" id="163375" flags="Toggle" value="0.000000000000" parameter="9" symbol="enable"/>
       </Processor>
       <Processor id="120714" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="8" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
@@ -4079,7 +4201,7 @@
         </Processor>
       </Processor>
       <Processor id="7618" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="7592" flags="" value="0.442062467337"/>
+        <Controllable name="gaincontrol" id="7592" flags="" value="0.511456489563"/>
       </Processor>
       <Processor id="7620" name="meter-Melody" active="yes" user-latency="0" type="meter"/>
       <Processor id="7621" name="Melody" active="yes" user-latency="0" own-input="yes" own-output="no" output="Melody" type="main-outs" role="Main">
@@ -4100,7 +4222,7 @@
       <Diskstream flags="Recordable" playlist="Melody.1" name="Melody" id="7629" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="28518" name="strange" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="8" flags="MidiTrack,OrderSet" color="2749737727"/>
+      <PresentationInfo order="9" flags="MidiTrack,OrderSet" color="2749737727"/>
       <Controllable name="solo" id="45444" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="45450" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="45452" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -4275,7 +4397,7 @@
           <Port symbol="legatomode" value="+0.000000"/>
           <Port symbol="vibratorate" value="+1.000000"/>
           <Port symbol="vfltfactor" value="+1.000000"/>
-          <Port symbol="vampfactor" value="+0.392000"/>
+          <Port symbol="vampfactor" value="+0.256000"/>
           <Port symbol="asplayedallocation" value="+0.000000"/>
           <Port symbol="portamento" value="+0.000000"/>
           <Port symbol="unison" value="+0.000000"/>
@@ -4285,7 +4407,7 @@
           <Port symbol="lfosinewave" value="+0.000000"/>
           <Port symbol="lfosquarewave" value="+1.000000"/>
           <Port symbol="lfosampleholdwave" value="+0.000000"/>
-          <Port symbol="lfoamount1" value="+0.000000"/>
+          <Port symbol="lfoamount1" value="+0.182540"/>
           <Port symbol="lfoamount2" value="+0.000000"/>
           <Port symbol="lfoosc1" value="+1.000000"/>
           <Port symbol="lfoosc2" value="+1.000000"/>
@@ -4348,17 +4470,17 @@
         <Controllable name="LegatoMode" id="28662" flags="" value="0.000000000000" parameter="13" symbol="legatomode"/>
         <Controllable name="VibratoRate" id="28664" flags="" value="1.000000000000" parameter="14" symbol="vibratorate"/>
         <Controllable name="VFltFactor" id="28666" flags="" value="1.000000000000" parameter="15" symbol="vfltfactor"/>
-        <Controllable name="VAmpFactor" id="28668" flags="" value="0.391999989748" parameter="16" symbol="vampfactor"/>
+        <Controllable name="VAmpFactor" id="28668" flags="" value="0.255999982357" parameter="16" symbol="vampfactor"/>
         <Controllable name="AsPlayedAllocation" id="28670" flags="" value="0.000000000000" parameter="17" symbol="asplayedallocation"/>
         <Controllable name="Portamento" id="28672" flags="" value="0.000000000000" parameter="18" symbol="portamento"/>
         <Controllable name="Unison" id="28674" flags="" value="0.000000000000" parameter="19" symbol="unison"/>
-        <Controllable name="VoiceDetune" id="28676" flags="" value="0.395999968052" parameter="20" symbol="voicedetune"/>
+        <Controllable name="VoiceDetune" id="28676" flags="" value="0.395999997854" parameter="20" symbol="voicedetune"/>
         <Controllable name="Oscillator2detune" id="28678" flags="" value="0.244000002742" parameter="21" symbol="oscillator2detune"/>
         <Controllable name="LfoFrequency" id="28680" flags="" value="1.000000000000" parameter="22" symbol="lfofrequency"/>
         <Controllable name="LfoSineWave" id="28682" flags="" value="0.000000000000" parameter="23" symbol="lfosinewave"/>
         <Controllable name="LfoSquareWave" id="28684" flags="" value="1.000000000000" parameter="24" symbol="lfosquarewave"/>
         <Controllable name="LfoSampleHoldWave" id="28686" flags="" value="0.000000000000" parameter="25" symbol="lfosampleholdwave"/>
-        <Controllable name="LfoAmount1" id="28688" flags="" value="0.000000000000" parameter="26" symbol="lfoamount1"/>
+        <Controllable name="LfoAmount1" id="28688" flags="" value="0.182539686561" parameter="26" symbol="lfoamount1"/>
         <Controllable name="LfoAmount2" id="28690" flags="" value="0.000000000000" parameter="27" symbol="lfoamount2"/>
         <Controllable name="LfoOsc1" id="28692" flags="" value="1.000000000000" parameter="28" symbol="lfoosc1"/>
         <Controllable name="LfoOsc2" id="28694" flags="" value="1.000000000000" parameter="29" symbol="lfoosc2"/>
@@ -4401,7 +4523,7 @@
         <Controllable name="PortamentoDetune" id="28768" flags="" value="0.000000000000" parameter="66" symbol="portamentodetune"/>
         <Controllable name="Pan1" id="28770" flags="" value="0.324000000954" parameter="67" symbol="pan1"/>
         <Controllable name="Pan2" id="28772" flags="" value="0.419999986887" parameter="68" symbol="pan2"/>
-        <Controllable name="Pan3" id="28774" flags="" value="0.511999964714" parameter="69" symbol="pan3"/>
+        <Controllable name="Pan3" id="28774" flags="" value="0.512000024319" parameter="69" symbol="pan3"/>
         <Controllable name="Pan4" id="28776" flags="" value="0.635999977589" parameter="70" symbol="pan4"/>
         <Controllable name="Pan5" id="28778" flags="" value="0.671999990940" parameter="71" symbol="pan5"/>
         <Controllable name="Pan6" id="28780" flags="" value="0.603999972343" parameter="72" symbol="pan6"/>
@@ -4446,23 +4568,48 @@
         <Controllable name="High Pass Resonance" id="150263" flags="" value="0.707000017166" parameter="2"/>
         <Controllable name="Low Pass Steepness" id="150265" flags="" value="2.000000000000" parameter="3"/>
         <Controllable name="Low Pass Cut off frequency" id="150267" flags="" value="6447.594238281250" parameter="4"/>
-        <Controllable name="Low Pass Resonance" id="150269" flags="" value="0.595585882664" parameter="5"/>
+        <Controllable name="Low Pass Resonance" id="150269" flags="" value="0.595586001873" parameter="5"/>
       </Processor>
-      <Processor id="150649" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="21" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="28537" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="28541" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="28539" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="28543" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="28545" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150664" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150663" flags="GainLike" value="0.081857681274"/>
-        </Processor>
+      <Processor id="163427" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="3"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="att" value="+0.100000"/>
+          <Port symbol="rel" value="+41.417503"/>
+          <Port symbol="kn" value="+1.690722"/>
+          <Port symbol="rat" value="+4.157687"/>
+          <Port symbol="thr" value="-15.154642"/>
+          <Port symbol="mak" value="+0.000000"/>
+          <Port symbol="sidech" value="+0.000000"/>
+          <Port symbol="enable" value="+0.000000"/>
+        </lv2>
+        <Controllable name="Attack" id="163361" flags="" value="0.100000001490" parameter="0" symbol="att"/>
+        <Controllable name="Release" id="163363" flags="" value="41.417503356934" parameter="1" symbol="rel"/>
+        <Controllable name="Knee" id="163365" flags="" value="1.690721988678" parameter="2" symbol="kn"/>
+        <Controllable name="Ratio" id="163367" flags="" value="4.157687187195" parameter="3" symbol="rat"/>
+        <Controllable name="Threshold" id="163369" flags="" value="-15.154642105103" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="163371" flags="" value="0.000000000000" parameter="5" symbol="mak"/>
+        <Controllable name="Sidechain" id="163373" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
+        <Controllable name="Enable" id="163375" flags="Toggle" value="0.000000000000" parameter="9" symbol="enable"/>
       </Processor>
       <Processor id="120735" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="9" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
@@ -4503,16 +4650,16 @@
         </OutputMap-0>
         <ThruMap/>
         <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port symbol="blend" value="+0.340207"/>
+          <Port symbol="blend" value="+0.298970"/>
           <Port symbol="roomsz" value="+0.500000"/>
           <Port symbol="enable" value="+1.000000"/>
         </lv2>
-        <Controllable name="Blend" id="150798" flags="" value="0.340206712484" parameter="4" symbol="blend"/>
+        <Controllable name="Blend" id="150798" flags="" value="0.298969894648" parameter="4" symbol="blend"/>
         <Controllable name="Room Size" id="150800" flags="" value="0.500000000000" parameter="5" symbol="roomsz"/>
         <Controllable name="Enable" id="150802" flags="Toggle" value="1.000000000000" parameter="6" symbol="enable"/>
       </Processor>
       <Processor id="28548" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="28522" flags="" value="0.608203649521"/>
+        <Controllable name="gaincontrol" id="28522" flags="" value="0.824568033218"/>
       </Processor>
       <Processor id="28550" name="meter-strange" active="yes" user-latency="0" type="meter"/>
       <Processor id="28551" name="strange" active="yes" user-latency="0" own-input="yes" own-output="no" output="strange" type="main-outs" role="Main">
@@ -4533,7 +4680,7 @@
       <Diskstream flags="Recordable" playlist="strange.1" name="strange" id="28559" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="28933" name="chord" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="no">
-      <PresentationInfo order="9" flags="MidiTrack,OrderSet" color="2162520831"/>
+      <PresentationInfo order="10" flags="MidiTrack,OrderSet" color="2162520831"/>
       <Controllable name="solo" id="45635" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="45641" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="45643" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -4728,21 +4875,52 @@
         <Controllable name="Pan8" id="29208" flags="" value="0.648000001907" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="29210" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150671" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="22" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="28952" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="28956" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="28954" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="28958" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="28960" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150686" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150685" flags="GainLike" value="0.044541541487"/>
+      <Processor id="163382" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="3"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="audio" from="2" to="2"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <Processor id="163399" name="Sidechain 6" active="yes" user-latency="0" own-input="yes" own-output="yes" type="sidechain">
+          <IO name="Sidechain 6" id="163400" direction="Input" default-type="audio" pretty-name="SC a-Compressor stereo" user-latency="0">
+            <Port type="audio" name="Sidechain 6/audio_in 1"/>
+          </IO>
         </Processor>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
+          <Port symbol="att" value="+49.651062"/>
+          <Port symbol="rel" value="+167.453537"/>
+          <Port symbol="kn" value="+2.103093"/>
+          <Port symbol="rat" value="+2.476891"/>
+          <Port symbol="thr" value="-6.804123"/>
+          <Port symbol="mak" value="+0.000000"/>
+          <Port symbol="sidech" value="+0.000000"/>
+          <Port symbol="enable" value="+1.000000"/>
+        </lv2>
+        <Controllable name="Attack" id="163384" flags="" value="49.651062011719" parameter="0" symbol="att"/>
+        <Controllable name="Release" id="163386" flags="" value="167.453536987305" parameter="1" symbol="rel"/>
+        <Controllable name="Knee" id="163388" flags="" value="2.103092670441" parameter="2" symbol="kn"/>
+        <Controllable name="Ratio" id="163390" flags="" value="2.476891279221" parameter="3" symbol="rat"/>
+        <Controllable name="Threshold" id="163392" flags="" value="-6.804122924805" parameter="4" symbol="thr"/>
+        <Controllable name="Makeup" id="163394" flags="" value="0.000000000000" parameter="5" symbol="mak"/>
+        <Controllable name="Sidechain" id="163396" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
+        <Controllable name="Enable" id="163398" flags="Toggle" value="1.000000000000" parameter="9" symbol="enable"/>
       </Processor>
       <Processor id="120757" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="10" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
@@ -4761,7 +4939,7 @@
         </Processor>
       </Processor>
       <Processor id="28963" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="28937" flags="" value="0.102831564844"/>
+        <Controllable name="gaincontrol" id="28937" flags="" value="0.170248478651"/>
       </Processor>
       <Processor id="28965" name="meter-chord" active="yes" user-latency="0" type="meter"/>
       <Processor id="28966" name="chord" active="yes" user-latency="0" own-input="yes" own-output="no" output="chord" type="main-outs" role="Main">
@@ -4782,7 +4960,7 @@
       <Diskstream flags="Recordable" playlist="chord.1" name="chord" id="28974" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="33686" name="plecked" default-type="midi" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="no" input-active="yes">
-      <PresentationInfo order="10" flags="MidiTrack,OrderSet" color="3856387839"/>
+      <PresentationInfo order="11" flags="MidiTrack,OrderSet" color="3856387839"/>
       <Controllable name="solo" id="45826" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="45832" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="45834" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -4977,22 +5155,6 @@
         <Controllable name="Pan8" id="33967" flags="" value="0.500000000000" parameter="74" symbol="pan8"/>
         <Controllable name="unused3" id="33969" flags="" value="0.000000000000" parameter="75" symbol="unused3"/>
       </Processor>
-      <Processor id="150693" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="23" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="33705" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="33709" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="33707" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="33711" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="33713" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150708" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150707" flags="GainLike" value="0.000725455175"/>
-        </Processor>
-      </Processor>
       <Processor id="120779" name="Deelay" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="11" selfdestruct="no" target="120463">
         <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
           <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
@@ -5031,7 +5193,7 @@
       <Diskstream flags="Recordable" playlist="plecked.1" name="plecked" id="33727" speed="1.000000" capture-alignment="Automatic" record-safe="no"/>
     </Route>
     <Route id="120463" name="Deelay" default-type="audio" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="11" flags="AudioBus,OrderSet" color="2121459199"/>
+      <PresentationInfo order="12" flags="AudioBus,OrderSet" color="2121459199"/>
       <Controllable name="solo" id="120471" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="120477" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
       <Controllable name="solo-safe" id="120479" flags="Toggle" value="0.000000000000" solo-safe="no"/>
@@ -5104,7 +5266,7 @@
           <Port symbol="feedback" value="+84.433029"/>
           <Port symbol="lpf" value="+3260.949951"/>
           <Port symbol="gain" value="+0.000000"/>
-          <Port symbol="enable" value="+1.000000"/>
+          <Port symbol="enable" value="+0.000000"/>
         </lv2>
         <Controllable name="Invert" id="120539" flags="Toggle" value="0.000000000000" parameter="3" symbol="inv"/>
         <Controllable name="Sync BPM" id="120541" flags="Toggle" value="0.000000000000" parameter="4" symbol="sync"/>
@@ -5114,23 +5276,7 @@
         <Controllable name="Feedback" id="120549" flags="" value="84.433029174805" parameter="8" symbol="feedback"/>
         <Controllable name="LPF" id="120551" flags="" value="3260.949951171875" parameter="9" symbol="lpf"/>
         <Controllable name="Output Gain" id="120553" flags="" value="0.000000000000" parameter="10" symbol="gain"/>
-        <Controllable name="Enable" id="120555" flags="Toggle" value="1.000000000000" parameter="12" symbol="enable"/>
-      </Processor>
-      <Processor id="150715" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intsend" role="Aux" bitslot="24" selfdestruct="no" target="150395">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="120482" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="120486" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="120484" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="120488" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="120490" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-        <Processor id="150730" name="Amp" active="yes" user-latency="0" type="amp">
-          <Controllable name="gaincontrol" id="150729" flags="GainLike" value="0.000000000000"/>
-        </Processor>
+        <Controllable name="Enable" id="120555" flags="Toggle" value="0.000000000000" parameter="12" symbol="enable"/>
       </Processor>
       <Processor id="120493" name="Amp" active="yes" user-latency="0" type="amp">
         <Controllable name="gaincontrol" id="120467" flags="GainLike" value="0.165239036083"/>
@@ -5144,95 +5290,6 @@
           <Controllable name="pan-elevation" id="120484" flags="" value="0.000000000000"/>
           <Controllable name="pan-frontback" id="120488" flags="" value="0.000000000000"/>
           <Controllable name="pan-lfe" id="120490" flags="" value="0.000000000000"/>
-          <Automation/>
-        </Pannable>
-      </Processor>
-      <Slavable/>
-    </Route>
-    <Route id="150395" name="NewYorkComp" default-type="audio" strict-io="1" active="yes" denormal-protection="no" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="12" flags="AudioBus,OrderSet" color="2173691391"/>
-      <Controllable name="solo" id="150403" flags="Toggle,RealTime" value="0.000000000000" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0"/>
-      <Controllable name="solo-iso" id="150409" flags="Toggle,RealTime" value="0.000000000000" solo-isolated="no"/>
-      <Controllable name="solo-safe" id="150411" flags="Toggle" value="0.000000000000" solo-safe="no"/>
-      <IO name="NewYorkComp" id="150423" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="NewYorkComp/audio_in 1"/>
-        <Port type="audio" name="NewYorkComp/audio_in 2"/>
-      </IO>
-      <IO name="NewYorkComp" id="150424" direction="Output" default-type="audio" user-latency="0">
-        <Port type="audio" name="NewYorkComp/audio_out 1">
-          <Connection other="Master/audio_in 1"/>
-        </Port>
-        <Port type="audio" name="NewYorkComp/audio_out 2">
-          <Connection other="Master/audio_in 2"/>
-        </Port>
-      </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="no"/>
-      <Controllable name="mute" id="150405" flags="Toggle,RealTime" value="0.000000000000"/>
-      <Controllable name="phase" id="150407" flags="Toggle" value="0.000000000000" phase-invert="00"/>
-      <Automation/>
-      <Pannable>
-        <Controllable name="pan-azimuth" id="150414" flags="" value="0.500000000000"/>
-        <Controllable name="pan-width" id="150418" flags="" value="1.000000000000"/>
-        <Controllable name="pan-elevation" id="150416" flags="" value="0.000000000000"/>
-        <Controllable name="pan-frontback" id="150420" flags="" value="0.000000000000"/>
-        <Controllable name="pan-lfe" id="150422" flags="" value="0.000000000000"/>
-        <Automation/>
-      </Pannable>
-      <Processor id="150431" name="return 4" active="yes" user-latency="0" own-input="yes" own-output="yes" type="intreturn" bitslot="3"/>
-      <Processor id="150426" name="Amp" active="yes" user-latency="0" type="trim">
-        <Controllable name="trimcontrol" id="150401" flags="GainLike" value="1.000000000000"/>
-      </Processor>
-      <Processor id="150452" name="a-Compressor stereo" active="yes" user-latency="0" type="lv2" unique-id="urn:ardour:a-comp#stereo" count="1" custom="no">
-        <ConfiguredInput>
-          <Channels type="audio" count="2"/>
-        </ConfiguredInput>
-        <CustomSinks>
-          <Channels type="audio" count="3"/>
-        </CustomSinks>
-        <ConfiguredOutput>
-          <Channels type="audio" count="2"/>
-        </ConfiguredOutput>
-        <PresetOutput/>
-        <InputMap-0>
-          <Channelmap type="audio" from="0" to="0"/>
-          <Channelmap type="audio" from="1" to="1"/>
-        </InputMap-0>
-        <OutputMap-0>
-          <Channelmap type="audio" from="0" to="0"/>
-          <Channelmap type="audio" from="1" to="1"/>
-        </OutputMap-0>
-        <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port symbol="att" value="+40.381969"/>
-          <Port symbol="rel" value="+77.427750"/>
-          <Port symbol="kn" value="+0.000000"/>
-          <Port symbol="rat" value="+1.811287"/>
-          <Port symbol="thr" value="-60.000000"/>
-          <Port symbol="mak" value="+10.670107"/>
-          <Port symbol="sidech" value="+0.000000"/>
-          <Port symbol="enable" value="+1.000000"/>
-        </lv2>
-        <Controllable name="Attack" id="150350" flags="" value="40.381969451904" parameter="0" symbol="att"/>
-        <Controllable name="Release" id="150352" flags="" value="77.427749633789" parameter="1" symbol="rel"/>
-        <Controllable name="Knee" id="150354" flags="" value="0.000000000000" parameter="2" symbol="kn"/>
-        <Controllable name="Ratio" id="150356" flags="" value="1.811286807060" parameter="3" symbol="rat"/>
-        <Controllable name="Threshold" id="150358" flags="" value="-60.000000000000" parameter="4" symbol="thr"/>
-        <Controllable name="Makeup" id="150360" flags="" value="10.670106887817" parameter="5" symbol="mak"/>
-        <Controllable name="Sidechain" id="150362" flags="Toggle" value="0.000000000000" parameter="8" symbol="sidech"/>
-        <Controllable name="Enable" id="150364" flags="Toggle" value="1.000000000000" parameter="9" symbol="enable"/>
-      </Processor>
-      <Processor id="150425" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="150399" flags="GainLike" value="1.000000000000"/>
-      </Processor>
-      <Processor id="150427" name="meter-NewYorkComp" active="yes" user-latency="0" type="meter"/>
-      <Processor id="150428" name="NewYorkComp" active="yes" user-latency="0" own-input="yes" own-output="no" output="NewYorkComp" type="main-outs" role="Main">
-        <PannerShell bypassed="no" user-panner="" linked-to-route="yes"/>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="150414" flags="" value="0.500000000000"/>
-          <Controllable name="pan-width" id="150418" flags="" value="1.000000000000"/>
-          <Controllable name="pan-elevation" id="150416" flags="" value="0.000000000000"/>
-          <Controllable name="pan-frontback" id="150420" flags="" value="0.000000000000"/>
-          <Controllable name="pan-lfe" id="150422" flags="" value="0.000000000000"/>
           <Automation/>
         </Pannable>
       </Processor>
@@ -5277,7 +5334,8 @@
       <Region name="PopLeads-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="2549781" beat="211.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="3.99998488284" length-beats="32" id="34381" type="midi" first-edit="nothing" source-0="34379" master-source-0="34379"/>
       <Region name="PopLeads-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="2934654" beat="243.999954649" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="3.99998488284" length-beats="32" id="34466" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
       <Region name="PopLeads-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="3319527" beat="275.999977324" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="3.99998488284" length-beats="32" id="38804" type="midi" first-edit="nothing" source-0="34379" master-source-0="34379"/>
-      <Region name="PopLeads-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="210477" position="3704400" beat="308" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="3.99998488284" length-beats="17.5" id="150310" type="midi" first-edit="nothing" source-0="34379" master-source-0="34379"/>
+      <Region name="PopLeads-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="192436" position="3704400" beat="308" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="3.99998488284" length-beats="16" id="150310" type="midi" first-edit="nothing" source-0="34379" master-source-0="34379"/>
+      <Region name="PopLeads-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="192436" position="3896836" beat="323.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="3.99998488284" length-beats="16.0000302343" id="163507" type="midi" first-edit="nothing" source-0="163505" master-source-0="163505"/>
       <Region name="PopLeads-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="5628764" beat="468.000030234" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="3.99998488237" length-beats="31.9999395314" id="61926" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
       <Region name="PopLeads-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="6013637" beat="500.00005291" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="3.9999848831" length-beats="31.9999395314" id="61929" type="midi" first-edit="nothing" source-0="34379" master-source-0="34379"/>
       <Region name="PopLeads-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48109" length="384872" position="6398509" beat="531.999992441" sync-position="48109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="3.99998488237" length-beats="31.9999395314" id="79459" type="midi" first-edit="nothing" source-0="5181" master-source-0="5181"/>
@@ -5411,88 +5469,87 @@
       <Region name="Kick-1.95" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6013636" beat="499.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="108" start-beats="0" length-beats="1" id="62099" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
       <Region name="Kick-1.96" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6097827" beat="506.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="109" start-beats="0" length-beats="1" id="62102" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
       <Region name="Kick-1.97" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6109855" beat="508.000037793" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="110" start-beats="0" length-beats="1" id="62105" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-4.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6014" length="6013" position="6188032" beat="514.500015117" sync-position="6013" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="111" start-beats="0.499947089994" length-beats="0.499947089947" id="62108" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
-      <Region name="Kick-1.98" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="6206073" beat="516.000022676" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="112" start-beats="0" length-beats="1" id="62111" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6218100" beat="517" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="113" start-beats="0" length-beats="1" id="62114" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6242155" beat="519.000037793" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="114" start-beats="0" length-beats="0.499947089947" id="62117" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-4.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6248168" beat="519.499984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="115" start-beats="0" length-beats="0.499947089947" id="62120" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
-      <Region name="Kick-1.100" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6254182" beat="520.000015117" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="116" start-beats="0" length-beats="1" id="62123" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.101" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6266209" beat="520.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="117" start-beats="0" length-beats="1" id="62126" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6290264" beat="523.000030234" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="118" start-beats="0" length-beats="0.499947089947" id="62129" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-4.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6296277" beat="523.499977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="119" start-beats="0" length-beats="0.499947089947" id="62132" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
-      <Region name="Kick-1.102" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6302291" beat="524.000007559" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="120" start-beats="0" length-beats="1" id="62135" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.104" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6398509" beat="531.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="121" start-beats="0" length-beats="1" id="79568" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.105" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6482700" beat="539" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="122" start-beats="0" length-beats="1" id="79571" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.106" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6494727" beat="539.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="123" start-beats="0" length-beats="1" id="79574" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.107" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6590945" beat="547.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="124" start-beats="0" length-beats="1" id="79577" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.108" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6687163" beat="555.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="125" start-beats="0" length-beats="1" id="79580" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.110" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="6771354" beat="562.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="126" start-beats="0" length-beats="1" id="79586" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.111" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6783381" beat="563.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="127" start-beats="0" length-beats="1" id="79589" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.112" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6867572" beat="570.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="128" start-beats="0" length-beats="1" id="79592" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.113" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6879600" beat="572" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="129" start-beats="0" length-beats="1" id="79595" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.114" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6975818" beat="579.999984883" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="130" start-beats="0" length-beats="1" id="79601" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.115" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6987845" beat="580.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="131" start-beats="0" length-beats="1" id="79604" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7011900" beat="583" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="132" start-beats="0" length-beats="0.499947089947" id="79607" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-4.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="7017913" beat="583.49994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="133" start-beats="0" length-beats="0.499947089947" id="79610" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
-      <Region name="Kick-1.116" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7023927" beat="583.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="134" start-beats="0" length-beats="1" id="79613" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.117" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7035954" beat="584.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="135" start-beats="0" length-beats="1" id="79616" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7060009" beat="586.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="136" start-beats="0" length-beats="0.499947089947" id="79619" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-4.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7066022" beat="587.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="137" start-beats="0" length-beats="0.499947089947" id="79622" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
-      <Region name="Kick-1.118" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7072036" beat="587.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="138" start-beats="0" length-beats="1" id="79625" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7120145" beat="591.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="139" start-beats="0" length-beats="0.499947089947" id="80086" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7126159" beat="592.499992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="140" start-beats="0" length-beats="0.499947089947" id="80092" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7132172" beat="592.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="141" start-beats="0" length-beats="0.499947089947" id="80102" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7138186" beat="593.499969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="142" start-beats="0" length-beats="0.499947089947" id="80112" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7144200" beat="594" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="143" start-beats="0" length-beats="0.499947089947" id="80122" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="7150213" beat="594.49994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="144" start-beats="0" length-beats="0.499947089947" id="80132" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7156227" beat="594.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="145" start-beats="0" length-beats="0.499947089947" id="80142" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7162240" beat="595.499924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="146" start-beats="0" length-beats="0.499947089947" id="80152" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.127" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7168254" beat="595.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="147" start-beats="0" length-beats="1" id="80167" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7312581" beat="607.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="148" start-beats="0" length-beats="0.499947089947" id="108278" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7318595" beat="608.499962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="149" start-beats="0" length-beats="0.499947089947" id="108281" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7324608" beat="608.999909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="150" start-beats="0" length-beats="0.499947089947" id="108284" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7330622" beat="609.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="151" start-beats="0" length-beats="0.499947089947" id="108287" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7336636" beat="609.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="152" start-beats="0" length-beats="0.499947089947" id="108290" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7342649" beat="610.499916856" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="153" start-beats="0" length-beats="0.499947089947" id="108293" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6012" position="7348663" beat="610.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="154" start-beats="0" length-beats="0.499947089947" id="108296" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-3.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7354676" beat="611.49989418" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="155" start-beats="0" length-beats="0.499947089947" id="108299" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.129" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7360690" beat="611.999924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="156" start-beats="0" length-beats="1" id="108302" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.128" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7402786" beat="615.499969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="157" start-beats="0" length-beats="1" id="108384" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.131" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7420827" beat="616.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="158" start-beats="0" length-beats="1" id="108430" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.132" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7456909" beat="619.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="159" start-beats="0" length-beats="1" id="108440" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7492990" beat="622.999924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="160" start-beats="0" length-beats="0.499947089947" id="108492" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.133" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7499004" beat="623.499954649" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="161" start-beats="0" length-beats="1" id="108495" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.135" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7517045" beat="624.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="162" start-beats="0" length-beats="1" id="108522" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.134" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7553127" beat="627.999977324" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="163" start-beats="0" length-beats="1" id="108560" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.136" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7595222" beat="631.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="164" start-beats="0" length-beats="1" id="108563" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.137" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7613263" beat="632.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="165" start-beats="0" length-beats="1" id="108566" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.138" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7649345" beat="635.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="166" start-beats="0" length-beats="1" id="108569" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.45" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7685427" beat="638.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="167" start-beats="0" length-beats="0.499947089947" id="108572" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.139" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7691440" beat="639.499924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="168" start-beats="0" length-beats="1" id="108575" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.47" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7703468" beat="640.499984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="170" start-beats="0" length-beats="0.499947089947" id="108602" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.140" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7709481" beat="640.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="169" start-beats="0" length-beats="1" id="108578" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.141" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7745563" beat="643.99994709" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="171" start-beats="0" length-beats="1" id="108694" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.142" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7787659" beat="647.499992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="172" start-beats="0" length-beats="1" id="108697" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.143" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7805700" beat="649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="173" start-beats="0" length-beats="1" id="108700" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.144" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7841781" beat="651.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="174" start-beats="0" length-beats="1" id="108703" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.46" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6012" position="7877863" beat="654.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="175" start-beats="0" length-beats="0.499947089947" id="108706" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.145" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7883877" beat="655.499977324" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="176" start-beats="0" length-beats="1" id="108709" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.146" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7901918" beat="656.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="177" start-beats="0" length-beats="1" id="108712" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.147" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7938000" beat="660" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="178" start-beats="0" length-beats="1" id="108715" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.148" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7980095" beat="663.499962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="179" start-beats="0" length-beats="1" id="108718" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.149" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7998136" beat="664.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="180" start-beats="0" length-beats="1" id="108721" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.150" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8034218" beat="667.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="181" start-beats="0" length-beats="1" id="108724" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.48" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8070300" beat="671" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="182" start-beats="0" length-beats="0.499947089947" id="108727" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.151" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8076313" beat="671.49994709" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="183" start-beats="0" length-beats="1" id="108730" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.49" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8088341" beat="672.500007559" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="184" start-beats="0" length-beats="0.499947089947" id="108733" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.152" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8094354" beat="672.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="185" start-beats="0" length-beats="1" id="108736" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.154" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8130436" beat="675.999969766" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="186" start-beats="0" length-beats="1" id="109026" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.155" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8172531" beat="679.499931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="187" start-beats="0" length-beats="1" id="109029" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.156" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8190572" beat="680.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="188" start-beats="0" length-beats="1" id="109032" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.157" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8226654" beat="683.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="189" start-beats="0" length-beats="1" id="109035" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-3.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8262736" beat="686.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="190" start-beats="0" length-beats="0.499947089947" id="109038" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
-      <Region name="Kick-1.158" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8268749" beat="687.499916856" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="191" start-beats="0" length-beats="1" id="109041" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
-      <Region name="Kick-1.159" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8286790" beat="688.999924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="192" start-beats="0" length-beats="1" id="109047" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.98" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="6206072" beat="516" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="111" start-beats="0" length-beats="1" id="62111" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6218100" beat="517" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="112" start-beats="0" length-beats="1" id="62114" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6242155" beat="519.000037793" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="113" start-beats="0" length-beats="0.499947089947" id="62117" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6248168" beat="519.499984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="114" start-beats="0" length-beats="0.499947089947" id="62120" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.100" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6254182" beat="520.000015117" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="115" start-beats="0" length-beats="1" id="62123" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.101" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6266209" beat="520.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="116" start-beats="0" length-beats="1" id="62126" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6290264" beat="523.000030234" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="117" start-beats="0" length-beats="0.499947089947" id="62129" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="6296277" beat="523.499977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="118" start-beats="0" length-beats="0.499947089947" id="62132" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.102" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6302291" beat="524.000007559" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="119" start-beats="0" length-beats="1" id="62135" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.104" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6398509" beat="531.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="120" start-beats="0" length-beats="1" id="79568" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.105" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6482700" beat="539" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="121" start-beats="0" length-beats="1" id="79571" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.106" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6494727" beat="539.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="122" start-beats="0" length-beats="1" id="79574" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.107" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6590945" beat="547.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="123" start-beats="0" length-beats="1" id="79577" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.108" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6687163" beat="555.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="124" start-beats="0" length-beats="1" id="79580" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.110" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="6771354" beat="562.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="125" start-beats="0" length-beats="1" id="79586" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.111" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6783381" beat="563.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="126" start-beats="0" length-beats="1" id="79589" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.112" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6867572" beat="570.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="127" start-beats="0" length-beats="1" id="79592" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.113" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6879600" beat="572" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="128" start-beats="0" length-beats="1" id="79595" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.114" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6975818" beat="579.999984883" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="129" start-beats="0" length-beats="1" id="79601" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.115" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="6987845" beat="580.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="130" start-beats="0" length-beats="1" id="79604" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7011900" beat="583" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="131" start-beats="0" length-beats="0.499947089947" id="79607" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="7017913" beat="583.49994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="132" start-beats="0" length-beats="0.499947089947" id="79610" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.116" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7023927" beat="583.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="133" start-beats="0" length-beats="1" id="79613" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.117" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7035954" beat="584.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="134" start-beats="0" length-beats="1" id="79616" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7060009" beat="586.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="135" start-beats="0" length-beats="0.499947089947" id="79619" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-4.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7066022" beat="587.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="136" start-beats="0" length-beats="0.499947089947" id="79622" type="midi" first-edit="nothing" source-0="3715" master-source-0="3715"/>
+      <Region name="Kick-1.118" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7072036" beat="587.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="137" start-beats="0" length-beats="1" id="79625" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7120145" beat="591.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="138" start-beats="0" length-beats="0.499947089947" id="80086" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7126159" beat="592.499992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="139" start-beats="0" length-beats="0.499947089947" id="80092" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7132172" beat="592.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="140" start-beats="0" length-beats="0.499947089947" id="80102" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7138186" beat="593.499969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="141" start-beats="0" length-beats="0.499947089947" id="80112" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7144200" beat="594" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="142" start-beats="0" length-beats="0.499947089947" id="80122" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6013" position="7150213" beat="594.49994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="143" start-beats="0" length-beats="0.499947089947" id="80132" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7156227" beat="594.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="144" start-beats="0" length-beats="0.499947089947" id="80142" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7162240" beat="595.499924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="145" start-beats="0" length-beats="0.499947089947" id="80152" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.127" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7168254" beat="595.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="146" start-beats="0" length-beats="1" id="80167" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7312581" beat="607.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="147" start-beats="0" length-beats="0.499947089947" id="108278" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7318595" beat="608.499962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="148" start-beats="0" length-beats="0.499947089947" id="108281" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7324608" beat="608.999909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="149" start-beats="0" length-beats="0.499947089947" id="108284" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7330622" beat="609.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="150" start-beats="0" length-beats="0.499947089947" id="108287" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7336636" beat="609.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="151" start-beats="0" length-beats="0.499947089947" id="108290" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7342649" beat="610.499916856" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="152" start-beats="0" length-beats="0.499947089947" id="108293" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6012" position="7348663" beat="610.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="153" start-beats="0" length-beats="0.499947089947" id="108296" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-3.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7354676" beat="611.49989418" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="154" start-beats="0" length-beats="0.499947089947" id="108299" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.129" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7360690" beat="611.999924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="155" start-beats="0" length-beats="1" id="108302" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.128" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7402786" beat="615.499969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="156" start-beats="0" length-beats="1" id="108384" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.131" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7420827" beat="616.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="157" start-beats="0" length-beats="1" id="108430" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.132" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7456909" beat="619.999992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="158" start-beats="0" length-beats="1" id="108440" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7492990" beat="622.999924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="159" start-beats="0" length-beats="0.499947089947" id="108492" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.133" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7499004" beat="623.499954649" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="160" start-beats="0" length-beats="1" id="108495" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.135" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7517045" beat="624.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="161" start-beats="0" length-beats="1" id="108522" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.134" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7553127" beat="627.999977324" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="162" start-beats="0" length-beats="1" id="108560" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.136" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7595222" beat="631.499939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="163" start-beats="0" length-beats="1" id="108563" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.137" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7613263" beat="632.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="164" start-beats="0" length-beats="1" id="108566" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.138" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7649345" beat="635.999962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="165" start-beats="0" length-beats="1" id="108569" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.45" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7685427" beat="638.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="166" start-beats="0" length-beats="0.499947089947" id="108572" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.139" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7691440" beat="639.499924414" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="167" start-beats="0" length-beats="1" id="108575" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.47" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="7703468" beat="640.499984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="169" start-beats="0" length-beats="0.499947089947" id="108602" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.140" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7709481" beat="640.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="168" start-beats="0" length-beats="1" id="108578" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.141" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="7745563" beat="644" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="170" start-beats="0" length-beats="1" id="108694" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.142" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7787659" beat="647.499992441" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="171" start-beats="0" length-beats="1" id="108697" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.143" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7805700" beat="649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="172" start-beats="0" length-beats="1" id="108700" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.144" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7841781" beat="651.999931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="173" start-beats="0" length-beats="1" id="108703" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.46" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="6012" position="7877863" beat="654.99994709" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="174" start-beats="0" length-beats="0.499947089947" id="108706" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.145" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7883877" beat="655.499977324" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="175" start-beats="0" length-beats="1" id="108709" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.146" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7901918" beat="656.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="176" start-beats="0" length-beats="1" id="108712" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.147" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7938000" beat="660" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="177" start-beats="0" length-beats="1" id="108715" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.148" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7980095" beat="663.499962207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="178" start-beats="0" length-beats="1" id="108718" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.149" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="7998136" beat="664.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="179" start-beats="0" length-beats="1" id="108721" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.150" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8034218" beat="667.999984883" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="180" start-beats="0" length-beats="1" id="108724" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.48" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8070300" beat="671" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="181" start-beats="0" length-beats="0.499947089947" id="108727" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.151" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8076313" beat="671.49994709" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="182" start-beats="0" length-beats="1" id="108730" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.49" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8088341" beat="672.500007559" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="183" start-beats="0" length-beats="0.499947089947" id="108733" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.152" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8094354" beat="672.999954649" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="184" start-beats="0" length-beats="1" id="108736" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.154" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8130436" beat="675.999969766" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="185" start-beats="0" length-beats="1" id="109026" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.155" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8172531" beat="679.499931973" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="186" start-beats="0" length-beats="1" id="109029" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.156" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8190572" beat="680.999939531" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="187" start-beats="0" length-beats="1" id="109032" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.157" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1" length="12027" position="8226654" beat="684" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="188" start-beats="0" length-beats="1" id="109035" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-3.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6012" position="8262736" beat="686.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="189" start-beats="0" length-beats="0.499947089947" id="109038" type="midi" first-edit="nothing" source-0="3669" master-source-0="3669"/>
+      <Region name="Kick-1.158" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8268749" beat="687.499916856" sync-position="1" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="190" start-beats="0" length-beats="1" id="109041" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
+      <Region name="Kick-1.159" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12027" position="8286790" beat="688.999924414" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="191" start-beats="0" length-beats="1" id="109047" type="midi" first-edit="nothing" source-0="372" master-source-0="372"/>
     </Playlist>
     <Playlist id="4152" name="PulsingLead.1" type="midi" orig-track-id="4110" frozen="no" combine-ops="0">
       <Region name="PulsingLead-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48110" length="384872" position="432981" beat="35.9999319728" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4" length-beats="32" id="4466" type="midi" first-edit="nothing" source-0="4464" master-source-0="4464"/>
@@ -5632,7 +5689,7 @@
     </Playlist>
     <Playlist id="28975" name="chord.1" type="midi" orig-track-id="28933" frozen="no" combine-ops="0">
       <Region name="chord-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1401178" position="186422" beat="15.4999395314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="116.500060469" id="29229" type="midi" first-edit="nothing" source-0="28977" master-source-0="28977"/>
-      <Region name="chord-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="555007" position="4907127" beat="408" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="46.1457898715" id="56225" type="midi" first-edit="nothing" source-0="54097" master-source-0="54097"/>
+      <Region name="chord-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="555007" position="4907127" beat="407.999977324" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="46.1457898715" id="56225" type="midi" first-edit="nothing" source-0="54097" master-source-0="54097"/>
       <Region name="chord-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="234532" length="1166645" position="5616736" beat="466.999969766" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="19.5" length-beats="97" id="61861" type="midi" first-edit="nothing" source-0="28977" master-source-0="28977"/>
       <Region name="chord-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="234532" length="390886" position="6777368" beat="563.499984883" sync-position="234532" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="19.5" length-beats="32.5" id="108252" type="midi" first-edit="nothing" source-0="28977" master-source-0="28977"/>
       <Region name="chord-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="977920" position="7552000" beat="627.906273621" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="81.3085411943" id="109408" type="midi" first-edit="nothing" source-0="106385" master-source-0="106385"/>
@@ -5705,8 +5762,8 @@
         <Field name="session" enabled="false"/>
         <Field name="timespan" enabled="true"/>
         <Field name="revision" enabled="false"/>
-        <Field name="time" enabled="false" value="T_None"/>
-        <Field name="date" enabled="false" value="D_None"/>
+        <Field name="time" enabled="true" value="T_Delim"/>
+        <Field name="date" enabled="true" value="D_BEShortY"/>
       </ExportFilename>
     </ExportProfile>
     <UI>
@@ -5717,7 +5774,7 @@
       <Window name="add-routes" visible="no" x-off="-1" y-off="-1" x-size="339" y-size="315"/>
       <Window name="add-video" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="no" x-off="228" y-off="436" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="no" x-off="786" y-off="411" x-size="554" y-size="403"/>
+      <Window name="audio-midi-setup" visible="no" x-off="1684" y-off="1087" x-size="554" y-size="403"/>
       <Window name="video-export" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="bundle-manager" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5726,8 +5783,8 @@
       <Window name="audio-connection-manager" visible="no" x-off="0" y-off="260" x-size="499" y-size="476"/>
       <Window name="midi-connection-manager" visible="no" x-off="0" y-off="304" x-size="958" y-size="453"/>
       <Window name="RPM-154" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-51" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-612" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-51" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-1786" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3286" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4110" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5738,52 +5795,50 @@
       <Window name="RPM-28933" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-33686" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-120463" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-150395" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-154-220" visible="no" x-off="212" y-off="309" x-size="477" y-size="53" custom-ui="no"/>
+      <Window name="P-154-150495" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-154-120560" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-154-184" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-154-186" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-154-187" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="PM-220-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150495-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120560-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-184-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-186-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-187-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28518-28642" visible="no" x-off="729" y-off="328" x-size="453" y-size="53" custom-ui="yes"/>
-      <Window name="P-28518-120735" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-28518-28548" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-28518-28550" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-28518-28551" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-28642-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-120735-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-28548-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-28550-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-28551-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-51-82" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-81" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-144300" visible="no" x-off="1062" y-off="681" x-size="753" y-size="434" custom-ui="yes"/>
-      <Window name="P-51-83" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="P-51-84" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-82-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-81-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-144300-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-83-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-84-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-612-120857" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-684" visible="no" x-off="431" y-off="457" x-size="463" y-size="53" custom-ui="no"/>
+      <Window name="P-612-150517" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-120582" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-642" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-644" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-612-645" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="PM-120857-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-684-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150517-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120582-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-642-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-644-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-645-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-51-82" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-150348" visible="no" x-off="687" y-off="395" x-size="753" y-size="434" custom-ui="no"/>
+      <Window name="P-51-144300" visible="no" x-off="1062" y-off="681" x-size="753" y-size="434" custom-ui="no"/>
+      <Window name="P-51-81" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-83" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-51-84" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-82-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150348-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-144300-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-81-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-83-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-84-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1786-1821" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-1817" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-33356" visible="no" x-off="878" y-off="895" x-size="583" y-size="204" custom-ui="no"/>
       <Window name="P-1786-1841" visible="no" x-off="444" y-off="237" x-size="496" y-size="53" custom-ui="no"/>
+      <Window name="P-1786-150539" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-120604" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-1816" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-1786-1818" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -5792,16 +5847,19 @@
       <Window name="PM-1817-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-33356-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1841-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150539-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120604-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1816-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1818-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1819-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3286-3378" visible="no" x-off="441" y-off="237" x-size="511" y-size="53" custom-ui="no"/>
+      <Window name="P-3286-150473" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-120626" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-3316" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-3318" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-3286-3319" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="PM-3378-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150473-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120626-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3316-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3318-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5826,7 +5884,7 @@
       <Window name="PM-4937-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4939-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4940-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7176-7286" visible="no" x-off="702" y-off="340" x-size="463" y-size="53" custom-ui="no"/>
+      <Window name="P-7176-7286" visible="no" x-off="702" y-off="340" x-size="463" y-size="53" custom-ui="yes"/>
       <Window name="P-7176-120692" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7176-7206" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-7176-7208" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -5846,6 +5904,20 @@
       <Window name="PM-7618-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7620-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-7621-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28518-28642" visible="no" x-off="729" y-off="328" x-size="453" y-size="53" custom-ui="yes"/>
+      <Window name="P-28518-150257" visible="no" x-off="772" y-off="485" x-size="583" y-size="255" custom-ui="no"/>
+      <Window name="P-28518-120735" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-28518-150796" visible="no" x-off="1663" y-off="483" x-size="583" y-size="192" custom-ui="yes"/>
+      <Window name="P-28518-28548" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-28518-28550" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-28518-28551" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="PM-28642-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150257-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-120735-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150796-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28548-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28550-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28551-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-28933-29066" visible="no" x-off="0" y-off="9" x-size="458" y-size="53" custom-ui="no"/>
       <Window name="P-28933-120757" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-28933-28963" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
@@ -5878,49 +5950,26 @@
       <Window name="PM-120493-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120495-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-120496-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28518-150257" visible="no" x-off="772" y-off="485" x-size="583" y-size="255" custom-ui="yes"/>
-      <Window name="PM-150257-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-51-150348" visible="no" x-off="687" y-off="395" x-size="753" y-size="434" custom-ui="yes"/>
-      <Window name="PM-150348-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-150395" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-150395-150431" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-150395-150426" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
+      <Window name="P-150395-150452" visible="no" x-off="687" y-off="395" x-size="753" y-size="434" custom-ui="yes"/>
       <Window name="P-150395-150425" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-150395-150427" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="P-150395-150428" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
       <Window name="PM-150431-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-150426-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-150452-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-150425-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-150427-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-150428-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-150395-150452" visible="no" x-off="687" y-off="395" x-size="753" y-size="434" custom-ui="yes"/>
-      <Window name="PM-150452-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3286-150473" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150473-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-154-150495" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150495-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-612-150517" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150517-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-1786-150539" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150539-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4110-150561" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150561-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4907-150583" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150583-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7176-150605" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150605-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7588-150627" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150627-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28518-150649" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150649-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28933-150671" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150671-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-33686-150693" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150693-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-120463-150715" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="no"/>
-      <Window name="PM-150715-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-28518-150796" visible="no" x-off="1663" y-off="483" x-size="583" y-size="192" custom-ui="yes"/>
-      <Window name="PM-150796-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-7588-163359" visible="no" x-off="1585" y-off="1071" x-size="753" y-size="434" custom-ui="yes"/>
+      <Window name="PM-163359-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28933-163382" visible="no" x-off="1585" y-off="1071" x-size="753" y-size="434" custom-ui="yes"/>
+      <Window name="PM-163382-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-7176-163405" visible="no" x-off="1585" y-off="1071" x-size="753" y-size="434" custom-ui="yes"/>
+      <Window name="PM-163405-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28518-163427" visible="no" x-off="1585" y-off="1071" x-size="753" y-size="434" custom-ui="yes"/>
+      <Window name="PM-163427-" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 51" height="66" visible="1"/>
         <Object id="automation 55" height="66" visible="0"/>
@@ -6104,7 +6153,7 @@
         </Object>
         <Object id="automation 4129" height="66" visible="0"/>
         <Object id="automation 4133" height="66" visible="0"/>
-        <Object id="rtav 4907" height="63" visible="1" note-range-min="80" note-range-max="103" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 4907" height="62" visible="1" note-range-min="80" note-range-max="103" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 4911" height="66" visible="0"/>
         <Object id="automation 4907 12/0/0" height="66" visible="0"/>
         <Object id="strip 4907" strip-width="Wide" visible="1">
@@ -6119,7 +6168,7 @@
         </Object>
         <Object id="automation 4926" height="66" visible="0"/>
         <Object id="automation 4930" height="66" visible="0"/>
-        <Object id="rtav 7176" height="66" visible="1" note-range-min="36" note-range-max="71" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 7176" height="325" visible="1" note-range-min="35" note-range-max="66" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 7180" height="66" visible="0"/>
         <Object id="automation 7176 12/0/0" height="66" visible="0"/>
         <Object id="strip 7176" strip-width="Wide" visible="1">
@@ -6131,6 +6180,7 @@
           <Object id="processor 150605">
             <Object id="control 150619" visible="1"/>
           </Object>
+          <Object id="processor 163405"/>
         </Object>
         <Object id="automation 7195" height="66" visible="0"/>
         <Object id="automation 7199" height="66" visible="0"/>
@@ -6293,6 +6343,7 @@
           <Object id="processor 150627">
             <Object id="control 150641" visible="1"/>
           </Object>
+          <Object id="processor 163359"/>
         </Object>
         <Object id="automation 7607" height="66" visible="0"/>
         <Object id="automation 7611" height="66" visible="0"/>
@@ -6388,6 +6439,7 @@
             <Object id="control 150663" visible="1"/>
           </Object>
           <Object id="processor 150796"/>
+          <Object id="processor 163427"/>
         </Object>
         <Object id="automation 28537" height="62" visible="0"/>
         <Object id="automation 28541" height="62" visible="0"/>
@@ -6406,10 +6458,11 @@
           <Object id="processor 150671">
             <Object id="control 150685" visible="1"/>
           </Object>
+          <Object id="processor 163382"/>
         </Object>
         <Object id="automation 28952" height="62" visible="0"/>
         <Object id="automation 28956" height="62" visible="0"/>
-        <Object id="rtav 33686" height="291" visible="1" note-range-min="60" note-range-max="80" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 33686" height="291" visible="1" note-range-min="58" note-range-max="80" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 33690" height="62" visible="0"/>
         <Object id="automation 33686 12/0/0" height="62" visible="0"/>
         <Object id="strip 33686" strip-width="Wide" visible="1">
